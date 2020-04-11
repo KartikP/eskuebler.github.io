@@ -379,7 +379,7 @@ data-page-list="[10, 25, 50, 100, all]"
 	html.push('<div class="grid-container">');
     	$.each(row, function (key, value) {
 			if (typeof value == "number") {
-      		html.push('<div class="grid-item" data-toggle="tooltip" data-placement="top" title="' + key + '""><b>' + key + '</b>: ' + value + '</div>');}
+      		html.push('<div class="grid-item" data-toggle="tooltip" data-placement="top" title="' + key + '""><b>' + key + '</b>: ' + (Math.round(value * 1000)/1000) + '</div>');}
     	})
 	html.push('</div>');
 	html.push('</div>');
@@ -445,12 +445,15 @@ data-page-list="[10, 25, 50, 100, all]"
 					data = []
 					var i = 1
 					rows.forEach(function(row) {
-						var rowdata =  Object.keys(row).map(function(e) {
+						
+						var sweepname = Math.round(row[Object.keys(row)[0]].toString()) + ' pA'
+						delete row[Object.keys(row)[0]].toString()
+						var rowdata =  Object.keys(row).map(function(e) { 
   																return row[e]
 															})
 						var timeseries = Object.keys(row);
 						
-						var sweepname = 'Sweep ' + i
+						
 						var trace = {
                       			type: 'scatter',                    // set the chart type
 								mode: 'lines',                      // connect points with lines
