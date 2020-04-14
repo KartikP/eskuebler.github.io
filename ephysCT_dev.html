@@ -82,6 +82,7 @@ if (pass == null || pass == "") {
 	  
 	<section>
             <h2 Class = "text-center" id= "electrophystitle">Ex Vivo Data - Electrophysiology&nbsp;</h2>
+		<div id="overlay" onclick="off()" class="align-content-center"><iframe id="reportBox" src="https://docs.google.com/forms/d/e/1FAIpQLSeBwt-6nn1_Z72E7oc-3ynNVbJGFr5v3RI-q7zuneiKix53Jw/viewform?embedded=true&usp=pp_url&entry.773611234=Cell" width="640" height="741" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
     </section>
 	  
 	  
@@ -311,6 +312,7 @@ data-page-list="[10, 25, 50, 100, all]"
 	<th colspan="7"></th>
 	<th data-field="link" data-formatter="linkFormatter" rowspan="2" data-halign="center">Link</th>
 	<th data-field="Morphology" data-sortable="true" data-formatter="morphFormatter" rowspan="2" data-valign="right">Morphology</th>
+	<th data-field="ID" data-sortable="false" data-formatter="reportFormatter" rowspan="2" data-valign="right"></th>
 	</tr>
     <tr>
       <th data-field="Resistence" data-formatter="nameFormatter" data-sortable="true">Resistence</th>
@@ -345,6 +347,9 @@ data-page-list="[10, 25, 50, 100, all]"
 		
 	function imageFormatter(value, row) {
     		return '<img src="images/previews/' + row.ID +'.png" style="width:50px;height:50px;" onerror=this.src="images/backup.png" />';
+		}
+	function reportFormatter(value, row) {
+    		return '<a class="fa fa-exclamation-circle" onclick="on(\'' + row.ID + '\')"></a>';
 		}
 	function linkFormatter(value, row) {
 		/*return '<div class="dropright"><button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  onclick="showtoast()"">Download</button><div class="dropdown-menu"> <button id="dlzip" class="dropdown-item" href="#" class="btn btn-primary">Download (zip/abf)</button> <button id="dlnwb" class="dropdown-item" href="#">Download (NWB)</button></div></div>';*/
@@ -404,6 +409,14 @@ data-page-list="[10, 25, 50, 100, all]"
         }
     return urlparameter;
 };		
+	function on(ID) {
+		document.getElementById("reportBox").outerHTML = '<iframe id="reportBox" src="https://docs.google.com/forms/d/e/1FAIpQLSeBwt-6nn1_Z72E7oc-3ynNVbJGFr5v3RI-q7zuneiKix53Jw/viewform?embedded=true&usp=pp_url&entry.773611234=' + ID + '" width="640" height="741" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>'
+  document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+  document.getElementById("overlay").style.display = "none";
+}
 	function filterByPlot(keys, ranges){		
 		jQuery.get("data/data.json").done(function(data){
 		var ids = []
