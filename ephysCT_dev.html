@@ -446,7 +446,7 @@ data-page-list="[10, 25, 50, 100, all]"
 					var i = 1
 					rows.forEach(function(row) {
 						
-						var sweepname = Math.round(row[Object.keys(row)[0]].toString()) + ' pA'
+						var sweepname = 'Sweep ' + i + ': ' + Math.round(row[Object.keys(row)[0]].toString()) + ' pA'
 						delete row[Object.keys(row)[0]]
 						var rowdata =  Object.keys(row).map(function(e) { 
   																return row[e]
@@ -460,6 +460,7 @@ data-page-list="[10, 25, 50, 100, all]"
                       			name: sweepname,
                       			y: rowdata,
 								x: timeseries,
+								hovertemplate: '%{x} S, %{y} mV',
                       line: {                             // set the width of the line.
                         width: 1,
 						shape: 'spline',
