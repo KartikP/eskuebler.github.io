@@ -447,7 +447,7 @@ data-page-list="[10, 25, 50, 100, all]"
 					rows.forEach(function(row) {
 						
 						var sweepname = Math.round(row[Object.keys(row)[0]].toString()) + ' pA'
-						delete row[Object.keys(row)[0]].toString()
+						delete row[Object.keys(row)[0]]
 						var rowdata =  Object.keys(row).map(function(e) { 
   																return row[e]
 															})
