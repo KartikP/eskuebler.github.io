@@ -453,7 +453,7 @@ function off() {
 	return ids;
   }
 	function maketrace(row){
-		var url = "https://raw.githubusercontent.com/smestern/LPtraces/master/" + row.ID + ".csv"
+		var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.ID + ".csv"
 		Plotly.d3.csv(url, function(rows){
 					data = []
 					var i = 1
