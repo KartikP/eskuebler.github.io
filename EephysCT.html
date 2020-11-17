@@ -297,19 +297,17 @@ data-page-list="[10, 25, 50, 100, all]"
 	<th data-field="state" data-checkbox="true" rowspan="2"></th>
 	<th data-field="ID" data-sortable="true" data-formatter="nameFormatter" rowspan="2" >Cell ID</th> 
 	<th data-field="preview" data-formatter="imageFormatter" rowspan="2" data-valign="middle"></th>
-	<th colspan="7"></th>
+	<th colspan="3"></th>
 	<th data-field="link" data-formatter="linkFormatter" rowspan="2" data-halign="center">Link</th>
 	<th data-field="ID" data-sortable="false" data-formatter="reportFormatter" rowspan="2" data-valign="right"></th>
 	</tr>
     <tr>
       <th data-field="firing rate" data-formatter="nameFormatter" data-sortable="true">firing rate
 </th>
-      <th data-field="sag" data-formatter="nameFormatter" data-sortable="true">Sag</th>
-	  <th data-field="rheobaseLP" data-formatter="nameFormatter" data-sortable="true">Rheobase</th>
-	  <th data-field="peakLP" data-formatter="nameFormatter" data-sortable="true">Peak</th>
-	  <th data-field="time_constant" data-formatter="nameFormatter" data-sortable="true">Time Constant</th>
-      <th data-field="delay" data-formatter="nameFormatter" data-sortable="true">Delay</th>
-	  <th data-field="halfWidthTP" data-formatter="nameFormatter" data-sortable="true">AP Width</th>
+      <th data-field="peak to trough" data-formatter="nameFormatter" data-sortable="true">Peak To Trough
+</th>
+	  <th data-field="peak to trough ratio" data-formatter="nameFormatter" data-sortable="true">Peak to Trough Ratio</th>
+	  
     </tr>
 	  </thead>
 </table>
@@ -442,14 +440,19 @@ function off() {
   }
   		*/
 	function maketrace(row){
-		var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.ID + ".csv"
+		console.log(row.ID)
+		var cell_id = row.ID
+		var url = "data/ecephys_wave.csv"
 		Plotly.d3.csv(url, function(rows){
 					data = []
 					var i = 1
+					var a = rows.indexOf(row.ID)
+					
 					rows.forEach(function(row) {
 						
-						var sweepname = 'Sweep ' + i + ': ' + Math.round(row[Object.keys(row)[0]].toString()) + ' pA'
+						var sweepname = row[Object.keys(row)[0]].toString()
 						delete row[Object.keys(row)[0]]
+						if (sweepname == cell_id){console.log("HEHER")
 						var rowdata =  Object.keys(row).map(function(e) { 
   																return row[e]
 															})
@@ -463,15 +466,16 @@ function off() {
                       			y: rowdata,
 								x: timeseries,
 								hovertemplate: '%{x} S, %{y} mV',
-                      line: {                             // set the width of the line.
-                        width: 1,
-						shape: 'spline',
-						smoothing: 0.5
-                      }
+								line: {                             // set the width of the line.
+									width: 1,
+									shape: 'spline',
+									smoothing: 0.5
+								  }
 						
-                    };
+							};
 						data.push(trace);
                         i += 1;
+												 }
 					});
 					
                    
