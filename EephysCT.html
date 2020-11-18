@@ -130,13 +130,13 @@ rows.forEach(function(row) {
 						var timeseries = Object.keys(row);
 	
 						var sweepname = row.ID
-						if (row.half_width != 0){
+						console.log(row)
 						var trace = {
                       			type: 'scatter',                    // set the chart type
 								mode: 'markers',                      // connect points with lines
                       			name: sweepname,
-                      			x: [row.half_width],
-								y: [row.height],
+                      			x: [row["firing rate"]],
+								y: [row["peak to trough"]],
 								marker: {colorscale: 'Bluered',
 											cmin:0,
 											cmax:3,
@@ -145,7 +145,7 @@ rows.forEach(function(row) {
 						 };
 						data.push(trace);
 						
-						}
+						
 					
                     
 					});
@@ -155,8 +155,8 @@ var layout = {
 	dragmode: 'lasso',
 	colorway: 'Bluered',
 	width: 1300,
-	xaxis: {title: 'Half Width (ms)',},
-	yaxis: {title: 'AP Height (mV)',},
+	xaxis: {title: 'Firing Rate (Hz)',},
+	yaxis: {title: 'Peak to Trough (mV)',},
 	margin: {t: 10,},
 };
 
@@ -189,7 +189,7 @@ graphDiv.on('plotly_selected', function(eventData){
 	
 	<script> 
 		
-Plotly.d3.csv('data/WEB_DATA.csv', function(err, rows){
+Plotly.d3.csv('data/ecephys_var.csv', function(err, rows){
  			
 function unpack(rows, key) {
   return rows.map(function(row) { 
@@ -202,33 +202,21 @@ var data = [{
   pad: [80,80,80,80],
   line: {
 	colorscale: 'Bluered',
-	color: unpack(rows, 'peakLP')
+	color: unpack(rows, 'peak to trough ratio')
   },
 
   dimensions: [{
-    range: [0, 1500],
-    label: 'Resistence',
-    values: unpack(rows, 'Resistence')
+    range: [0, 80],
+    label: 'Firing Rate',
+    values: unpack(rows, 'firing rate')
   }, {
-    range: [0,120],
-    label: 'Sag',
-    values: unpack(rows, 'sag')
+    range: [0,1],
+    label: 'Peak to Trough',
+    values: unpack(rows, 'peak to trough')
   }, {
-    label: 'Rheobase',
-    range: [0, 500],
-    values: unpack(rows, 'rheobaseLP')
-  }, {
-    label: 'Time Constant',
-    range: [0, 50],
-    values: unpack(rows, 'time_constant')
-  },{
-    label: 'Half Width',
-    range: [0, 3.8],
-    values: unpack(rows, 'half_width')
-  }, {
-    label: 'Peak',
-    range: [-10, 70],
-    values: unpack(rows, 'peakLP')
+    label: 'Peak to Trough Ratio',
+    range: [0, 5],
+    values: unpack(rows, 'peak to trough ratio')
   }]
 }];
 
@@ -339,7 +327,7 @@ data-page-list="[10, 25, 50, 100, all]"
 		}
 	function linkFormatter(value, row) {
 		/*return '<div class="dropright"><button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  onclick="showtoast()"">Download</button><div class="dropdown-menu"> <button id="dlzip" class="dropdown-item" href="#" class="btn btn-primary">Download (zip/abf)</button> <button id="dlnwb" class="dropdown-item" href="#">Download (NWB)</button></div></div>';*/
-    return '<div class="dropright"><button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Download</button><div class="dropdown-menu"> <a class="dropdown-item" href="http://primatedatabase.com/download?cell='+ row.ID +'.abf" target="_blank" class="btn btn-primary">Download (abf)</a> <a class= "dropdown-item" href="http://primatedatabase.com/download?cell='+ row.ID +'.nwb" target="_blank">Download (NWB)</a></div></div>';
+    return '<div class="dropright"><button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Download</button><div class="dropdown-menu"> <a class="dropdown-item" href="http://primatedatabase.com/download?cell='+ row.ID +'.abf" target="_blank" class="btn btn-primary">Download (plexon)</a> <a class= "dropdown-item" href="http://primatedatabase.com/download?cell='+ row.ID +'.nwb" target="_blank">Download (NWB)</a></div></div>';
 	}
 	function morphFormatter(value, row) {
 		if(value){
@@ -425,7 +413,7 @@ function off() {
 		let result = newArray.map(function(a) { return a.ID; });
 		
 		$table.bootstrapTable('filterBy',{'ID': result})})
-	}
+	}*/
 	function filterByID(ids){		
 		$table.bootstrapTable('filterBy',{'ID': ids})
 	}		
@@ -438,7 +426,7 @@ function off() {
 	
 	return ids;
   }
-  		*/
+  		
 	function maketrace(row){
 		console.log(row.ID)
 		var cell_id = row.ID

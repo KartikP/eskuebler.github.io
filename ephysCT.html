@@ -110,7 +110,7 @@
 	
 	<script> 
 		
-Plotly.d3.csv('data/WEB_DATA.csv', function(err, rows){
+Plotly.d3.csv('data/WEB_DATA2.csv', function(err, rows){
  			
 function unpack(rows, key) {
   return rows.map(function(row) { 
@@ -128,9 +128,10 @@ rows.forEach(function(row) {
   																return row[e]
 															})
 						var timeseries = Object.keys(row);
-	
+						console.log(row)
 						var sweepname = row.ID
 						if (row.half_width != 0){
+							console.log(row)
 						var trace = {
                       			type: 'scatter',                    // set the chart type
 								mode: 'markers',                      // connect points with lines
@@ -189,7 +190,7 @@ graphDiv.on('plotly_selected', function(eventData){
 	
 	<script> 
 		
-Plotly.d3.csv('data/WEB_DATA.csv', function(err, rows){
+Plotly.d3.csv('data/WEB_DATA2.csv', function(err, rows){
  			
 function unpack(rows, key) {
   return rows.map(function(row) { 
@@ -219,7 +220,7 @@ var data = [{
     values: unpack(rows, 'rheobaseLP')
   }, {
     label: 'Time Constant',
-    range: [0, 50],
+    range: [0, 850],
     values: unpack(rows, 'time_constant')
   },{
     label: 'Half Width',
@@ -277,7 +278,7 @@ graphDiv.on('plotly_restyle', function(data){
 
       <table id="table"
 data-toggle="table"
-data-url="data/data.json"
+data-url="data/data2.json"
 data-sortable="true"
 data-pagination="true"
 data-search="true"
@@ -406,7 +407,7 @@ function off() {
   document.getElementById("overlay").style.display = "none";
 }
 	function filterByPlot(keys, ranges){		
-		jQuery.get("data/data.json").done(function(data){
+		jQuery.get("data/data2.json").done(function(data){
 		var ids = []
 		var fildata = data
 		var newArray = data.filter(function (el) {
