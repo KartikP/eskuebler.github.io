@@ -88,6 +88,7 @@
 		<span id = "Filter" class="text-left" style="display: relative">
 		<button id = "filter_btn" class="btn btn-primary" data-toggle="collapse" href="#ScatterFilter" role="button" aria-expanded="false" aria-controls="ScatterFilter" >Filter</button>
 		<button id = "filter_btn2" class="btn btn-primary" data-toggle="collapse" href="#Scatter2Filter" role="button" aria-expanded="false" aria-controls="Scatter2Filter" >Filter - Scatter</button>
+		<button id = "filter_btn3" class="btn btn-primary" data-toggle="collapse" href="#Scatter3Filter" role="button" aria-expanded="false" aria-controls="Scatter3Filter" >Filter - TSNE</button>
 			<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#tableData" aria-expanded="true" aria-controls="tableData">Table</button>
 		</span>
 		<span id = "dwnld_btn" class="text-right " style="display: relative">
@@ -106,7 +107,7 @@
 		  <div class="card card-body" style="width: 100%">
 			  <center>
 				  <div id="graphDiv_scatter2"></div>
-	
+				  
 	
 	<script> 
 		
@@ -128,10 +129,10 @@ rows.forEach(function(row) {
   																return row[e]
 															})
 						var timeseries = Object.keys(row);
-						console.log(row)
+						
 						var sweepname = row.ID
 						if (row.half_width != 0){
-							console.log(row)
+							
 						var trace = {
                       			type: 'scatter',                    // set the chart type
 								mode: 'markers',                      // connect points with lines
@@ -163,6 +164,101 @@ var layout = {
 
 Plotly.newPlot('graphDiv_scatter2', data, layout, {displaylogo: false}, {responsive: true});
 var graphDiv = document.getElementById("graphDiv_scatter2")
+graphDiv.on('plotly_selected', function(eventData){
+		var ids = []
+		var ranges = []
+		
+		eventData.points.forEach(function(pt) {
+			
+			
+			ids.push(pt.data.name);
+		});
+		
+		filterByID(ids);
+        }); 
+		}); 
+		
+		
+				  
+		</script><script> 
+		
+Plotly.d3.csv('data/TSNE_FULL_NONORM.csv', function(err, rows){
+ 			
+function unpack(rows, key) {
+  return rows.map(function(row) { 
+    return row[key]; 
+  });
+}
+data = []
+m_trace_x = []
+m_trace_y = []
+h_trace_x = []
+h_trace_y = []
+var colors = ['#f59582','#f0320c', '#274f1b', '#d6b376', '#18c912', '#58d4d6', '#071aeb', '#000000' ]
+rows.forEach(function(row) {
+						var rowdata =  Object.keys(row).map(function(e) {
+  																return row[e]
+															})
+						var timeseries = Object.keys(row);
+						
+					if (row.Species == 0) {
+						m_trace_y = m_trace_y.concat([row.y])
+						m_trace_x = m_trace_x.concat([row.x])
+                      
+						 
+					} else if (row.Species == 1){
+						h_trace_y = h_trace_y.concat([row.y])
+						h_trace_x = h_trace_x.concat([row.x])
+						
+					}else if (row.Species == 3){
+						var sweepname = row.id
+						var trace = {
+                      			type: 'scatter',                    // set the chart type
+								mode: 'markers',                      // connect points with lines
+                      			name: sweepname,
+                      			y: [row.y],
+								x: [row.x],
+								marker: {color: colors[row.gmm],},
+                      
+						 };
+						data.push(trace);
+					}
+					
+					
+                    
+					});
+var m_trace = {
+                      			type: 'scatter',                    // set the chart type
+								mode: 'markers',                      // connect points with lines
+                      			name: 'mouse data',
+                      			y: m_trace_y,
+								x: m_trace_x,
+								marker: {color: '#D3D3D3',
+										opacity: 0.25,},
+                      
+						 };
+var h_trace = {
+                      			type: 'scatter',                    // set the chart type
+								mode: 'markers',                      // connect points with lines
+                      			name: 'human data',
+                      			y: h_trace_y,
+								x: h_trace_x,
+								marker: {color: '#707070',
+										opacity: 0.25,}
+                      
+						 };
+data = data.concat(m_trace, h_trace);
+
+var layout = {
+	dragmode: 'lasso',
+	autosize: true,
+	xaxis: {
+		autorange: "reversed", 
+}
+};
+
+Plotly.newPlot('graphDiv_scatter3', data, layout, {displaylogo: false}, {responsive: true});
+var graphDiv = document.getElementById("graphDiv_scatter3")
 graphDiv.on('plotly_selected', function(eventData){
 		var ids = []
 		var ranges = []
@@ -265,6 +361,186 @@ graphDiv.on('plotly_restyle', function(data){
 		filterByPlot(keys, ranges)
         }); 
 		}); 
+		
+		
+				  
+		</script></center>
+			  </div>
+		  </div>
+	  		<div class="collapse multi-collapse" id="Scatter3Filter">
+		  <div class="card card-body" style="width: 100%">
+			  <center>
+				  <div id="graphDiv_scatter3"></div>
+				  
+	
+	<script> 
+		
+Plotly.d3.csv('data/WEB_DATA2.csv', function(err, rows){
+ 			
+function unpack(rows, key) {
+  return rows.map(function(row) { 
+    return row[key]; 
+  });
+}
+data = []
+m_trace_x = []
+m_trace_y = []
+h_trace_x = []
+h_trace_y = []
+var colors = ['#ffb3ba','#baffc9', '#ffdfba','#bae1ff', '#7dd8e1']
+rows.forEach(function(row) {
+						var rowdata =  Object.keys(row).map(function(e) {
+  																return row[e]
+															})
+						var timeseries = Object.keys(row);
+						
+						var sweepname = row.ID
+						if (row.half_width != 0){
+							
+						var trace = {
+                      			type: 'scatter',                    // set the chart type
+								mode: 'markers',                      // connect points with lines
+                      			name: sweepname,
+                      			x: [row.half_width],
+								y: [row.height],
+								marker: {colorscale: 'Bluered',
+											cmin:0,
+											cmax:3,
+											color: [row.half_width],}
+                      
+						 };
+						data.push(trace);
+						
+						}
+					
+                    
+					});
+
+
+var layout = {
+	dragmode: 'lasso',
+	colorway: 'Bluered',
+	width: 1300,
+	xaxis: {title: 'Half Width (ms)',},
+	yaxis: {title: 'AP Height (mV)',},
+	margin: {t: 10,},
+};
+
+Plotly.newPlot('graphDiv_scatter2', data, layout, {displaylogo: false}, {responsive: true});
+var graphDiv = document.getElementById("graphDiv_scatter2")
+graphDiv.on('plotly_selected', function(eventData){
+		var ids = []
+		var ranges = []
+		
+		eventData.points.forEach(function(pt) {
+			
+			
+			ids.push(pt.data.name);
+		});
+		
+		filterByID(ids);
+        }); 
+		}); 
+		
+		
+				  
+		</script><script> 
+		
+Plotly.d3.csv('data/TSNE_FULL_NONORM.csv', function(err, rows){
+ 			
+function unpack(rows, key) {
+  return rows.map(function(row) { 
+    return row[key]; 
+  });
+}
+data = []
+m_trace_x = []
+m_trace_y = []
+h_trace_x = []
+h_trace_y = []
+var colors = ['#f59582','#f0320c', '#274f1b', '#d6b376', '#18c912', '#58d4d6', '#071aeb', '#000000' ]
+rows.forEach(function(row) {
+						var rowdata =  Object.keys(row).map(function(e) {
+  																return row[e]
+															})
+						var timeseries = Object.keys(row);
+						
+					if (row.Species == 0) {
+						m_trace_y = m_trace_y.concat([row.y])
+						m_trace_x = m_trace_x.concat([row.x])
+                      
+						 
+					} else if (row.Species == 1){
+						h_trace_y = h_trace_y.concat([row.y])
+						h_trace_x = h_trace_x.concat([row.x])
+						
+					}else if (row.Species == 3){
+						var sweepname = row.id
+						var trace = {
+                      			type: 'scatter',                    // set the chart type
+								mode: 'markers',                      // connect points with lines
+                      			name: sweepname,
+                      			y: [row.y],
+								x: [row.x],
+								marker: {color: colors[row.gmm],},
+                      
+						 };
+						data.push(trace);
+					}
+					
+					
+                    
+					});
+var m_trace = {
+                      			type: 'scatter',                    // set the chart type
+								mode: 'markers',                      // connect points with lines
+                      			name: 'mouse data',
+                      			y: m_trace_y,
+								x: m_trace_x,
+								marker: {color: '#D3D3D3',
+										opacity: 0.25,},
+                      
+						 };
+var h_trace = {
+                      			type: 'scatter',                    // set the chart type
+								mode: 'markers',                      // connect points with lines
+                      			name: 'human data',
+                      			y: h_trace_y,
+								x: h_trace_x,
+								marker: {color: '#707070',
+										opacity: 0.25,}
+                      
+						 };
+data = data.concat(m_trace, h_trace);
+
+var layout = {
+	dragmode: 'lasso',
+	autosize: true,
+	xaxis: {
+		autorange: "reversed", 
+}
+};
+
+Plotly.newPlot('graphDiv_scatter3', data, layout, {displaylogo: false}, {responsive: true});
+var graphDiv2 = document.getElementById("graphDiv_scatter3")
+graphDiv2.on('plotly_selected', function(eventData){
+		var ids = []
+		var ranges = []
+		if (typeof eventData !== 'undefined'){
+			
+		eventData.points.forEach(function(pt) {
+			
+			
+			ids.push(pt.data.name);
+		});
+		}
+		else {
+			console.log(ids)
+			ids = undefined
+		}
+		filterByID(ids);
+        }); 
+		});  
 		
 		
 				  
@@ -429,8 +705,18 @@ function off() {
 		
 		$table.bootstrapTable('filterBy',{'ID': result})})
 	}
-	function filterByID(ids){		
-		$table.bootstrapTable('filterBy',{'ID': ids})
+	function filterByID(ids){	
+		if (typeof ids !== 'undefined'){
+			$table.bootstrapTable('filterBy',{'ID': ids})
+		}
+		else {
+			jQuery.get("data/data2.json").done(function(data){
+				ids = data.map(function(a){return a.ID})
+				$table.bootstrapTable('filterBy',{'ID': ids})
+			})
+				
+		
+		}
 	}		
     function getIdSelections() {
 	
