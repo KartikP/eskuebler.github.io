@@ -1,0 +1,1532 @@
+[
+  {
+    "ID": "B20171109_NSP0_001ch12ub",
+    "firing rate": 0.34875,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.912062108
+  },
+  {
+    "ID": "B20171109_NSP0_001ch16uc",
+    "firing rate": 0.183333333,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 2.04533358
+  },
+  {
+    "ID": "B20171109_NSP0_001ch17uc",
+    "firing rate": 5.373611111,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.886199861
+  },
+  {
+    "ID": "B20171109_NSP0_001ch24uc",
+    "firing rate": 0.876111111,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.64748696
+  },
+  {
+    "ID": "B20171109_NSP0_001ch30ua",
+    "firing rate": 5.712222222,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.87260739
+  },
+  {
+    "ID": "B20171109_NSP0_001ch54ub",
+    "firing rate": 0.130416667,
+    "peak to trough": 0.566666667,
+    "peak to trough ratio": 1.828148628
+  },
+  {
+    "ID": "B20171109_NSP0_001ch56ud",
+    "firing rate": 0.04625,
+    "peak to trough": 0.566666667,
+    "peak to trough ratio": 1.738660564
+  },
+  {
+    "ID": "B20171109_NSP0_001ch61ua",
+    "firing rate": 1.426527778,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 1.404809525
+  },
+  {
+    "ID": "B20171109_NSP0_001ch61ub",
+    "firing rate": 0.550138889,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.557954966
+  },
+  {
+    "ID": "B20171109_NSP0_001ch96ua",
+    "firing rate": 7.110833333,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.478892313
+  },
+  {
+    "ID": "B20171121_NSP1_001ch03ua",
+    "firing rate": 0.537638889,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.992985646
+  },
+  {
+    "ID": "B20171121_NSP1_001ch06ua",
+    "firing rate": 1.842916667,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 2.115928684
+  },
+  {
+    "ID": "B20171121_NSP1_001ch08ua",
+    "firing rate": 1.591111111,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.85053034
+  },
+  {
+    "ID": "B20171121_NSP1_001ch11ua",
+    "firing rate": 1.117777778,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.163008843
+  },
+  {
+    "ID": "B20171121_NSP1_001ch14ua",
+    "firing rate": 9.243888889,
+    "peak to trough": 0.133333333,
+    "peak to trough ratio": 1.304947613
+  },
+  {
+    "ID": "B20171121_NSP1_001ch15ua",
+    "firing rate": 0.78125,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.344564116
+  },
+  {
+    "ID": "B20171121_NSP1_001ch16ua",
+    "firing rate": 1.045,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.367055018
+  },
+  {
+    "ID": "B20171121_NSP1_001ch17ua",
+    "firing rate": 9.383055556,
+    "peak to trough": 0.2,
+    "peak to trough ratio": 1.070912858
+  },
+  {
+    "ID": "B20171121_NSP1_001ch20ua",
+    "firing rate": 2.592083333,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.477186182
+  },
+  {
+    "ID": "B20171121_NSP1_001ch23ua",
+    "firing rate": 0.58625,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.390482426
+  },
+  {
+    "ID": "B20171121_NSP1_001ch24ua",
+    "firing rate": 0.485833333,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 2.276793196
+  },
+  {
+    "ID": "B20171121_NSP1_001ch28ua",
+    "firing rate": 0.822222222,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.761695705
+  },
+  {
+    "ID": "B20171121_NSP1_001ch35ua",
+    "firing rate": 3.107638889,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.756662347
+  },
+  {
+    "ID": "B20171121_NSP1_001ch36ua",
+    "firing rate": 1.581805556,
+    "peak to trough": 0.6,
+    "peak to trough ratio": 2.058690428
+  },
+  {
+    "ID": "B20171121_NSP1_001ch36ub",
+    "firing rate": 0.10125,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 2.319853706
+  },
+  {
+    "ID": "B20171121_NSP1_001ch37ua",
+    "firing rate": 0.620972222,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 2.097075703
+  },
+  {
+    "ID": "B20171121_NSP1_001ch39ua",
+    "firing rate": 0.304722222,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.82486314
+  },
+  {
+    "ID": "B20171121_NSP1_001ch44ua",
+    "firing rate": 0.634722222,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.918429113
+  },
+  {
+    "ID": "B20171121_NSP1_001ch47ua",
+    "firing rate": 1.685277778,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.598522675
+  },
+  {
+    "ID": "T0170329NSP0_001ch05ua",
+    "firing rate": 4.975972222,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.918474895
+  },
+  {
+    "ID": "T20170329NSP0_001ch04ub",
+    "firing rate": 2.949166667,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.407950122
+  },
+  {
+    "ID": "T20170329NSP0_001ch07ua",
+    "firing rate": 4.797777778,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.709676447
+  },
+  {
+    "ID": "T20170329NSP0_001ch13ua",
+    "firing rate": 5.297222222,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.684718752
+  },
+  {
+    "ID": "T20170329NSP0_001ch14ua",
+    "firing rate": 19.49472222,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.707527431
+  },
+  {
+    "ID": "T20170329NSP0_001ch22ua",
+    "firing rate": 3.608472222,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.718121197
+  },
+  {
+    "ID": "T20170329NSP0_001ch23ua",
+    "firing rate": 3.212083333,
+    "peak to trough": 0.2,
+    "peak to trough ratio": 1.145131643
+  },
+  {
+    "ID": "T20170329NSP0_001ch26ua",
+    "firing rate": 3.427916667,
+    "peak to trough": 0.266666667,
+    "peak to trough ratio": 1.219687528
+  },
+  {
+    "ID": "T20170329NSP0_001ch31ua",
+    "firing rate": 2.81875,
+    "peak to trough": 0.2,
+    "peak to trough ratio": 1.204716636
+  },
+  {
+    "ID": "T20170329NSP0_001ch34ua",
+    "firing rate": 0.370694444,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.3548832
+  },
+  {
+    "ID": "T20170329NSP0_001ch35ua",
+    "firing rate": 0.674722222,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.207098156
+  },
+  {
+    "ID": "T20170329NSP0_001ch79ua",
+    "firing rate": 4.612916667,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.296414987
+  },
+  {
+    "ID": "T20170329NSP0_001ch84ua",
+    "firing rate": 1.699722222,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.62661305
+  },
+  {
+    "ID": "T20170329NSP1_001ch07ub",
+    "firing rate": 1.687916667,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.414506828
+  },
+  {
+    "ID": "T20170329NSP1_001ch07uc",
+    "firing rate": 2.033194444,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.658483521
+  },
+  {
+    "ID": "T20170329NSP1_001ch10ua",
+    "firing rate": 9.413611111,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.575232749
+  },
+  {
+    "ID": "T20170329NSP1_001ch10ub",
+    "firing rate": 16.72625,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.248789487
+  },
+  {
+    "ID": "T20170329NSP1_001ch11ub",
+    "firing rate": 4.599861111,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.769998455
+  },
+  {
+    "ID": "T20170329NSP1_001ch14ua",
+    "firing rate": 0.7975,
+    "peak to trough": 0.233333333,
+    "peak to trough ratio": 1.283144012
+  },
+  {
+    "ID": "T20170329NSP1_001ch16ub",
+    "firing rate": 0.984166667,
+    "peak to trough": 0.266666667,
+    "peak to trough ratio": 1.095509449
+  },
+  {
+    "ID": "T20170329NSP1_001ch23ub",
+    "firing rate": 0.481805556,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.427103588
+  },
+  {
+    "ID": "T20170329NSP1_001ch25uc",
+    "firing rate": 3.340833333,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.051210679
+  },
+  {
+    "ID": "T20170329NSP1_001ch28ud",
+    "firing rate": 0.185972222,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.543502363
+  },
+  {
+    "ID": "T20170329NSP1_001ch65uc",
+    "firing rate": 9.89,
+    "peak to trough": 0.133333333,
+    "peak to trough ratio": 1.869422563
+  },
+  {
+    "ID": "T20170329NSP1_001ch69ue",
+    "firing rate": 0.580277778,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.574614581
+  },
+  {
+    "ID": "T20170329NSP1_001ch76ua",
+    "firing rate": 2.68625,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 2.214190142
+  },
+  {
+    "ID": "T20170329NSP1_001ch95uf",
+    "firing rate": 2.746666667,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.329832245
+  },
+  {
+    "ID": "B29_NSP0_chan13_unitC",
+    "firing rate": 0.481944444,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.109037011
+  },
+  {
+    "ID": "B29_NSP0_chan33_unitC",
+    "firing rate": 0.416111111,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.722270618
+  },
+  {
+    "ID": "B29_NSP0_chan39_unitC",
+    "firing rate": 0.181805556,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.286169831
+  },
+  {
+    "ID": "B29_NSP0_chan3_unitC",
+    "firing rate": 1.095,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 2.214066054
+  },
+  {
+    "ID": "B29_NSP0_chan43_unitC",
+    "firing rate": 0.822222222,
+    "peak to trough": 0.666666667,
+    "peak to trough ratio": 1.208705282
+  },
+  {
+    "ID": "B29_NSP0_chan58_unitC",
+    "firing rate": 0.731666667,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.105604938
+  },
+  {
+    "ID": "B29_NSP0_chan5_unitC",
+    "firing rate": 0.751666667,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 2.260341544
+  },
+  {
+    "ID": "B29_NSP0_chan64_unitC",
+    "firing rate": 0.555,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.716552459
+  },
+  {
+    "ID": "B29_NSP0_chan70_unitC",
+    "firing rate": 1.87375,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 1.924776835
+  },
+  {
+    "ID": "B29_NSP0_chan71_unitC",
+    "firing rate": 0.404166667,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.411135591
+  },
+  {
+    "ID": "B29_NSP0_chan74_unitC",
+    "firing rate": 0.979305556,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.971671394
+  },
+  {
+    "ID": "B29_NSP0_chan93_unitC",
+    "firing rate": 0.74625,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.080996194
+  },
+  {
+    "ID": "B29_NSP1_chan35_unitC",
+    "firing rate": 1.997361111,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.798643284
+  },
+  {
+    "ID": "B29_NSP1_chan68_unitC",
+    "firing rate": 0.355138889,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.315242998
+  },
+  {
+    "ID": "B02_NSP0_chan13_unitC",
+    "firing rate": 0.311388889,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 2.267615529
+  },
+  {
+    "ID": "B02_NSP0_chan15_unitC",
+    "firing rate": 0.438611111,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.545072203
+  },
+  {
+    "ID": "B02_NSP0_chan17_unitC",
+    "firing rate": 1.31625,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.890654671
+  },
+  {
+    "ID": "B02_NSP0_chan22_unitC",
+    "firing rate": 0.054166667,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 2.169155646
+  },
+  {
+    "ID": "B02_NSP0_chan40_unitD",
+    "firing rate": 1.117777778,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.677328412
+  },
+  {
+    "ID": "B02_NSP0_chan51_unitC",
+    "firing rate": 0.580694444,
+    "peak to trough": 0.8,
+    "peak to trough ratio": 1.220938414
+  },
+  {
+    "ID": "B02_NSP0_chan6_unitC",
+    "firing rate": 1.029722222,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.516792352
+  },
+  {
+    "ID": "B02_NSP0_chan70_unitD",
+    "firing rate": 1.319444444,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.602978517
+  },
+  {
+    "ID": "B02_NSP0_chan76_unitD",
+    "firing rate": 0.225416667,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.623740399
+  },
+  {
+    "ID": "B02_NSP1_chan35_unitC",
+    "firing rate": 1.791388889,
+    "peak to trough": 0.6,
+    "peak to trough ratio": 1.858806172
+  },
+  {
+    "ID": "B02_NSP1_chan60_unitC",
+    "firing rate": 0.501666667,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.217929662
+  },
+  {
+    "ID": "B02_NSP1_chan64_unitC",
+    "firing rate": 0.158472222,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.778691961
+  },
+  {
+    "ID": "B02_NSP1_chan74_unitC",
+    "firing rate": 0.686805556,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.336426631
+  },
+  {
+    "ID": "B02_NSP1_chan78_unitB",
+    "firing rate": 1.128194444,
+    "peak to trough": 0.133333333,
+    "peak to trough ratio": 2.096900229
+  },
+  {
+    "ID": "B02_NSP1_chan82_unitC",
+    "firing rate": 0.899027778,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.748216381
+  },
+  {
+    "ID": "B02_NSP1_chan82_unitD",
+    "firing rate": 0.389722222,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.837353032
+  },
+  {
+    "ID": "B04_NSP0_chan14_unitC",
+    "firing rate": 6.504861111,
+    "peak to trough": 0.133333333,
+    "peak to trough ratio": 1.391494319
+  },
+  {
+    "ID": "B04_NSP0_chan38_unitC",
+    "firing rate": 0.38,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.567944
+  },
+  {
+    "ID": "B04_NSP0_chan63_unitC",
+    "firing rate": 0.311527778,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.389886532
+  },
+  {
+    "ID": "B04_NSP0_chan76_unitD",
+    "firing rate": 0.186944444,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.251423575
+  },
+  {
+    "ID": "B04_NSP1_chan14_unitD",
+    "firing rate": 0.316111111,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.761746553
+  },
+  {
+    "ID": "B04_NSP1_chan5_unitD",
+    "firing rate": 0.735833333,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.991478654
+  },
+  {
+    "ID": "B04_NSP1_chan67_unitC",
+    "firing rate": 0.909305556,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.964415783
+  },
+  {
+    "ID": "B04_NSP1_chan74_unitB",
+    "firing rate": 0.662361111,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.413496157
+  },
+  {
+    "ID": "B04_NSP1_chan82_unitC",
+    "firing rate": 0.953055556,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.171794353
+  },
+  {
+    "ID": "B04_NSP1_chan85_unitC",
+    "firing rate": 8.626111111,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 1.39491038
+  },
+  {
+    "ID": "B04_NSP1_chan92_unitC",
+    "firing rate": 0.493194444,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.344601458
+  },
+  {
+    "ID": "B07_NSP0_chan14_unitC",
+    "firing rate": 6.060138889,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 1.36100784
+  },
+  {
+    "ID": "B07_NSP0_chan41_unitC",
+    "firing rate": 0.223888889,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.610416641
+  },
+  {
+    "ID": "B07_NSP0_chan47_unitC",
+    "firing rate": 0.895277778,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.444072293
+  },
+  {
+    "ID": "B07_NSP0_chan66_unitC",
+    "firing rate": 0.867638889,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 2.82853004
+  },
+  {
+    "ID": "B07_NSP0_chan72_unitE",
+    "firing rate": 0.1625,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.717395731
+  },
+  {
+    "ID": "B07_NSP0_chan73_unitC",
+    "firing rate": 0.329305556,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.796003847
+  },
+  {
+    "ID": "B07_NSP0_chan73_unitD",
+    "firing rate": 3.190694444,
+    "peak to trough": 0.266666667,
+    "peak to trough ratio": 1.724464272
+  },
+  {
+    "ID": "B07_NSP1_chan22_unitD",
+    "firing rate": 0.537083333,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.385554007
+  },
+  {
+    "ID": "B07_NSP1_chan2_unitC",
+    "firing rate": 2.536805556,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.404592268
+  },
+  {
+    "ID": "B07_NSP1_chan60_unitC",
+    "firing rate": 0.477083333,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.579938363
+  },
+  {
+    "ID": "B07_NSP1_chan70_unitC",
+    "firing rate": 0.234444444,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.940989393
+  },
+  {
+    "ID": "B07_NSP1_chan74_unitC",
+    "firing rate": 0.787083333,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.405200701
+  },
+  {
+    "ID": "B07_NSP1_chan85_unitC",
+    "firing rate": 6.783888889,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 1.263848203
+  },
+  {
+    "ID": "B09_NSP0_chan15_unitC",
+    "firing rate": 0.138611111,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.125228707
+  },
+  {
+    "ID": "B09_NSP0_chan15_unitD",
+    "firing rate": 0.079861111,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 2.922710242
+  },
+  {
+    "ID": "B09_NSP0_chan38_unitC",
+    "firing rate": 1.300277778,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.862300129
+  },
+  {
+    "ID": "B09_NSP0_chan41_unitD",
+    "firing rate": 0.470694444,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.500849729
+  },
+  {
+    "ID": "B09_NSP0_chan41_unitE",
+    "firing rate": 0.138888889,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.868839872
+  },
+  {
+    "ID": "B09_NSP0_chan73_unitC",
+    "firing rate": 0.188194444,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.699503429
+  },
+  {
+    "ID": "B09_NSP0_chan73_unitD",
+    "firing rate": 3.025416667,
+    "peak to trough": 0.266666667,
+    "peak to trough ratio": 1.876423979
+  },
+  {
+    "ID": "B09_NSP1_chan20_unitD",
+    "firing rate": 1.722916667,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.349982536
+  },
+  {
+    "ID": "B09_NSP1_chan21_unitB",
+    "firing rate": 13.43902778,
+    "peak to trough": 0.2,
+    "peak to trough ratio": 1.509180228
+  },
+  {
+    "ID": "B09_NSP1_chan2_unitB",
+    "firing rate": 2.138333333,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.393547621
+  },
+  {
+    "ID": "B09_NSP1_chan47_unitC",
+    "firing rate": 0.228333333,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 2.568654499
+  },
+  {
+    "ID": "B09_NSP1_chan53_unitC",
+    "firing rate": 5.872777778,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 1.760191613
+  },
+  {
+    "ID": "B09_NSP1_chan60_unitB",
+    "firing rate": 0.514305556,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.556690832
+  },
+  {
+    "ID": "B09_NSP1_chan70_unitC",
+    "firing rate": 0.129722222,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.876806077
+  },
+  {
+    "ID": "B09_NSP1_chan74_unitB",
+    "firing rate": 0.780138889,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.293426866
+  },
+  {
+    "ID": "B09_NSP1_chan85_unitC",
+    "firing rate": 4.293055556,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 1.4045747
+  },
+  {
+    "ID": "B11_NSP0_chan38_unitC",
+    "firing rate": 0.921944444,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.307946057
+  },
+  {
+    "ID": "B11_NSP0_chan66_unitC",
+    "firing rate": 0.725833333,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 2.137172942
+  },
+  {
+    "ID": "B11_NSP0_chan66_unitE",
+    "firing rate": 0.055416667,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 2.805330146
+  },
+  {
+    "ID": "B11_NSP0_chan68_unitC",
+    "firing rate": 0.448333333,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.795608108
+  },
+  {
+    "ID": "B11_NSP0_chan73_unitC",
+    "firing rate": 2.815277778,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.951104897
+  },
+  {
+    "ID": "B11_NSP0_chan80_unitD",
+    "firing rate": 0.303611111,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.418961152
+  },
+  {
+    "ID": "B11_NSP0_chan83_unitC",
+    "firing rate": 0.090833333,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.731673904
+  },
+  {
+    "ID": "B11_NSP0_chan87_unitE",
+    "firing rate": 0.118333333,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.845405272
+  },
+  {
+    "ID": "B11_NSP1_chan40_unitB",
+    "firing rate": 0.235416667,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.838450208
+  },
+  {
+    "ID": "B11_NSP1_chan48_unitC",
+    "firing rate": 0.1725,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.607761295
+  },
+  {
+    "ID": "B11_NSP1_chan60_unitE",
+    "firing rate": 0.546944444,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.245099219
+  },
+  {
+    "ID": "B11_NSP1_chan66_unitB",
+    "firing rate": 0.179166667,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 2.043520253
+  },
+  {
+    "ID": "B11_NSP1_chan70_unitC",
+    "firing rate": 0.423888889,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.75535617
+  },
+  {
+    "ID": "B11_NSP1_chan72_unitC",
+    "firing rate": 0.296527778,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.503392179
+  },
+  {
+    "ID": "B11_NSP1_chan74_unitC",
+    "firing rate": 0.5,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.303367546
+  },
+  {
+    "ID": "B11_NSP1_chan85_unitC",
+    "firing rate": 6.0175,
+    "peak to trough": 0.2,
+    "peak to trough ratio": 1.401456769
+  },
+  {
+    "ID": "B11_NSP1_chan86_unitD",
+    "firing rate": 0.375833333,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.80507009
+  },
+  {
+    "ID": "T14_NSP0_chan34_unitD",
+    "firing rate": 4.346805556,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.477434446
+  },
+  {
+    "ID": "T14_NSP0_chan54_unitE",
+    "firing rate": 8.785,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.349922103
+  },
+  {
+    "ID": "T14_NSP0_chan63_unitB",
+    "firing rate": 5.913333333,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.410537551
+  },
+  {
+    "ID": "T14_NSP0_chan70_unitD",
+    "firing rate": 6.9825,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.198986309
+  },
+  {
+    "ID": "T14_NSP0_chan8_unitC",
+    "firing rate": 12.62513889,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.53509397
+  },
+  {
+    "ID": "T28_NSP0_chan27_unitB",
+    "firing rate": 23.00319444,
+    "peak to trough": 0.233333333,
+    "peak to trough ratio": 1.440738542
+  },
+  {
+    "ID": "T28_NSP0_chan42_unitC",
+    "firing rate": 2.843194444,
+    "peak to trough": 0.266666667,
+    "peak to trough ratio": 1.214640559
+  },
+  {
+    "ID": "T28_NSP0_chan70_unitB",
+    "firing rate": 7.988888889,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.359535022
+  },
+  {
+    "ID": "T05_NSP1_chan11_unitB",
+    "firing rate": 2.692777778,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.521035007
+  },
+  {
+    "ID": "T05_NSP1_chan73_unitB",
+    "firing rate": 0.915,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.072724475
+  },
+  {
+    "ID": "T05_NSP1_chan91_unitB",
+    "firing rate": 0.625694444,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.328791183
+  },
+  {
+    "ID": "T17_NSP0_chan4_unitB",
+    "firing rate": 5.079027778,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.401756648
+  },
+  {
+    "ID": "T17_NSP0_chan63_unitB",
+    "firing rate": 5.125,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.510247868
+  },
+  {
+    "ID": "T17_NSP0_chan6_unitB",
+    "firing rate": 17.71694444,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.01435151
+  },
+  {
+    "ID": "T17_NSP0_chan70_unitB",
+    "firing rate": 7.010833333,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.560541386
+  },
+  {
+    "ID": "T17_NSP0_chan9_unitC",
+    "firing rate": 2.650694444,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.549548753
+  },
+  {
+    "ID": "T17_NSP1_chan14_unitB",
+    "firing rate": 1.489166667,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.720544672
+  },
+  {
+    "ID": "T17_NSP1_chan49_unitB",
+    "firing rate": 41.01194444,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 2.429649624
+  },
+  {
+    "ID": "T17_NSP1_chan54_unitD",
+    "firing rate": 0.131111111,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.699931086
+  },
+  {
+    "ID": "T20_NSP0_chan63_unitB",
+    "firing rate": 5.046111111,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.380621677
+  },
+  {
+    "ID": "T20_NSP0_chan9_unitC",
+    "firing rate": 1.796944444,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.420636591
+  },
+  {
+    "ID": "0_NSP0_001_C001_U3",
+    "firing rate": 3.990416667,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.244399167
+  },
+  {
+    "ID": "0_NSP0_001_C001_U4",
+    "firing rate": 0.094305556,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.339697144
+  },
+  {
+    "ID": "0_NSP0_001_C003_U3",
+    "firing rate": 0.559444444,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.360905576
+  },
+  {
+    "ID": "0_NSP0_001_C009_U3",
+    "firing rate": 0.12375,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.701717626
+  },
+  {
+    "ID": "0_NSP0_001_C013_U3",
+    "firing rate": 0.1475,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.457589132
+  },
+  {
+    "ID": "0_NSP0_001_C015_U3",
+    "firing rate": 1.245555556,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.957194573
+  },
+  {
+    "ID": "0_NSP0_001_C020_U2",
+    "firing rate": 0.243472222,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.95505618
+  },
+  {
+    "ID": "0_NSP0_001_C033_U3",
+    "firing rate": 0.359305556,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.621277024
+  },
+  {
+    "ID": "0_NSP0_001_C035_U3",
+    "firing rate": 0.094722222,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 2.478031459
+  },
+  {
+    "ID": "0_NSP0_001_C066_U3",
+    "firing rate": 0.698888889,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.892846138
+  },
+  {
+    "ID": "0_NSP0_001_C067_U3",
+    "firing rate": 1.671388889,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 1.691638436
+  },
+  {
+    "ID": "0_NSP0_001_C070_U3",
+    "firing rate": 1.112222222,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.462179801
+  },
+  {
+    "ID": "0_NSP0_001_C091_U3",
+    "firing rate": 2.105833333,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.661868238
+  },
+  {
+    "ID": "0_NSP0_002_C001_U3",
+    "firing rate": 0.158888889,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.413882079
+  },
+  {
+    "ID": "0_NSP0_002_C009_U3",
+    "firing rate": 0.099444444,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.850346923
+  },
+  {
+    "ID": "0_NSP0_002_C011_U3",
+    "firing rate": 0.147222222,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 2.562634713
+  },
+  {
+    "ID": "0_NSP0_002_C013_U3",
+    "firing rate": 0.160416667,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 2.284612762
+  },
+  {
+    "ID": "0_NSP0_002_C015_U3",
+    "firing rate": 1.320277778,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.723814986
+  },
+  {
+    "ID": "0_NSP0_002_C016_U3",
+    "firing rate": 2.209166667,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.9150331
+  },
+  {
+    "ID": "0_NSP0_002_C020_U3",
+    "firing rate": 0.627222222,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.699663905
+  },
+  {
+    "ID": "0_NSP0_002_C035_U3",
+    "firing rate": 0.1225,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.595062705
+  },
+  {
+    "ID": "0_NSP0_002_C036_U4",
+    "firing rate": 1.947222222,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.916244024
+  },
+  {
+    "ID": "0_NSP0_002_C048_U3",
+    "firing rate": 1.181944444,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 2.06409238
+  },
+  {
+    "ID": "0_NSP0_002_C075_U3",
+    "firing rate": 0.475277778,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 2.690542701
+  },
+  {
+    "ID": "0_NSP0_002_C075_U5",
+    "firing rate": 1.229583333,
+    "peak to trough": 0.133333333,
+    "peak to trough ratio": 2.001572186
+  },
+  {
+    "ID": "0_NSP0_002_C076_U3",
+    "firing rate": 0.635694444,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.327375739
+  },
+  {
+    "ID": "0_NSP0_002_C081_U3",
+    "firing rate": 0.16125,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.405805187
+  },
+  {
+    "ID": "0_NSP0_002_C096_U3",
+    "firing rate": 0.418472222,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.885453046
+  },
+  {
+    "ID": "0_NSP1_001_C003_U3",
+    "firing rate": 0.303611111,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.368344162
+  },
+  {
+    "ID": "0_NSP1_001_C009_U4",
+    "firing rate": 0.368888889,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.573219762
+  },
+  {
+    "ID": "0_NSP1_001_C011_U3",
+    "firing rate": 0.286666667,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.291584559
+  },
+  {
+    "ID": "0_NSP1_001_C013_U3",
+    "firing rate": 7.504027778,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.294110102
+  },
+  {
+    "ID": "0_NSP1_001_C021_U3",
+    "firing rate": 0.821527778,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.823751871
+  },
+  {
+    "ID": "0_NSP1_001_C022_U3",
+    "firing rate": 0.119027778,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.516655751
+  },
+  {
+    "ID": "0_NSP1_001_C025_U4",
+    "firing rate": 0.968888889,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.843839752
+  },
+  {
+    "ID": "0_NSP1_001_C033_U3",
+    "firing rate": 3.529305556,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.901471723
+  },
+  {
+    "ID": "0_NSP1_001_C040_U3",
+    "firing rate": 0.801527778,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.609772169
+  },
+  {
+    "ID": "0_NSP1_001_C044_U3",
+    "firing rate": 6.089027778,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.297951603
+  },
+  {
+    "ID": "0_NSP1_001_C047_U3",
+    "firing rate": 0.568472222,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.711547415
+  },
+  {
+    "ID": "0_NSP1_001_C050_U3",
+    "firing rate": 19.68305556,
+    "peak to trough": 0.233333333,
+    "peak to trough ratio": 1.358373177
+  },
+  {
+    "ID": "0_NSP1_001_C066_U2",
+    "firing rate": 0.583333333,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.597187655
+  },
+  {
+    "ID": "0_NSP1_001_C069_U2",
+    "firing rate": 0.204166667,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.773002802
+  },
+  {
+    "ID": "0_NSP1_001_C080_U3",
+    "firing rate": 1.008194444,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 2.472918692
+  },
+  {
+    "ID": "0_NSP1_001_C084_U3",
+    "firing rate": 0.088472222,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.640196034
+  },
+  {
+    "ID": "0_NSP1_001_C091_U4",
+    "firing rate": 2.206666667,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.245876534
+  },
+  {
+    "ID": "0_NSP1_002_C003_U3",
+    "firing rate": 0.275138889,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.458443256
+  },
+  {
+    "ID": "0_NSP1_002_C005_U3",
+    "firing rate": 0.986944444,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 2.275702379
+  },
+  {
+    "ID": "0_NSP1_002_C005_U4",
+    "firing rate": 0.042916667,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.801039448
+  },
+  {
+    "ID": "0_NSP1_002_C011_U3",
+    "firing rate": 0.978194444,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 2.059387066
+  },
+  {
+    "ID": "0_NSP1_002_C011_U4",
+    "firing rate": 0.80875,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.397016879
+  },
+  {
+    "ID": "0_NSP1_002_C021_U3",
+    "firing rate": 0.721666667,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.366787303
+  },
+  {
+    "ID": "0_NSP1_002_C022_U3",
+    "firing rate": 0.507083333,
+    "peak to trough": 0.566666667,
+    "peak to trough ratio": 1.66647746
+  },
+  {
+    "ID": "0_NSP1_002_C025_U3",
+    "firing rate": 1.626388889,
+    "peak to trough": 0.333333333,
+    "peak to trough ratio": 1.414887132
+  },
+  {
+    "ID": "0_NSP1_002_C025_U4",
+    "firing rate": 2.138194444,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.50751867
+  },
+  {
+    "ID": "0_NSP1_002_C026_U4",
+    "firing rate": 0.215277778,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.452520985
+  },
+  {
+    "ID": "0_NSP1_002_C031_U4",
+    "firing rate": 2.961527778,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.736846013
+  },
+  {
+    "ID": "0_NSP1_002_C033_U4",
+    "firing rate": 0.778472222,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 2.259182697
+  },
+  {
+    "ID": "0_NSP1_002_C044_U3",
+    "firing rate": 0.059722222,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.390679267
+  },
+  {
+    "ID": "0_NSP1_002_C047_U4",
+    "firing rate": 0.224027778,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.657350588
+  },
+  {
+    "ID": "0_NSP1_002_C048_U3",
+    "firing rate": 0.875,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.312532774
+  },
+  {
+    "ID": "0_NSP1_002_C048_U4",
+    "firing rate": 0.917777778,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 2.776073005
+  },
+  {
+    "ID": "0_NSP1_002_C048_U5",
+    "firing rate": 25.72694444,
+    "peak to trough": 0.166666667,
+    "peak to trough ratio": 1.480626468
+  },
+  {
+    "ID": "0_NSP1_002_C055_U4",
+    "firing rate": 12.89652778,
+    "peak to trough": 0.533333333,
+    "peak to trough ratio": 1.39065839
+  },
+  {
+    "ID": "0_NSP1_002_C060_U3",
+    "firing rate": 0.494444444,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.288270314
+  },
+  {
+    "ID": "0_NSP1_002_C061_U4",
+    "firing rate": 0.309444444,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.416615326
+  },
+  {
+    "ID": "0_NSP1_002_C068_U3",
+    "firing rate": 13.00805556,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.29370313
+  },
+  {
+    "ID": "0_NSP1_002_C069_U2",
+    "firing rate": 0.184444444,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.944570417
+  },
+  {
+    "ID": "0_NSP1_002_C072_U3",
+    "firing rate": 0.392361111,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.923257635
+  },
+  {
+    "ID": "0_NSP1_002_C072_U4",
+    "firing rate": 0.112222222,
+    "peak to trough": 0.266666667,
+    "peak to trough ratio": 2.505293216
+  },
+  {
+    "ID": "0_NSP1_002_C073_U3",
+    "firing rate": 0.827638889,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.726569586
+  },
+  {
+    "ID": "0_NSP1_002_C078_U2",
+    "firing rate": 0.887361111,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.657051769
+  },
+  {
+    "ID": "0_NSP1_002_C082_U3",
+    "firing rate": 0.7075,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 2.529968775
+  },
+  {
+    "ID": "0_NSP1_002_C093_U4",
+    "firing rate": 0.387222222,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.622719684
+  },
+  {
+    "ID": "T20170610_NSP0_001_C001_U2",
+    "firing rate": 4.274722222,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.879496554
+  },
+  {
+    "ID": "T20170610_NSP0_001_C009_U4",
+    "firing rate": 2.928055556,
+    "peak to trough": 0.4,
+    "peak to trough ratio": 1.530786144
+  },
+  {
+    "ID": "T20170610_NSP0_001_C013_U4",
+    "firing rate": 9.136944444,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.206541663
+  },
+  {
+    "ID": "T20170610_NSP0_001_C027_U3",
+    "firing rate": 14.65555556,
+    "peak to trough": 0.266666667,
+    "peak to trough ratio": 1.225390326
+  },
+  {
+    "ID": "T20170610_NSP0_001_C058_U3",
+    "firing rate": 4.105555556,
+    "peak to trough": 0.366666667,
+    "peak to trough ratio": 1.083906889
+  },
+  {
+    "ID": "T20170610_NSP0_001_C063_U3",
+    "firing rate": 4.917083333,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.375690879
+  },
+  {
+    "ID": "T20170610_NSP0_001_C069_U2",
+    "firing rate": 16.03861111,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.297941937
+  },
+  {
+    "ID": "T20170610_NSP1_001_C021_U2",
+    "firing rate": 1.451111111,
+    "peak to trough": 0.266666667,
+    "peak to trough ratio": 1.304276336
+  },
+  {
+    "ID": "T20170610_NSP1_001_C023_U3",
+    "firing rate": 15.93416667,
+    "peak to trough": 0.2,
+    "peak to trough ratio": 2.043712258
+  },
+  {
+    "ID": "T20170610_NSP1_001_C024_U3",
+    "firing rate": 4.251944444,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.451263397
+  },
+  {
+    "ID": "T20170712_NSP0_001_C065_U2",
+    "firing rate": 3.760277778,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.289771342
+  },
+  {
+    "ID": "T20170726_NSP0_001_C001_U3",
+    "firing rate": 8.397083333,
+    "peak to trough": 0.466666667,
+    "peak to trough ratio": 1.167430554
+  },
+  {
+    "ID": "T20170726_NSP0_001_C023_U2",
+    "firing rate": 6.550277778,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.374239286
+  },
+  {
+    "ID": "T20170726_NSP0_001_C034_U4",
+    "firing rate": 0.842083333,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.337147045
+  },
+  {
+    "ID": "T20170726_NSP0_001_C076_U4",
+    "firing rate": 10.19041667,
+    "peak to trough": 0.5,
+    "peak to trough ratio": 1.085870178
+  },
+  {
+    "ID": "T20170726_NSP1_001_C013_U2",
+    "firing rate": 3.621944444,
+    "peak to trough": 0.566666667,
+    "peak to trough ratio": 1.726247224
+  },
+  {
+    "ID": "T20170726_NSP1_001_C014_U2",
+    "firing rate": 0.971111111,
+    "peak to trough": 0.3,
+    "peak to trough ratio": 1.344979959
+  },
+  {
+    "ID": "T20170726_NSP1_001_C094_U2",
+    "firing rate": 1.300277778,
+    "peak to trough": 0.433333333,
+    "peak to trough ratio": 1.608036141
+  }
+]
