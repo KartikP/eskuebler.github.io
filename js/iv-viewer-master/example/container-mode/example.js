@@ -1,4 +1,5 @@
 import ImageViewer from '../../src/ImageViewer';
+import ImageViewer from '../../iv-viewer-master/iv-viewer';
 
 const images = [{
   small: '../images/1.jpg',
