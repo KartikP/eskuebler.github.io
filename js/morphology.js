@@ -3,12 +3,12 @@ import "/js/iv-viewer/dist/iv-viewer.css";
 
 const images = [
   {
-    small: "/images/morph Cells/cell1.png",
-    big: "/images/morph Cells/cell1.png"
+    small: "../images/morph Cells/cell1.png",
+    big: "../images/morph Cells/cell1.png"
   },
   {
-    small: "/images/morph Cells/cell2.png",
-    big: "/images/morph Cells/cell2.png"
+    small: "../images/morph Cells/cell2.png",
+    big: "../images/morph Cells/cell2.png"
   }
 ];
 
