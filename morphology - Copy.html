@@ -1,0 +1,225 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Morphology</title>
+		<link href="css/index.css" rel="stylesheet">
+		<link hrep="js/iv-viewer-master/dist/iv-viewer.css" rel="stylesheet">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154856577-1"></script>
+		<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154856577-1');
+</script>
+    <script id="swc" type='text/plain'>
+    # ORIGINAL_SOURCE NeuronStudio 0.8.80
+    # CREATURE
+    # REGION
+    # FIELD/LAYER
+    # TYPE
+    # CONTRIBUTOR
+    # REFERENCE
+    # RAW
+    # EXTRAS
+    # SOMA_AREA
+    # SHINKAGE_CORRECTION 1.0 1.0 1.0
+    # VERSION_NUMBER 1.0
+    # VERSION_DATE 2007-07-24
+    # SCALE 1.0 1.0 1.0
+    1 1 0 0 0 0 -1
+    2 0 0 0 0 0 1
+    3 5 0 0 0 0 2
+    4 0 0 0 0 0 3
+    5 0 0 0 0 4
+    6 0 0 0 0 5
+    7 0 0 0 0 3
+    8 0 0 0 0 7
+
+    </script>
+    <script id="swc2" type='text/plain'>
+    # ORIGINAL_SOURCE NeuronStudio 0.8.80
+    # CREATURE
+    # REGION
+    # FIELD/LAYER
+    # TYPE
+    # CONTRIBUTOR
+    # REFERENCE
+    # RAW
+    # EXTRAS
+    # SOMA_AREA
+    # SHINKAGE_CORRECTION 1.0 1.0 1.0
+    # VERSION_NUMBER 1.0
+    # VERSION_DATE 2007-07-24
+    # SCALE 1.0 1.0 1.0
+    1 1 0 0 0 0 -1
+    2 0 0 0 0 0 1
+    3 5 0 0 0 0 2
+    4 0 0 0 0 0 3
+    5 0 0 0 0 4
+    6 0 0 0 0 5
+    7 0 0 0 0 3
+    8 0 0 0 0 7
+
+    </script>
+		
+    <script id='metadata_swc' type='text/plain'>
+      [
+        {"label":"undefined","type":1},
+        {"label":"soma","type":0},
+        {"label":"axon","type":2},
+        {"label":"dendrite","type":3},
+        {"label":"apical dendrite","type":4},
+        {"label":"fork point","type":5},
+        {"label":"end point","type":6},
+        {"label":"custom","type":7}
+      ]
+    </script>
+    
+  </head>
+  <body>
+	 <!--Nav Bar-->
+	  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="index.html">Primate Cell Type Database</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+          <li class="nav-item">
+            <a class="nav-link" href="ourTeam.html">Our Team</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Data
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="ephysCT.html">Electrophysiology</a>
+              <a class="dropdown-item" href="#">Morphology</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="transcriptome.html">RNAseq (coming soon)</a>
+            </div>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0" action="search.html">
+          <input class="form-control mr-sm-2" type="text" name="q" id="tipue_search_input" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+	              <h1 class="text-center">Anatomical  Viewer</h1>
+
+	 
+  <form  hidden>
+    <label for='swc_input'>Upload a swc file to view it in the SharkViewer:</label>
+      <input type='file' name='swc_input' id='swc_input' />  
+		      <label for='swc_input'>Upload a obj file to view it in the SharkViewer:</label>
+      <input type='file' name='obj_input' id='obj_input' />
+    </form>
+	  <select class="form-control form-control-lg" id='loadCell'>
+		<option value="swc/M3.JS.A1.C1.swc">M3.JS.A1.C1</option>
+	    <option value="swc/M3.JS.B5.C11.swc">M3.JS.B5.C11</option>
+	  	<!--<option value="swc/M3.JS.B5.C11.2.swc">M3.JS.B5.C11</option>-->
+	  	<option value="swc/M3.JS.D1.C19.swc">M3.JS.D1.C19</option>
+	  	<option value="swc/M3.MW.A2.C2.swc">M3.MW.A2.C2</option>
+	  	<option value="swc/M3.MW.A4.C4.swc">M3.MW.A4.C4</option>
+	  	<option value="swc/M3.MW.B1.C7.swc">M3.MW.B1.C7</option>
+	  	<option value="swc/M3.MW.B2.C8.swc">M3.MW.B2.C8</option>
+	  </select>
+	  <input type="button" id='morphDL' onclick="window.location.href=document.getElementById('loadCell').value" value="Download" class="grey-btn"/>
+	  
+<!--<div class="btn-group dropright">
+  <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Load Cell
+  </button>
+	  <div class="dropdown-menu" id="loadCell">
+		<a class="dropdown-item" data-value="swc/M3.JS.A1.C1.swc">M3.JS.A1.C1</a>
+	    <a class="dropdown-item" data-value="swc/M3.JS.B5.C11.swc">M3.JS.B5.C11</a>
+	  	<a class="dropdown-item" data-value="swc/M3.JS.B5.C11.2.swc">M3.JS.B5.C11</a>
+	  	<a class="dropdown-item" data-value="swc/M3.JS.D1.C19.swc">M3.JS.D1.C19</a>
+	  	<a class="dropdown-item" data-value="swc/M3.MW.A2.C2.swc">M3.MW.A2.C2</a>
+	  	<a class="dropdown-item" data-value="swc/M3.MW.A4.C4.swc">M3.MW.A4.C4</a>
+	  	<a class="dropdown-item" data-value="swc/M3.MW.B1.C7.swc">M3.MW.B1.C7</a>
+	  	<a class="dropdown-item" data-value="swc/M3.MW.B2.C8.swc">M3.MW.B2.C8</a>
+  	</div>
+</div>-->
+
+				
+	<center><img src="images/morphologyControls.png" width="200" height="78" alt="Controls" class="controls"></center>
+<hr>
+	 <div class="row">
+	   <div class="text-center col-9">
+			     <!-- three.js container -->
+	 <div id="container" style='position:relative;width:100%;height:700px;table-cell'></div>
+		</div>
+	   <div class="text-center col">
+			 <div id="image-gallery"> <!-- not working right now-->
+			 	<div class="image-container"></div>
+				   <img src="js/iv-viewer-master/example/images/left.svg" class="prev" />
+      				<img src="js/iv-viewer-master/example/images/right.svg" class="next" />
+			 </div>
+			<script src="js/morphology.js"></script>
+		 </div>
+	</div>
+  <hr>
+	    	<div class="container">
+      <div class="row">
+        <div class="text-center col-md-6 col-12">
+          <h3>Want more details?</h3>
+          <p>You can download our Technical White Paper for methodology details.</p>
+          <a class="btn btn-danger btn-lg" href="#" role="button">White Paper</a>
+        </div>
+        <div class="text-center col-md-6 col-12">
+          <h3>Want to reconstruct?</h3>
+          <p>Come volunteer with the lab and learn to reconstruct cell morphologies.</p>
+          <!-- email button -->
+			  <a class="btn btn-info btn-lg" href="mailto:primate.database@gmail.com?cc=julio.martinez@robarts.ca, winoue@uwo.ca&Subject=Primate%20Cell%20Type%20Database" target="_top" role="button">Email us!</a>
+        </div>
+    </div>
+    <hr>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright © JMT Lab. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- info on screen display -->
+	<footer class="text-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<a href="/citation.html" class="btn btn-outline-primary"> Please view Our Citation policy.</a>
+				</div>
+			    <div class="col-6">
+					<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0; width: 50px;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><div class="font-weight-lighter" style="font-size:10px">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
+				</div>  
+			</div>
+		</div>
+	</footer>
+	<!--<section><div class="row container-fluid" style="align-content: center; justify-content: space-around">
+          
+				<div class="column" style="margin-bottom: 13px;">
+            			<a href="/citation.html" class="btn btn-outline-primary"> Please view Our Citation policy.</a>
+          		</div>
+					<div class="column" ><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0; width: 50px;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><div class="font-weight-lighter" style="font-size:10px">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a></div></div>
+        </div></section>-->
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap-4.3.1.js"></script>
+    <script type="text/javascript" src="js/three.min.js"></script>
+    <script type="text/javascript" src="js/shark_viewer_IE.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+  <script type="text/javascript" src="js/iv-viewer-master/dist/iv-viewer.js"></script>
+	<link hrep="js/iv-viewer-master/dist/iv-viewer.css" rel="stylesheet">  
+</body>
+</html>
+
