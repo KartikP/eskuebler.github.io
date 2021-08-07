@@ -1,0 +1,2702 @@
+[
+    {
+        "cellID":9116186,
+        "AP halfwidth":0.8,
+        "AP amplitude":52.54,
+        "Rheobase":110.0,
+        "Resistance":199.26,
+        "Time Constant":22.42,
+        "Resting potential":-58.815228443,
+        "Maximum firing rate":12.0
+    },
+    {
+        "cellID":3991007,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6138786,
+        "AP halfwidth":1.1,
+        "AP amplitude":49.61,
+        "Rheobase":210.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-50.7492872589,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":4139713,
+        "AP halfwidth":0.8,
+        "AP amplitude":59.94,
+        "Rheobase":30.0,
+        "Resistance":293.73,
+        "Time Constant":25.25,
+        "Resting potential":-55.2219651334,
+        "Maximum firing rate":107.0
+    },
+    {
+        "cellID":9125040,
+        "AP halfwidth":0.7,
+        "AP amplitude":62.95,
+        "Rheobase":10.0,
+        "Resistance":285.09,
+        "Time Constant":24.37,
+        "Resting potential":-53.6650617334,
+        "Maximum firing rate":89.0
+    },
+    {
+        "cellID":4131768,
+        "AP halfwidth":0.7,
+        "AP amplitude":73.49,
+        "Rheobase":30.0,
+        "Resistance":271.68,
+        "Time Constant":18.97,
+        "Resting potential":-61.3275004764,
+        "Maximum firing rate":103.0
+    },
+    {
+        "cellID":9238886,
+        "AP halfwidth":0.5,
+        "AP amplitude":47.33,
+        "Rheobase":110.0,
+        "Resistance":314.94,
+        "Time Constant":18.87,
+        "Resting potential":-67.4607895194,
+        "Maximum firing rate":167.0
+    },
+    {
+        "cellID":3300990,
+        "AP halfwidth":0.4,
+        "AP amplitude":53.86,
+        "Rheobase":170.0,
+        "Resistance":316.83,
+        "Time Constant":19.6,
+        "Resting potential":-63.0437943486,
+        "Maximum firing rate":3.0
+    },
+    {
+        "cellID":4381950,
+        "AP halfwidth":0.6,
+        "AP amplitude":39.95,
+        "Rheobase":50.0,
+        "Resistance":502.56,
+        "Time Constant":20.22,
+        "Resting potential":-55.5104304126,
+        "Maximum firing rate":66.0
+    },
+    {
+        "cellID":2608692,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9484668,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2193978,
+        "AP halfwidth":1.5,
+        "AP amplitude":63.78,
+        "Rheobase":50.0,
+        "Resistance":1321.11,
+        "Time Constant":43.35,
+        "Resting potential":-66.9999190399,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":1594785,
+        "AP halfwidth":1.1,
+        "AP amplitude":62.91,
+        "Rheobase":50.0,
+        "Resistance":398.71,
+        "Time Constant":24.74,
+        "Resting potential":-74.5168429034,
+        "Maximum firing rate":41.0
+    },
+    {
+        "cellID":8192642,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8117196,
+        "AP halfwidth":1.3,
+        "AP amplitude":69.92,
+        "Rheobase":30.0,
+        "Resistance":476.84,
+        "Time Constant":41.73,
+        "Resting potential":-62.0762883985,
+        "Maximum firing rate":9.0
+    },
+    {
+        "cellID":5509646,
+        "AP halfwidth":1.5,
+        "AP amplitude":59.67,
+        "Rheobase":10.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-67.223809108,
+        "Maximum firing rate":3.0
+    },
+    {
+        "cellID":2082324,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9354900,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9442391,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6579948,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6053114,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9006388,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3814945,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5093218,
+        "AP halfwidth":1.6,
+        "AP amplitude":75.43,
+        "Rheobase":70.0,
+        "Resistance":425.87,
+        "Time Constant":14.05,
+        "Resting potential":-53.5895902636,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":5516188,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9773626,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1042279,
+        "AP halfwidth":2.8,
+        "AP amplitude":67.12,
+        "Rheobase":130.0,
+        "Resistance":314.09,
+        "Time Constant":51.16,
+        "Resting potential":-78.3916146179,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":3057255,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8142137,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9320369,
+        "AP halfwidth":0.4,
+        "AP amplitude":53.86,
+        "Rheobase":170.0,
+        "Resistance":316.83,
+        "Time Constant":19.6,
+        "Resting potential":-63.0437943486,
+        "Maximum firing rate":3.0
+    },
+    {
+        "cellID":6665246,
+        "AP halfwidth":0.5,
+        "AP amplitude":47.33,
+        "Rheobase":110.0,
+        "Resistance":314.94,
+        "Time Constant":18.87,
+        "Resting potential":-67.4607895194,
+        "Maximum firing rate":167.0
+    },
+    {
+        "cellID":7871241,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4605758,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2329230,
+        "AP halfwidth":0.8,
+        "AP amplitude":69.06,
+        "Rheobase":50.0,
+        "Resistance":607.3,
+        "Time Constant":23.35,
+        "Resting potential":-53.6655183754,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":4257958,
+        "AP halfwidth":0.4,
+        "AP amplitude":43.14,
+        "Rheobase":270.0,
+        "Resistance":253.36,
+        "Time Constant":14.83,
+        "Resting potential":-63.5938376163,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":4544001,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4086761,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7003136,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8351285,
+        "AP halfwidth":0.7,
+        "AP amplitude":69.49,
+        "Rheobase":30.0,
+        "Resistance":449.83,
+        "Time Constant":16.82,
+        "Resting potential":-68.4725710015,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":8173434,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2029012,
+        "AP halfwidth":0.95,
+        "AP amplitude":79.16,
+        "Rheobase":30.0,
+        "Resistance":257.87,
+        "Time Constant":36.09,
+        "Resting potential":-74.7671823663,
+        "Maximum firing rate":28.0
+    },
+    {
+        "cellID":8568858,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5158717,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1793600,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3205536,
+        "AP halfwidth":0.8,
+        "AP amplitude":69.76,
+        "Rheobase":110.0,
+        "Resistance":331.57,
+        "Time Constant":9.72,
+        "Resting potential":-79.6754209368,
+        "Maximum firing rate":13.0
+    },
+    {
+        "cellID":6497946,
+        "AP halfwidth":0.45,
+        "AP amplitude":59.05,
+        "Rheobase":70.0,
+        "Resistance":335.24,
+        "Time Constant":15.21,
+        "Resting potential":-64.1648531269,
+        "Maximum firing rate":213.0
+    },
+    {
+        "cellID":1868154,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3387038,
+        "AP halfwidth":1.05,
+        "AP amplitude":76.08,
+        "Rheobase":30.0,
+        "Resistance":242.46,
+        "Time Constant":27.97,
+        "Resting potential":-72.643712988,
+        "Maximum firing rate":34.0
+    },
+    {
+        "cellID":7156283,
+        "AP halfwidth":0.6,
+        "AP amplitude":84.35,
+        "Rheobase":10.0,
+        "Resistance":383.76,
+        "Time Constant":17.1,
+        "Resting potential":-63.1444543298,
+        "Maximum firing rate":107.0
+    },
+    {
+        "cellID":6894164,
+        "AP halfwidth":1.4,
+        "AP amplitude":50.69,
+        "Rheobase":190.0,
+        "Resistance":343.32,
+        "Time Constant":14.35,
+        "Resting potential":-70.7419441082,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":9994846,
+        "AP halfwidth":0.4,
+        "AP amplitude":65.22,
+        "Rheobase":90.0,
+        "Resistance":391.85,
+        "Time Constant":23.07,
+        "Resting potential":-63.1372230398,
+        "Maximum firing rate":155.0
+    },
+    {
+        "cellID":9197281,
+        "AP halfwidth":0.75,
+        "AP amplitude":47.18,
+        "Rheobase":70.0,
+        "Resistance":378.11,
+        "Time Constant":16.43,
+        "Resting potential":-65.0732047161,
+        "Maximum firing rate":16.0
+    },
+    {
+        "cellID":3519448,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8054891,
+        "AP halfwidth":1.0,
+        "AP amplitude":82.18,
+        "Rheobase":30.0,
+        "Resistance":307.31,
+        "Time Constant":24.39,
+        "Resting potential":-66.7462646864,
+        "Maximum firing rate":51.0
+    },
+    {
+        "cellID":5422974,
+        "AP halfwidth":1.55,
+        "AP amplitude":90.55,
+        "Rheobase":210.0,
+        "Resistance":154.88,
+        "Time Constant":16.2,
+        "Resting potential":-64.8687110857,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":1403245,
+        "AP halfwidth":0.45,
+        "AP amplitude":47.97,
+        "Rheobase":50.0,
+        "Resistance":290.07,
+        "Time Constant":14.98,
+        "Resting potential":-63.8784539629,
+        "Maximum firing rate":166.0
+    },
+    {
+        "cellID":4680464,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8390053,
+        "AP halfwidth":0.5,
+        "AP amplitude":43.27,
+        "Rheobase":50.0,
+        "Resistance":315.25,
+        "Time Constant":13.14,
+        "Resting potential":-66.738074174,
+        "Maximum firing rate":209.0
+    },
+    {
+        "cellID":2438192,
+        "AP halfwidth":1.0,
+        "AP amplitude":83.07,
+        "Rheobase":30.0,
+        "Resistance":214.84,
+        "Time Constant":23.8,
+        "Resting potential":-64.8652212733,
+        "Maximum firing rate":38.0
+    },
+    {
+        "cellID":6147887,
+        "AP halfwidth":1.4,
+        "AP amplitude":57.59,
+        "Rheobase":30.0,
+        "Resistance":480.65,
+        "Time Constant":44.48,
+        "Resting potential":-66.5749227374,
+        "Maximum firing rate":16.0
+    },
+    {
+        "cellID":7742234,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6613779,
+        "AP halfwidth":0.8,
+        "AP amplitude":70.34,
+        "Rheobase":130.0,
+        "Resistance":236.34,
+        "Time Constant":19.68,
+        "Resting potential":-72.571028911,
+        "Maximum firing rate":39.0
+    },
+    {
+        "cellID":9050555,
+        "AP halfwidth":0.45,
+        "AP amplitude":54.5,
+        "Rheobase":110.0,
+        "Resistance":218.2,
+        "Time Constant":12.17,
+        "Resting potential":-66.5319394007,
+        "Maximum firing rate":152.0
+    },
+    {
+        "cellID":3707837,
+        "AP halfwidth":0.9,
+        "AP amplitude":72.85,
+        "Rheobase":30.0,
+        "Resistance":437.93,
+        "Time Constant":25.06,
+        "Resting potential":-70.2241253611,
+        "Maximum firing rate":51.0
+    },
+    {
+        "cellID":8965146,
+        "AP halfwidth":0.35,
+        "AP amplitude":55.66,
+        "Rheobase":150.0,
+        "Resistance":272.67,
+        "Time Constant":16.0,
+        "Resting potential":-72.0462490434,
+        "Maximum firing rate":3.0
+    },
+    {
+        "cellID":8728742,
+        "AP halfwidth":0.85,
+        "AP amplitude":70.43,
+        "Rheobase":30.0,
+        "Resistance":383.5,
+        "Time Constant":17.2,
+        "Resting potential":-61.047426376,
+        "Maximum firing rate":24.0
+    },
+    {
+        "cellID":1048427,
+        "AP halfwidth":0.75,
+        "AP amplitude":81.57,
+        "Rheobase":190.0,
+        "Resistance":199.13,
+        "Time Constant":13.64,
+        "Resting potential":-74.256578525,
+        "Maximum firing rate":4.0
+    },
+    {
+        "cellID":4772129,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3460395,
+        "AP halfwidth":0.35,
+        "AP amplitude":71.08,
+        "Rheobase":110.0,
+        "Resistance":271.45,
+        "Time Constant":15.51,
+        "Resting potential":-65.3986587858,
+        "Maximum firing rate":195.0
+    },
+    {
+        "cellID":2173709,
+        "AP halfwidth":0.55,
+        "AP amplitude":60.89,
+        "Rheobase":50.0,
+        "Resistance":270.65,
+        "Time Constant":43.95,
+        "Resting potential":-69.7042751043,
+        "Maximum firing rate":67.0
+    },
+    {
+        "cellID":2786918,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9144107,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2571634,
+        "AP halfwidth":0.6,
+        "AP amplitude":50.56,
+        "Rheobase":30.0,
+        "Resistance":283.11,
+        "Time Constant":30.3,
+        "Resting potential":-66.2349129815,
+        "Maximum firing rate":98.0
+    },
+    {
+        "cellID":7409398,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5516779,
+        "AP halfwidth":0.55,
+        "AP amplitude":76.01,
+        "Rheobase":30.0,
+        "Resistance":526.49,
+        "Time Constant":18.1,
+        "Resting potential":-61.6797043754,
+        "Maximum firing rate":117.0
+    },
+    {
+        "cellID":7533484,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7102276,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1646429,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3292431,
+        "AP halfwidth":0.35,
+        "AP amplitude":57.62,
+        "Rheobase":150.0,
+        "Resistance":277.1,
+        "Time Constant":14.28,
+        "Resting potential":-64.5471841205,
+        "Maximum firing rate":115.0
+    },
+    {
+        "cellID":6239811,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5403686,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2138321,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6753342,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9291512,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5091066,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6068532,
+        "AP halfwidth":1.8,
+        "AP amplitude":54.16,
+        "Rheobase":50.0,
+        "Resistance":270.11,
+        "Time Constant":20.09,
+        "Resting potential":-58.766011243,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":5764633,
+        "AP halfwidth":0.85,
+        "AP amplitude":72.66,
+        "Rheobase":30.0,
+        "Resistance":408.13,
+        "Time Constant":46.11,
+        "Resting potential":-71.3827212038,
+        "Maximum firing rate":40.0
+    },
+    {
+        "cellID":5735531,
+        "AP halfwidth":0.75,
+        "AP amplitude":80.63,
+        "Rheobase":30.0,
+        "Resistance":474.37,
+        "Time Constant":33.87,
+        "Resting potential":-68.7331002648,
+        "Maximum firing rate":57.0
+    },
+    {
+        "cellID":6229821,
+        "AP halfwidth":0.7,
+        "AP amplitude":70.62,
+        "Rheobase":30.0,
+        "Resistance":408.9,
+        "Time Constant":31.29,
+        "Resting potential":-68.3403695873,
+        "Maximum firing rate":46.0
+    },
+    {
+        "cellID":3328479,
+        "AP halfwidth":0.7,
+        "AP amplitude":56.7,
+        "Rheobase":30.0,
+        "Resistance":476.07,
+        "Time Constant":34.21,
+        "Resting potential":-54.0583463271,
+        "Maximum firing rate":102.0
+    },
+    {
+        "cellID":2717681,
+        "AP halfwidth":1.5,
+        "AP amplitude":85.08,
+        "Rheobase":50.0,
+        "Resistance":238.34,
+        "Time Constant":26.56,
+        "Resting potential":-65.7987000811,
+        "Maximum firing rate":19.0
+    },
+    {
+        "cellID":7741737,
+        "AP halfwidth":1.25,
+        "AP amplitude":66.77,
+        "Rheobase":50.0,
+        "Resistance":359.34,
+        "Time Constant":19.13,
+        "Resting potential":-73.4350765744,
+        "Maximum firing rate":23.0
+    },
+    {
+        "cellID":9307438,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1918906,
+        "AP halfwidth":1.45,
+        "AP amplitude":73.06,
+        "Rheobase":50.0,
+        "Resistance":256.5,
+        "Time Constant":21.04,
+        "Resting potential":-62.5741987115,
+        "Maximum firing rate":24.0
+    },
+    {
+        "cellID":3354272,
+        "AP halfwidth":0.4,
+        "AP amplitude":76.91,
+        "Rheobase":50.0,
+        "Resistance":270.65,
+        "Time Constant":19.3,
+        "Resting potential":-54.6415817293,
+        "Maximum firing rate":116.0
+    },
+    {
+        "cellID":8112354,
+        "AP halfwidth":0.85,
+        "AP amplitude":86.02,
+        "Rheobase":70.0,
+        "Resistance":351.2,
+        "Time Constant":20.23,
+        "Resting potential":-63.221952115,
+        "Maximum firing rate":23.0
+    },
+    {
+        "cellID":5611401,
+        "AP halfwidth":0.95,
+        "AP amplitude":90.45,
+        "Rheobase":70.0,
+        "Resistance":325.47,
+        "Time Constant":23.15,
+        "Resting potential":-67.7935401815,
+        "Maximum firing rate":8.0
+    },
+    {
+        "cellID":6322207,
+        "AP halfwidth":1.1,
+        "AP amplitude":87.91,
+        "Rheobase":150.0,
+        "Resistance":105.35,
+        "Time Constant":20.45,
+        "Resting potential":-69.9044079727,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":2877228,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7172153,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9004543,
+        "AP halfwidth":1.75,
+        "AP amplitude":84.03,
+        "Rheobase":30.0,
+        "Resistance":202.94,
+        "Time Constant":43.92,
+        "Resting potential":-58.1282975876,
+        "Maximum firing rate":16.0
+    },
+    {
+        "cellID":2433874,
+        "AP halfwidth":1.4,
+        "AP amplitude":91.87,
+        "Rheobase":90.0,
+        "Resistance":203.83,
+        "Time Constant":21.86,
+        "Resting potential":-65.0032420484,
+        "Maximum firing rate":9.0
+    },
+    {
+        "cellID":7440194,
+        "AP halfwidth":0.75,
+        "AP amplitude":68.55,
+        "Rheobase":70.0,
+        "Resistance":149.72,
+        "Time Constant":18.13,
+        "Resting potential":-72.6345672176,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":8514967,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6740900,
+        "AP halfwidth":0.45,
+        "AP amplitude":57.51,
+        "Rheobase":150.0,
+        "Resistance":276.28,
+        "Time Constant":21.6,
+        "Resting potential":-57.1228110544,
+        "Maximum firing rate":112.0
+    },
+    {
+        "cellID":8405731,
+        "AP halfwidth":0.7,
+        "AP amplitude":82.08,
+        "Rheobase":130.0,
+        "Resistance":117.46,
+        "Time Constant":16.63,
+        "Resting potential":-75.2344017712,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":7351312,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4907214,
+        "AP halfwidth":0.55,
+        "AP amplitude":83.62,
+        "Rheobase":170.0,
+        "Resistance":140.99,
+        "Time Constant":12.41,
+        "Resting potential":-75.341205598,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":1034621,
+        "AP halfwidth":0.7,
+        "AP amplitude":97.41,
+        "Rheobase":150.0,
+        "Resistance":126.74,
+        "Time Constant":13.68,
+        "Resting potential":-72.9382246629,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":9782658,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7855496,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8471955,
+        "AP halfwidth":1.15,
+        "AP amplitude":65.53,
+        "Rheobase":90.0,
+        "Resistance":206.6,
+        "Time Constant":18.73,
+        "Resting potential":-57.7013116406,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":9690318,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6253136,
+        "AP halfwidth":0.7,
+        "AP amplitude":88.49,
+        "Rheobase":110.0,
+        "Resistance":134.91,
+        "Time Constant":23.6,
+        "Resting potential":-77.4810559943,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":4996008,
+        "AP halfwidth":0.75,
+        "AP amplitude":78.36,
+        "Rheobase":70.0,
+        "Resistance":336.67,
+        "Time Constant":17.02,
+        "Resting potential":-63.7428210647,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":6643315,
+        "AP halfwidth":0.75,
+        "AP amplitude":58.47,
+        "Rheobase":50.0,
+        "Resistance":292.88,
+        "Time Constant":26.54,
+        "Resting potential":-66.9072305628,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":8285613,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7726562,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2374526,
+        "AP halfwidth":0.45,
+        "AP amplitude":67.58,
+        "Rheobase":70.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-58.9459660119,
+        "Maximum firing rate":82.0
+    },
+    {
+        "cellID":8682745,
+        "AP halfwidth":0.85,
+        "AP amplitude":72.89,
+        "Rheobase":20.0,
+        "Resistance":405.82,
+        "Time Constant":23.28,
+        "Resting potential":-64.6441586497,
+        "Maximum firing rate":30.0
+    },
+    {
+        "cellID":8938877,
+        "AP halfwidth":0.45,
+        "AP amplitude":67.98,
+        "Rheobase":150.0,
+        "Resistance":302.73,
+        "Time Constant":20.75,
+        "Resting potential":-56.5781236491,
+        "Maximum firing rate":146.0
+    },
+    {
+        "cellID":5677189,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9309103,
+        "AP halfwidth":0.85,
+        "AP amplitude":68.01,
+        "Rheobase":90.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-68.5551397269,
+        "Maximum firing rate":11.0
+    },
+    {
+        "cellID":1216860,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1471303,
+        "AP halfwidth":0.8,
+        "AP amplitude":80.05,
+        "Rheobase":50.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-56.419695161,
+        "Maximum firing rate":43.0
+    },
+    {
+        "cellID":2950280,
+        "AP halfwidth":0.9,
+        "AP amplitude":69.59,
+        "Rheobase":70.0,
+        "Resistance":371.58,
+        "Time Constant":20.81,
+        "Resting potential":-67.7120761748,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":6431711,
+        "AP halfwidth":1.0,
+        "AP amplitude":73.36,
+        "Rheobase":80.0,
+        "Resistance":224.06,
+        "Time Constant":30.39,
+        "Resting potential":-75.9284999623,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":4869313,
+        "AP halfwidth":1.55,
+        "AP amplitude":85.66,
+        "Rheobase":70.0,
+        "Resistance":171.97,
+        "Time Constant":55.88,
+        "Resting potential":-80.9968546173,
+        "Maximum firing rate":26.0
+    },
+    {
+        "cellID":9486901,
+        "AP halfwidth":0.95,
+        "AP amplitude":81.37,
+        "Rheobase":70.0,
+        "Resistance":207.67,
+        "Time Constant":19.55,
+        "Resting potential":-68.5379607464,
+        "Maximum firing rate":24.0
+    },
+    {
+        "cellID":6939911,
+        "AP halfwidth":0.95,
+        "AP amplitude":87.29,
+        "Rheobase":10.0,
+        "Resistance":293.64,
+        "Time Constant":29.57,
+        "Resting potential":-67.1934398841,
+        "Maximum firing rate":28.0
+    },
+    {
+        "cellID":1051255,
+        "AP halfwidth":1.2,
+        "AP amplitude":71.91,
+        "Rheobase":20.0,
+        "Resistance":523.65,
+        "Time Constant":21.24,
+        "Resting potential":-69.5584344176,
+        "Maximum firing rate":33.0
+    },
+    {
+        "cellID":4659944,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4642236,
+        "AP halfwidth":1.15,
+        "AP amplitude":66.41,
+        "Rheobase":230.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-69.2815827116,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":9363412,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6902591,
+        "AP halfwidth":0.9,
+        "AP amplitude":87.05,
+        "Rheobase":270.0,
+        "Resistance":98.75,
+        "Time Constant":7.14,
+        "Resting potential":-81.0290722107,
+        "Maximum firing rate":20.0
+    },
+    {
+        "cellID":1875729,
+        "AP halfwidth":0.35,
+        "AP amplitude":62.38,
+        "Rheobase":150.0,
+        "Resistance":160.64,
+        "Time Constant":11.6,
+        "Resting potential":-58.7259021051,
+        "Maximum firing rate":63.0
+    },
+    {
+        "cellID":2792521,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8139834,
+        "AP halfwidth":0.4,
+        "AP amplitude":74.88,
+        "Rheobase":150.0,
+        "Resistance":188.87,
+        "Time Constant":12.59,
+        "Resting potential":-59.2245976195,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":7342917,
+        "AP halfwidth":1.15,
+        "AP amplitude":77.37,
+        "Rheobase":170.0,
+        "Resistance":93.2,
+        "Time Constant":10.51,
+        "Resting potential":-72.3468910136,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":7517171,
+        "AP halfwidth":0.95,
+        "AP amplitude":83.72,
+        "Rheobase":70.0,
+        "Resistance":264.22,
+        "Time Constant":17.46,
+        "Resting potential":-65.1500638048,
+        "Maximum firing rate":23.0
+    },
+    {
+        "cellID":5325445,
+        "AP halfwidth":1.4,
+        "AP amplitude":87.7,
+        "Rheobase":30.0,
+        "Resistance":298.34,
+        "Time Constant":43.22,
+        "Resting potential":-53.6388155717,
+        "Maximum firing rate":11.0
+    },
+    {
+        "cellID":7533790,
+        "AP halfwidth":0.85,
+        "AP amplitude":96.15,
+        "Rheobase":330.0,
+        "Resistance":77.85,
+        "Time Constant":7.12,
+        "Resting potential":-87.8802882962,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":7601346,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5216294,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3591300,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2032448,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5994610,
+        "AP halfwidth":1.3,
+        "AP amplitude":50.45,
+        "Rheobase":30.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-58.1221962111,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":1375121,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3807908,
+        "AP halfwidth":0.85,
+        "AP amplitude":72.85,
+        "Rheobase":90.0,
+        "Resistance":229.64,
+        "Time Constant":12.66,
+        "Resting potential":-76.1756019865,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":1759444,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8868010,
+        "AP halfwidth":0.9,
+        "AP amplitude":55.61,
+        "Rheobase":70.0,
+        "Resistance":524.14,
+        "Time Constant":22.12,
+        "Resting potential":-61.4235328451,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":8094375,
+        "AP halfwidth":0.8,
+        "AP amplitude":66.41,
+        "Rheobase":90.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-68.0142127508,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":1745763,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2175011,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7798299,
+        "AP halfwidth":1.0,
+        "AP amplitude":83.18,
+        "Rheobase":150.0,
+        "Resistance":102.29,
+        "Time Constant":15.22,
+        "Resting potential":-74.989079664,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":2309846,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3381210,
+        "AP halfwidth":1.0,
+        "AP amplitude":76.77,
+        "Rheobase":10.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-68.3400593634,
+        "Maximum firing rate":41.0
+    },
+    {
+        "cellID":4828162,
+        "AP halfwidth":0.95,
+        "AP amplitude":74.98,
+        "Rheobase":50.0,
+        "Resistance":341.96,
+        "Time Constant":17.26,
+        "Resting potential":-75.3537242854,
+        "Maximum firing rate":40.0
+    },
+    {
+        "cellID":6678187,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1766617,
+        "AP halfwidth":1.1,
+        "AP amplitude":77.22,
+        "Rheobase":30.0,
+        "Resistance":324.9,
+        "Time Constant":12.65,
+        "Resting potential":-71.4913199845,
+        "Maximum firing rate":39.0
+    },
+    {
+        "cellID":9018815,
+        "AP halfwidth":0.55,
+        "AP amplitude":62.28,
+        "Rheobase":70.0,
+        "Resistance":350.46,
+        "Time Constant":23.6,
+        "Resting potential":-67.092316939,
+        "Maximum firing rate":82.0
+    },
+    {
+        "cellID":7208490,
+        "AP halfwidth":1.45,
+        "AP amplitude":58.5,
+        "Rheobase":110.0,
+        "Resistance":509.77,
+        "Time Constant":36.23,
+        "Resting potential":-69.5550024794,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":8311755,
+        "AP halfwidth":1.2,
+        "AP amplitude":48.37,
+        "Rheobase":90.0,
+        "Resistance":184.63,
+        "Time Constant":20.85,
+        "Resting potential":-65.4897241428,
+        "Maximum firing rate":3.0
+    },
+    {
+        "cellID":4189686,
+        "AP halfwidth":0.9,
+        "AP amplitude":73.25,
+        "Rheobase":50.0,
+        "Resistance":489.68,
+        "Time Constant":23.83,
+        "Resting potential":-65.9377993684,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":1708863,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4791904,
+        "AP halfwidth":1.05,
+        "AP amplitude":71.32,
+        "Rheobase":40.0,
+        "Resistance":302.15,
+        "Time Constant":20.33,
+        "Resting potential":-63.8841497494,
+        "Maximum firing rate":35.0
+    },
+    {
+        "cellID":7571316,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3398513,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7551031,
+        "AP halfwidth":2.4,
+        "AP amplitude":45.07,
+        "Rheobase":130.0,
+        "Resistance":219.86,
+        "Time Constant":22.53,
+        "Resting potential":-52.3389117202,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":7785812,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9245752,
+        "AP halfwidth":1.6,
+        "AP amplitude":54.77,
+        "Rheobase":70.0,
+        "Resistance":179.66,
+        "Time Constant":27.74,
+        "Resting potential":-71.4596797127,
+        "Maximum firing rate":11.0
+    },
+    {
+        "cellID":1755126,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5414054,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6869256,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5349797,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7288380,
+        "AP halfwidth":1.0,
+        "AP amplitude":46.33,
+        "Rheobase":70.0,
+        "Resistance":222.78,
+        "Time Constant":21.25,
+        "Resting potential":-63.9275683802,
+        "Maximum firing rate":12.0
+    },
+    {
+        "cellID":2418091,
+        "AP halfwidth":0.8,
+        "AP amplitude":74.68,
+        "Rheobase":90.0,
+        "Resistance":257.26,
+        "Time Constant":17.3,
+        "Resting potential":-73.247628265,
+        "Maximum firing rate":4.0
+    },
+    {
+        "cellID":8814083,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":6182896,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3546778,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3629404,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4418976,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9684058,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1508951,
+        "AP halfwidth":1.1,
+        "AP amplitude":60.27,
+        "Rheobase":30.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-63.1606432581,
+        "Maximum firing rate":3.0
+    },
+    {
+        "cellID":8816063,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4610431,
+        "AP halfwidth":1.0,
+        "AP amplitude":52.55,
+        "Rheobase":30.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-57.2299993599,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":7018718,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2822153,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5088740,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7029887,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":9176771,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5584685,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7706192,
+        "AP halfwidth":0.5,
+        "AP amplitude":62.78,
+        "Rheobase":90.0,
+        "Resistance":277.32,
+        "Time Constant":19.14,
+        "Resting potential":-62.6708107131,
+        "Maximum firing rate":76.0
+    },
+    {
+        "cellID":6388045,
+        "AP halfwidth":0.6,
+        "AP amplitude":77.91,
+        "Rheobase":10.0,
+        "Resistance":327.68,
+        "Time Constant":14.9,
+        "Resting potential":-65.3944703053,
+        "Maximum firing rate":60.0
+    },
+    {
+        "cellID":7861156,
+        "AP halfwidth":0.6,
+        "AP amplitude":77.64,
+        "Rheobase":70.0,
+        "Resistance":400.52,
+        "Time Constant":14.38,
+        "Resting potential":-61.0170861991,
+        "Maximum firing rate":86.0
+    },
+    {
+        "cellID":4180066,
+        "AP halfwidth":0.8,
+        "AP amplitude":61.74,
+        "Rheobase":50.0,
+        "Resistance":606.23,
+        "Time Constant":32.15,
+        "Resting potential":-51.8938852636,
+        "Maximum firing rate":10.0
+    },
+    {
+        "cellID":1467366,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2420627,
+        "AP halfwidth":0.85,
+        "AP amplitude":66.59,
+        "Rheobase":90.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-66.6244870144,
+        "Maximum firing rate":29.0
+    },
+    {
+        "cellID":3304879,
+        "AP halfwidth":0.7,
+        "AP amplitude":56.12,
+        "Rheobase":90.0,
+        "Resistance":519.41,
+        "Time Constant":26.27,
+        "Resting potential":-66.7321826673,
+        "Maximum firing rate":5.0
+    },
+    {
+        "cellID":6226949,
+        "AP halfwidth":0.75,
+        "AP amplitude":77.92,
+        "Rheobase":250.0,
+        "Resistance":131.15,
+        "Time Constant":9.1,
+        "Resting potential":-77.4459763448,
+        "Maximum firing rate":5.0
+    },
+    {
+        "cellID":3781957,
+        "AP halfwidth":0.8,
+        "AP amplitude":63.22,
+        "Rheobase":10.0,
+        "Resistance":428.54,
+        "Time Constant":38.43,
+        "Resting potential":-57.6264133329,
+        "Maximum firing rate":55.0
+    },
+    {
+        "cellID":4346936,
+        "AP halfwidth":0.4,
+        "AP amplitude":46.95,
+        "Rheobase":250.0,
+        "Resistance":236.28,
+        "Time Constant":14.47,
+        "Resting potential":-67.2101095298,
+        "Maximum firing rate":55.0
+    },
+    {
+        "cellID":1731348,
+        "AP halfwidth":0.95,
+        "AP amplitude":47.75,
+        "Rheobase":170.0,
+        "Resistance":572.94,
+        "Time Constant":37.44,
+        "Resting potential":-63.6207785227,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":1108683,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1762174,
+        "AP halfwidth":1.3,
+        "AP amplitude":51.79,
+        "Rheobase":30.0,
+        "Resistance":528.83,
+        "Time Constant":19.9,
+        "Resting potential":-70.3109108667,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":8210546,
+        "AP halfwidth":0.6,
+        "AP amplitude":61.92,
+        "Rheobase":70.0,
+        "Resistance":444.25,
+        "Time Constant":25.45,
+        "Resting potential":-73.6723808841,
+        "Maximum firing rate":108.0
+    },
+    {
+        "cellID":4230876,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4989490,
+        "AP halfwidth":1.35,
+        "AP amplitude":58.96,
+        "Rheobase":50.0,
+        "Resistance":206.76,
+        "Time Constant":25.95,
+        "Resting potential":-67.3346771013,
+        "Maximum firing rate":23.0
+    },
+    {
+        "cellID":8494148,
+        "AP halfwidth":0.85,
+        "AP amplitude":82.37,
+        "Rheobase":30.0,
+        "Resistance":335.69,
+        "Time Constant":18.68,
+        "Resting potential":-73.2441918328,
+        "Maximum firing rate":56.0
+    },
+    {
+        "cellID":5212794,
+        "AP halfwidth":0.6,
+        "AP amplitude":84.01,
+        "Rheobase":150.0,
+        "Resistance":102.39,
+        "Time Constant":13.09,
+        "Resting potential":-69.5381179707,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":5722414,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7071602,
+        "AP halfwidth":0.85,
+        "AP amplitude":70.34,
+        "Rheobase":130.0,
+        "Resistance":145.72,
+        "Time Constant":8.63,
+        "Resting potential":-76.5870176223,
+        "Maximum firing rate":11.0
+    },
+    {
+        "cellID":6922694,
+        "AP halfwidth":0.55,
+        "AP amplitude":58.4,
+        "Rheobase":90.0,
+        "Resistance":296.38,
+        "Time Constant":20.62,
+        "Resting potential":-63.6072389004,
+        "Maximum firing rate":126.0
+    },
+    {
+        "cellID":8238986,
+        "AP halfwidth":1.15,
+        "AP amplitude":66.89,
+        "Rheobase":90.0,
+        "Resistance":174.71,
+        "Time Constant":15.66,
+        "Resting potential":-55.8862874594,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":5209360,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3967336,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7788116,
+        "AP halfwidth":0.95,
+        "AP amplitude":71.83,
+        "Rheobase":130.0,
+        "Resistance":91.23,
+        "Time Constant":16.52,
+        "Resting potential":-68.5879399863,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":7940377,
+        "AP halfwidth":0.8,
+        "AP amplitude":79.31,
+        "Rheobase":70.0,
+        "Resistance":103.09,
+        "Time Constant":17.13,
+        "Resting potential":-71.0935775089,
+        "Maximum firing rate":23.0
+    },
+    {
+        "cellID":1793080,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5413612,
+        "AP halfwidth":1.0,
+        "AP amplitude":65.06,
+        "Rheobase":20.0,
+        "Resistance":348.85,
+        "Time Constant":16.14,
+        "Resting potential":-71.4197782258,
+        "Maximum firing rate":40.0
+    },
+    {
+        "cellID":6726850,
+        "AP halfwidth":0.65,
+        "AP amplitude":75.73,
+        "Rheobase":20.0,
+        "Resistance":504.14,
+        "Time Constant":17.93,
+        "Resting potential":-65.5449404482,
+        "Maximum firing rate":109.0
+    },
+    {
+        "cellID":6107668,
+        "AP halfwidth":1.05,
+        "AP amplitude":76.51,
+        "Rheobase":20.0,
+        "Resistance":600.43,
+        "Time Constant":34.74,
+        "Resting potential":-84.5522911907,
+        "Maximum firing rate":37.0
+    },
+    {
+        "cellID":8823144,
+        "AP halfwidth":1.1,
+        "AP amplitude":72.07,
+        "Rheobase":60.0,
+        "Resistance":214.36,
+        "Time Constant":13.06,
+        "Resting potential":-75.4107579192,
+        "Maximum firing rate":9.0
+    },
+    {
+        "cellID":6046271,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4001967,
+        "AP halfwidth":1.15,
+        "AP amplitude":68.25,
+        "Rheobase":160.0,
+        "Resistance":181.13,
+        "Time Constant":21.93,
+        "Resting potential":-76.5285911701,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":2972263,
+        "AP halfwidth":1.0,
+        "AP amplitude":57.77,
+        "Rheobase":90.0,
+        "Resistance":216.78,
+        "Time Constant":23.63,
+        "Resting potential":-76.3074460507,
+        "Maximum firing rate":3.0
+    },
+    {
+        "cellID":8949835,
+        "AP halfwidth":0.45,
+        "AP amplitude":60.12,
+        "Rheobase":90.0,
+        "Resistance":228.92,
+        "Time Constant":19.5,
+        "Resting potential":-63.1497039558,
+        "Maximum firing rate":121.0
+    },
+    {
+        "cellID":8196297,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4265397,
+        "AP halfwidth":1.2,
+        "AP amplitude":85.09,
+        "Rheobase":70.0,
+        "Resistance":211.74,
+        "Time Constant":19.14,
+        "Resting potential":-72.5075533168,
+        "Maximum firing rate":4.0
+    },
+    {
+        "cellID":6101388,
+        "AP halfwidth":0.8,
+        "AP amplitude":50.99,
+        "Rheobase":50.0,
+        "Resistance":272.83,
+        "Time Constant":13.31,
+        "Resting potential":-78.0611651902,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":6926946,
+        "AP halfwidth":0.35,
+        "AP amplitude":43.76,
+        "Rheobase":90.0,
+        "Resistance":255.06,
+        "Time Constant":12.24,
+        "Resting potential":-66.5862212937,
+        "Maximum firing rate":97.0
+    },
+    {
+        "cellID":5524106,
+        "AP halfwidth":0.9,
+        "AP amplitude":69.84,
+        "Rheobase":90.0,
+        "Resistance":187.27,
+        "Time Constant":16.96,
+        "Resting potential":-75.4355250306,
+        "Maximum firing rate":8.0
+    },
+    {
+        "cellID":9222678,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1988903,
+        "AP halfwidth":1.1,
+        "AP amplitude":92.37,
+        "Rheobase":230.0,
+        "Resistance":88.86,
+        "Time Constant":19.45,
+        "Resting potential":-79.6402915103,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":8615126,
+        "AP halfwidth":1.45,
+        "AP amplitude":83.51,
+        "Rheobase":150.0,
+        "Resistance":74.49,
+        "Time Constant":21.65,
+        "Resting potential":-73.1566538338,
+        "Maximum firing rate":14.0
+    },
+    {
+        "cellID":8001045,
+        "AP halfwidth":0.45,
+        "AP amplitude":49.77,
+        "Rheobase":150.0,
+        "Resistance":240.33,
+        "Time Constant":33.72,
+        "Resting potential":-53.0218269488,
+        "Maximum firing rate":16.0
+    },
+    {
+        "cellID":4784390,
+        "AP halfwidth":0.5,
+        "AP amplitude":49.94,
+        "Rheobase":80.0,
+        "Resistance":413.7,
+        "Time Constant":23.08,
+        "Resting potential":-56.8151467126,
+        "Maximum firing rate":3.0
+    },
+    {
+        "cellID":5312809,
+        "AP halfwidth":0.8,
+        "AP amplitude":71.23,
+        "Rheobase":60.0,
+        "Resistance":433.46,
+        "Time Constant":16.67,
+        "Resting potential":-58.1578172283,
+        "Maximum firing rate":69.0
+    },
+    {
+        "cellID":3162787,
+        "AP halfwidth":1.0,
+        "AP amplitude":79.43,
+        "Rheobase":120.0,
+        "Resistance":243.9,
+        "Time Constant":22.81,
+        "Resting potential":-78.577845081,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":2600929,
+        "AP halfwidth":0.4,
+        "AP amplitude":62.59,
+        "Rheobase":60.0,
+        "Resistance":334.19,
+        "Time Constant":26.18,
+        "Resting potential":-73.4375312764,
+        "Maximum firing rate":129.0
+    },
+    {
+        "cellID":9618564,
+        "AP halfwidth":1.1,
+        "AP amplitude":73.53,
+        "Rheobase":40.0,
+        "Resistance":243.41,
+        "Time Constant":25.86,
+        "Resting potential":-65.5149535391,
+        "Maximum firing rate":23.0
+    },
+    {
+        "cellID":1196436,
+        "AP halfwidth":1.2,
+        "AP amplitude":74.36,
+        "Rheobase":60.0,
+        "Resistance":233.23,
+        "Time Constant":26.78,
+        "Resting potential":-69.1695202487,
+        "Maximum firing rate":8.0
+    },
+    {
+        "cellID":3565939,
+        "AP halfwidth":1.6,
+        "AP amplitude":72.45,
+        "Rheobase":100.0,
+        "Resistance":152.37,
+        "Time Constant":29.9,
+        "Resting potential":-75.2685999567,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":4224639,
+        "AP halfwidth":0.55,
+        "AP amplitude":60.79,
+        "Rheobase":60.0,
+        "Resistance":292.29,
+        "Time Constant":45.8,
+        "Resting potential":-67.8016757856,
+        "Maximum firing rate":93.0
+    },
+    {
+        "cellID":6633291,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3836546,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":5129559,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":3519968,
+        "AP halfwidth":1.2,
+        "AP amplitude":61.61,
+        "Rheobase":70.0,
+        "Resistance":323.79,
+        "Time Constant":30.26,
+        "Resting potential":-71.687250291,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":1303003,
+        "AP halfwidth":1.15,
+        "AP amplitude":75.53,
+        "Rheobase":130.0,
+        "Resistance":154.11,
+        "Time Constant":23.13,
+        "Resting potential":-75.3039351294,
+        "Maximum firing rate":17.0
+    },
+    {
+        "cellID":5998421,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8539974,
+        "AP halfwidth":1.35,
+        "AP amplitude":81.46,
+        "Rheobase":30.0,
+        "Resistance":293.43,
+        "Time Constant":36.23,
+        "Resting potential":-66.7648110175,
+        "Maximum firing rate":8.0
+    },
+    {
+        "cellID":3767643,
+        "AP halfwidth":1.15,
+        "AP amplitude":72.53,
+        "Rheobase":70.0,
+        "Resistance":648.8,
+        "Time Constant":39.28,
+        "Resting potential":-73.2112869194,
+        "Maximum firing rate":55.0
+    },
+    {
+        "cellID":6095919,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1201167,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":1874148,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":4779866,
+        "AP halfwidth":2.25,
+        "AP amplitude":59.52,
+        "Rheobase":130.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-61.2384653439,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":4034987,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8433524,
+        "AP halfwidth":0.9,
+        "AP amplitude":62.93,
+        "Rheobase":130.0,
+        "Resistance":303.65,
+        "Time Constant":29.75,
+        "Resting potential":-75.2720598348,
+        "Maximum firing rate":37.0
+    },
+    {
+        "cellID":9922063,
+        "AP halfwidth":0.35,
+        "AP amplitude":58.28,
+        "Rheobase":165.0,
+        "Resistance":151.64,
+        "Time Constant":12.5,
+        "Resting potential":-73.1003564053,
+        "Maximum firing rate":183.0
+    },
+    {
+        "cellID":7108432,
+        "AP halfwidth":0.9,
+        "AP amplitude":69.15,
+        "Rheobase":120.0,
+        "Resistance":250.07,
+        "Time Constant":12.28,
+        "Resting potential":-74.7626138295,
+        "Maximum firing rate":21.0
+    },
+    {
+        "cellID":4482144,
+        "AP halfwidth":1.3,
+        "AP amplitude":87.66,
+        "Rheobase":230.0,
+        "Resistance":113.25,
+        "Time Constant":17.6,
+        "Resting potential":-67.4665970277,
+        "Maximum firing rate":2.0
+    },
+    {
+        "cellID":1066241,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":2595111,
+        "AP halfwidth":0.4,
+        "AP amplitude":64.75,
+        "Rheobase":100.0,
+        "Resistance":191.28,
+        "Time Constant":18.15,
+        "Resting potential":-74.8892063563,
+        "Maximum firing rate":133.0
+    },
+    {
+        "cellID":3763698,
+        "AP halfwidth":0.45,
+        "AP amplitude":49.79,
+        "Rheobase":55.0,
+        "Resistance":317.32,
+        "Time Constant":13.57,
+        "Resting potential":-73.8955433605,
+        "Maximum firing rate":160.0
+    },
+    {
+        "cellID":3912290,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":8197210,
+        "AP halfwidth":0.85,
+        "AP amplitude":95.31,
+        "Rheobase":25.0,
+        "Resistance":564.21,
+        "Time Constant":16.97,
+        "Resting potential":-67.6838992027,
+        "Maximum firing rate":114.0
+    },
+    {
+        "cellID":3474926,
+        "AP halfwidth":1.2,
+        "AP amplitude":82.38,
+        "Rheobase":120.0,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":-75.2225886852,
+        "Maximum firing rate":16.0
+    },
+    {
+        "cellID":3970106,
+        "AP halfwidth":null,
+        "AP amplitude":null,
+        "Rheobase":null,
+        "Resistance":null,
+        "Time Constant":null,
+        "Resting potential":null,
+        "Maximum firing rate":null
+    },
+    {
+        "cellID":7725418,
+        "AP halfwidth":1.15,
+        "AP amplitude":65.51,
+        "Rheobase":310.0,
+        "Resistance":39.37,
+        "Time Constant":22.8,
+        "Resting potential":-62.0044665176,
+        "Maximum firing rate":1.0
+    },
+    {
+        "cellID":4817263,
+        "AP halfwidth":1.25,
+        "AP amplitude":92.57,
+        "Rheobase":160.0,
+        "Resistance":237.53,
+        "Time Constant":14.82,
+        "Resting potential":-65.9798240434,
+        "Maximum firing rate":1.0
+    }
+]

@@ -1,0 +1,2432 @@
+[
+    {
+        "cellID":9116186,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3991007,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6138786,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4139713,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9125040,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4131768,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9238886,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3300990,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4381950,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2608692,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9484668,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2193978,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1594785,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8192642,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8117196,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5509646,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2082324,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9354900,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9442391,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6579948,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6053114,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9006388,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3814945,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5093218,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5516188,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9773626,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1042279,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3057255,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8142137,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9320369,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6665246,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7871241,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4605758,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2329230,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4257958,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4544001,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4086761,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7003136,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8351285,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8173434,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2029012,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8568858,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5158717,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1793600,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3205536,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6497946,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1868154,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3387038,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7156283,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6894164,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9994846,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9197281,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3519448,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8054891,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5422974,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1403245,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4680464,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8390053,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2438192,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6147887,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7742234,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6613779,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9050555,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3707837,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8965146,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8728742,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1048427,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4772129,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3460395,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2173709,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2786918,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9144107,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2571634,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7409398,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5516779,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7533484,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7102276,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1646429,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3292431,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6239811,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5403686,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2138321,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6753342,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9291512,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5091066,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6068532,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5764633,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5735531,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6229821,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3328479,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2717681,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7741737,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9307438,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1918906,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3354272,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8112354,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5611401,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6322207,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2877228,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7172153,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9004543,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2433874,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7440194,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8514967,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6740900,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8405731,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7351312,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4907214,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1034621,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9782658,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7855496,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8471955,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9690318,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6253136,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4996008,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6643315,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8285613,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7726562,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2374526,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8682745,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8938877,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5677189,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9309103,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1216860,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1471303,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2950280,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6431711,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4869313,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9486901,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6939911,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1051255,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4659944,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4642236,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9363412,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6902591,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1875729,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2792521,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8139834,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7342917,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7517171,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5325445,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7533790,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7601346,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5216294,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3591300,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2032448,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5994610,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1375121,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3807908,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1759444,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8868010,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8094375,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1745763,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2175011,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7798299,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2309846,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3381210,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4828162,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6678187,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1766617,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9018815,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7208490,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8311755,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4189686,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1708863,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4791904,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7571316,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3398513,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7551031,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7785812,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9245752,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1755126,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5414054,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6869256,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"0",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5349797,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7288380,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2418091,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8814083,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6182896,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3546778,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3629404,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4418976,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9684058,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"2",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1508951,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8816063,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4610431,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7018718,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2822153,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5088740,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7029887,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9176771,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5584685,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7706192,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6388045,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7861156,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4180066,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1467366,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2420627,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"IC"
+    },
+    {
+        "cellID":3304879,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6226949,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3781957,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4346936,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1731348,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1108683,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1762174,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8210546,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4230876,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4989490,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8494148,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5212794,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5722414,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7071602,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"IC"
+    },
+    {
+        "cellID":6922694,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8238986,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5209360,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3967336,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7788116,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"IC"
+    },
+    {
+        "cellID":7940377,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1793080,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5413612,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6726850,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6107668,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8823144,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6046271,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4001967,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2972263,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8949835,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8196297,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4265397,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6101388,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6926946,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5524106,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9222678,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1988903,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8615126,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8001045,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4784390,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5312809,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3162787,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2600929,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9618564,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1196436,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3565939,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4224639,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6633291,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3836546,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5129559,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3519968,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"4",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1303003,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":5998421,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8539974,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3767643,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":6095919,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1201167,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1874148,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4779866,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4034987,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8433524,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":9922063,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7108432,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4482144,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":1066241,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":2595111,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"5\/6",
+        "Dendrite type":"A",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3763698,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3912290,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":"3",
+        "Dendrite type":"S",
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":8197210,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3474926,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":3970106,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":7725418,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    },
+    {
+        "cellID":4817263,
+        "Sex":0,
+        "Breed":0,
+        "Age in months":0,
+        "Cortical layer":null,
+        "Dendrite type":null,
+        "Cortical area":"PFC"
+    }
+]
