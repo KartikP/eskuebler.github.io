@@ -634,7 +634,7 @@ data-page-list="[10, 25, 50, 100, all]"
 	<th colspan="7"></th>
 	<th data-field="link" data-formatter="linkFormatter" rowspan="2" data-halign="center">Link</th>
 	<th data-field="Morphology" data-sortable="true" data-formatter="morphFormatter" rowspan="2" data-valign="right">Morphology</th>
-	<!--<th data-field="ID" data-sortable="false" data-formatter="reportFormatter" rowspan="2" data-valign="right"></th>-->
+	<th data-field="internalID" data-sortable="false" data-formatter="reportFormatter" rowspan="2" data-valign="right"></th>
 	</tr>
     <tr>
       <th data-field="AP halfwidth" data-formatter="nameFormatter" data-sortable="true">Half Width</th>
@@ -668,7 +668,7 @@ data-page-list="[10, 25, 50, 100, all]"
   	}
 		
 	function imageFormatter(value, row) {
-    		return '<img src="images/previews/' + row.ID +'.png" style="width:50px;height:50px;" onerror=this.src="images/backup.png" />';
+    		return '<img src="images/previews/' + row.internalID +'.png" style="width:50px;height:50px;" onerror=this.src="images/backup.png" />';
 		}
 	function reportFormatter(value, row) {
     		return '<a class="fa fa-exclamation-circle" onclick="on(\'' + row.ID + '\')"></a>';
@@ -785,7 +785,7 @@ function off() {
 	return ids;
   }
 	function maketrace(row){
-		var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.ID + ".csv"
+		var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.internalID + ".csv"
 		Plotly.d3.csv(url, function(rows){
 					data = []
 					var i = 1

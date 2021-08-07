@@ -6,8 +6,9 @@
         "Rheobase":110.0,
         "Resistance":199.26,
         "Time Constant":22.42,
-        "Resting potential":-58.815228443,
-        "Maximum firing rate":12.0
+        "Resting potential":-58.81522844,
+        "Maximum firing rate":12.0,
+        "internalID":"M01_CN_A1_C02"
     },
     {
         "cellID":3991007,
@@ -17,7 +18,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_CN_A2_C05"
     },
     {
         "cellID":6138786,
@@ -26,8 +28,9 @@
         "Rheobase":210.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-50.7492872589,
-        "Maximum firing rate":2.0
+        "Resting potential":-50.74928726,
+        "Maximum firing rate":2.0,
+        "internalID":"M01_CN_A3_C09"
     },
     {
         "cellID":4139713,
@@ -36,8 +39,9 @@
         "Rheobase":30.0,
         "Resistance":293.73,
         "Time Constant":25.25,
-        "Resting potential":-55.2219651334,
-        "Maximum firing rate":107.0
+        "Resting potential":-55.22196513,
+        "Maximum firing rate":107.0,
+        "internalID":"M01_CN_A4_C10"
     },
     {
         "cellID":9125040,
@@ -46,8 +50,9 @@
         "Rheobase":10.0,
         "Resistance":285.09,
         "Time Constant":24.37,
-        "Resting potential":-53.6650617334,
-        "Maximum firing rate":89.0
+        "Resting potential":-53.66506173,
+        "Maximum firing rate":89.0,
+        "internalID":"M01_CN_A4_C12"
     },
     {
         "cellID":4131768,
@@ -56,8 +61,9 @@
         "Rheobase":30.0,
         "Resistance":271.68,
         "Time Constant":18.97,
-        "Resting potential":-61.3275004764,
-        "Maximum firing rate":103.0
+        "Resting potential":-61.32750048,
+        "Maximum firing rate":103.0,
+        "internalID":"M01_CN_A5_C13"
     },
     {
         "cellID":9238886,
@@ -66,8 +72,9 @@
         "Rheobase":110.0,
         "Resistance":314.94,
         "Time Constant":18.87,
-        "Resting potential":-67.4607895194,
-        "Maximum firing rate":167.0
+        "Resting potential":-67.46078952,
+        "Maximum firing rate":167.0,
+        "internalID":"M01_CN_A5_C14"
     },
     {
         "cellID":3300990,
@@ -76,8 +83,9 @@
         "Rheobase":170.0,
         "Resistance":316.83,
         "Time Constant":19.6,
-        "Resting potential":-63.0437943486,
-        "Maximum firing rate":3.0
+        "Resting potential":-63.04379435,
+        "Maximum firing rate":3.0,
+        "internalID":"M01_CN_A5_C15"
     },
     {
         "cellID":4381950,
@@ -86,8 +94,9 @@
         "Rheobase":50.0,
         "Resistance":502.56,
         "Time Constant":20.22,
-        "Resting potential":-55.5104304126,
-        "Maximum firing rate":66.0
+        "Resting potential":-55.51043041,
+        "Maximum firing rate":66.0,
+        "internalID":"M01_JS_A2_C03"
     },
     {
         "cellID":2608692,
@@ -97,7 +106,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_JS_A2_C05"
     },
     {
         "cellID":9484668,
@@ -107,7 +117,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_JS_A2_C06"
     },
     {
         "cellID":2193978,
@@ -116,8 +127,9 @@
         "Rheobase":50.0,
         "Resistance":1321.11,
         "Time Constant":43.35,
-        "Resting potential":-66.9999190399,
-        "Maximum firing rate":2.0
+        "Resting potential":-66.99991904,
+        "Maximum firing rate":2.0,
+        "internalID":"M01_JS_A3_C07"
     },
     {
         "cellID":1594785,
@@ -126,8 +138,9 @@
         "Rheobase":50.0,
         "Resistance":398.71,
         "Time Constant":24.74,
-        "Resting potential":-74.5168429034,
-        "Maximum firing rate":41.0
+        "Resting potential":-74.5168429,
+        "Maximum firing rate":41.0,
+        "internalID":"M01_JS_A4_C11"
     },
     {
         "cellID":8192642,
@@ -137,7 +150,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_JS_A4_C12"
     },
     {
         "cellID":8117196,
@@ -146,8 +160,9 @@
         "Rheobase":30.0,
         "Resistance":476.84,
         "Time Constant":41.73,
-        "Resting potential":-62.0762883985,
-        "Maximum firing rate":9.0
+        "Resting potential":-62.0762884,
+        "Maximum firing rate":9.0,
+        "internalID":"M01_JS_B1_C14"
     },
     {
         "cellID":5509646,
@@ -156,8 +171,9 @@
         "Rheobase":10.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-67.223809108,
-        "Maximum firing rate":3.0
+        "Resting potential":-67.22380911,
+        "Maximum firing rate":3.0,
+        "internalID":"M01_JS_B1_C15"
     },
     {
         "cellID":2082324,
@@ -167,7 +183,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_JS_B2_C17"
     },
     {
         "cellID":9354900,
@@ -177,7 +194,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_JS_B2_C18"
     },
     {
         "cellID":9442391,
@@ -187,7 +205,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_JS_B3_C21"
     },
     {
         "cellID":6579948,
@@ -197,7 +216,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_MW_D1_C01"
     },
     {
         "cellID":6053114,
@@ -207,7 +227,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_MW_D1_C02"
     },
     {
         "cellID":9006388,
@@ -217,7 +238,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_MW_D2_C03"
     },
     {
         "cellID":3814945,
@@ -227,7 +249,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_MW_D2_C05"
     },
     {
         "cellID":5093218,
@@ -236,8 +259,9 @@
         "Rheobase":70.0,
         "Resistance":425.87,
         "Time Constant":14.05,
-        "Resting potential":-53.5895902636,
-        "Maximum firing rate":1.0
+        "Resting potential":-53.58959026,
+        "Maximum firing rate":1.0,
+        "internalID":"M01_MW_D3_C07"
     },
     {
         "cellID":5516188,
@@ -247,7 +271,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_MW_D4_C10"
     },
     {
         "cellID":9773626,
@@ -257,7 +282,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_MW_D4_C11"
     },
     {
         "cellID":1042279,
@@ -266,8 +292,9 @@
         "Rheobase":130.0,
         "Resistance":314.09,
         "Time Constant":51.16,
-        "Resting potential":-78.3916146179,
-        "Maximum firing rate":1.0
+        "Resting potential":-78.39161462,
+        "Maximum firing rate":1.0,
+        "internalID":"M01_MW_D5_C12"
     },
     {
         "cellID":3057255,
@@ -277,7 +304,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_MW_D5_C13"
     },
     {
         "cellID":8142137,
@@ -287,7 +315,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_MW_D5_C14"
     },
     {
         "cellID":9320369,
@@ -296,8 +325,9 @@
         "Rheobase":170.0,
         "Resistance":316.83,
         "Time Constant":19.6,
-        "Resting potential":-63.0437943486,
-        "Maximum firing rate":3.0
+        "Resting potential":-63.04379435,
+        "Maximum firing rate":3.0,
+        "internalID":"M01_SM_A1_C02"
     },
     {
         "cellID":6665246,
@@ -306,8 +336,9 @@
         "Rheobase":110.0,
         "Resistance":314.94,
         "Time Constant":18.87,
-        "Resting potential":-67.4607895194,
-        "Maximum firing rate":167.0
+        "Resting potential":-67.46078952,
+        "Maximum firing rate":167.0,
+        "internalID":"M01_SM_A1_C03"
     },
     {
         "cellID":7871241,
@@ -317,7 +348,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_SM_A2_C04"
     },
     {
         "cellID":4605758,
@@ -327,7 +359,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_SM_A2_C05"
     },
     {
         "cellID":2329230,
@@ -336,8 +369,9 @@
         "Rheobase":50.0,
         "Resistance":607.3,
         "Time Constant":23.35,
-        "Resting potential":-53.6655183754,
-        "Maximum firing rate":1.0
+        "Resting potential":-53.66551838,
+        "Maximum firing rate":1.0,
+        "internalID":"M01_SM_A3_C08"
     },
     {
         "cellID":4257958,
@@ -346,8 +380,9 @@
         "Rheobase":270.0,
         "Resistance":253.36,
         "Time Constant":14.83,
-        "Resting potential":-63.5938376163,
-        "Maximum firing rate":1.0
+        "Resting potential":-63.59383762,
+        "Maximum firing rate":1.0,
+        "internalID":"M01_SM_A3_C09"
     },
     {
         "cellID":4544001,
@@ -357,7 +392,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_SM_A5_C11"
     },
     {
         "cellID":4086761,
@@ -367,7 +403,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_SM_A5_C12"
     },
     {
         "cellID":7003136,
@@ -377,7 +414,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_SM_A6_C14"
     },
     {
         "cellID":8351285,
@@ -386,8 +424,9 @@
         "Rheobase":30.0,
         "Resistance":449.83,
         "Time Constant":16.82,
-        "Resting potential":-68.4725710015,
-        "Maximum firing rate":2.0
+        "Resting potential":-68.472571,
+        "Maximum firing rate":2.0,
+        "internalID":"M01_SM_A7_C17"
     },
     {
         "cellID":8173434,
@@ -397,7 +436,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M01_SM_A7_C19"
     },
     {
         "cellID":2029012,
@@ -406,8 +446,9 @@
         "Rheobase":30.0,
         "Resistance":257.87,
         "Time Constant":36.09,
-        "Resting potential":-74.7671823663,
-        "Maximum firing rate":28.0
+        "Resting potential":-74.76718237,
+        "Maximum firing rate":28.0,
+        "internalID":"M02_JS_D1_C11"
     },
     {
         "cellID":8568858,
@@ -417,7 +458,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M02_JS_D1_C12"
     },
     {
         "cellID":5158717,
@@ -427,7 +469,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M02_JS_D2_C09"
     },
     {
         "cellID":1793600,
@@ -437,7 +480,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M02_JS_D2_C10"
     },
     {
         "cellID":3205536,
@@ -446,8 +490,9 @@
         "Rheobase":110.0,
         "Resistance":331.57,
         "Time Constant":9.72,
-        "Resting potential":-79.6754209368,
-        "Maximum firing rate":13.0
+        "Resting potential":-79.67542094,
+        "Maximum firing rate":13.0,
+        "internalID":"M02_JS_D3_C07"
     },
     {
         "cellID":6497946,
@@ -456,8 +501,9 @@
         "Rheobase":70.0,
         "Resistance":335.24,
         "Time Constant":15.21,
-        "Resting potential":-64.1648531269,
-        "Maximum firing rate":213.0
+        "Resting potential":-64.16485313,
+        "Maximum firing rate":213.0,
+        "internalID":"M02_JS_D3_C08"
     },
     {
         "cellID":1868154,
@@ -467,7 +513,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M02_JS_D4_C05"
     },
     {
         "cellID":3387038,
@@ -476,8 +523,9 @@
         "Rheobase":30.0,
         "Resistance":242.46,
         "Time Constant":27.97,
-        "Resting potential":-72.643712988,
-        "Maximum firing rate":34.0
+        "Resting potential":-72.64371299,
+        "Maximum firing rate":34.0,
+        "internalID":"M02_JS_D4_C06"
     },
     {
         "cellID":7156283,
@@ -486,8 +534,9 @@
         "Rheobase":10.0,
         "Resistance":383.76,
         "Time Constant":17.1,
-        "Resting potential":-63.1444543298,
-        "Maximum firing rate":107.0
+        "Resting potential":-63.14445433,
+        "Maximum firing rate":107.0,
+        "internalID":"M02_JS_D5_C03"
     },
     {
         "cellID":6894164,
@@ -496,8 +545,9 @@
         "Rheobase":190.0,
         "Resistance":343.32,
         "Time Constant":14.35,
-        "Resting potential":-70.7419441082,
-        "Maximum firing rate":1.0
+        "Resting potential":-70.74194411,
+        "Maximum firing rate":1.0,
+        "internalID":"M02_JS_D6_C01"
     },
     {
         "cellID":9994846,
@@ -506,8 +556,9 @@
         "Rheobase":90.0,
         "Resistance":391.85,
         "Time Constant":23.07,
-        "Resting potential":-63.1372230398,
-        "Maximum firing rate":155.0
+        "Resting potential":-63.13722304,
+        "Maximum firing rate":155.0,
+        "internalID":"M02_JS_D6_C02"
     },
     {
         "cellID":9197281,
@@ -516,8 +567,9 @@
         "Rheobase":70.0,
         "Resistance":378.11,
         "Time Constant":16.43,
-        "Resting potential":-65.0732047161,
-        "Maximum firing rate":16.0
+        "Resting potential":-65.07320472,
+        "Maximum firing rate":16.0,
+        "internalID":"M02_MW_D1_C02"
     },
     {
         "cellID":3519448,
@@ -527,7 +579,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M02_MW_D2_C04"
     },
     {
         "cellID":8054891,
@@ -536,8 +589,9 @@
         "Rheobase":30.0,
         "Resistance":307.31,
         "Time Constant":24.39,
-        "Resting potential":-66.7462646864,
-        "Maximum firing rate":51.0
+        "Resting potential":-66.74626469,
+        "Maximum firing rate":51.0,
+        "internalID":"M02_MW_D3_C06"
     },
     {
         "cellID":5422974,
@@ -546,8 +600,9 @@
         "Rheobase":210.0,
         "Resistance":154.88,
         "Time Constant":16.2,
-        "Resting potential":-64.8687110857,
-        "Maximum firing rate":1.0
+        "Resting potential":-64.86871109,
+        "Maximum firing rate":1.0,
+        "internalID":"M02_MW_D4_C08"
     },
     {
         "cellID":1403245,
@@ -556,8 +611,9 @@
         "Rheobase":50.0,
         "Resistance":290.07,
         "Time Constant":14.98,
-        "Resting potential":-63.8784539629,
-        "Maximum firing rate":166.0
+        "Resting potential":-63.87845396,
+        "Maximum firing rate":166.0,
+        "internalID":"M02_MW_D4_C09"
     },
     {
         "cellID":4680464,
@@ -567,7 +623,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M02_MW_D5_C10"
     },
     {
         "cellID":8390053,
@@ -576,8 +633,9 @@
         "Rheobase":50.0,
         "Resistance":315.25,
         "Time Constant":13.14,
-        "Resting potential":-66.738074174,
-        "Maximum firing rate":209.0
+        "Resting potential":-66.73807417,
+        "Maximum firing rate":209.0,
+        "internalID":"M02_MW_D5_C11"
     },
     {
         "cellID":2438192,
@@ -586,8 +644,9 @@
         "Rheobase":30.0,
         "Resistance":214.84,
         "Time Constant":23.8,
-        "Resting potential":-64.8652212733,
-        "Maximum firing rate":38.0
+        "Resting potential":-64.86522127,
+        "Maximum firing rate":38.0,
+        "internalID":"M02_MW_D6_C12"
     },
     {
         "cellID":6147887,
@@ -596,8 +655,9 @@
         "Rheobase":30.0,
         "Resistance":480.65,
         "Time Constant":44.48,
-        "Resting potential":-66.5749227374,
-        "Maximum firing rate":16.0
+        "Resting potential":-66.57492274,
+        "Maximum firing rate":16.0,
+        "internalID":"M02_MW_D6_C13"
     },
     {
         "cellID":7742234,
@@ -607,7 +667,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M02_SM_A1_C03"
     },
     {
         "cellID":6613779,
@@ -616,8 +677,9 @@
         "Rheobase":130.0,
         "Resistance":236.34,
         "Time Constant":19.68,
-        "Resting potential":-72.571028911,
-        "Maximum firing rate":39.0
+        "Resting potential":-72.57102891,
+        "Maximum firing rate":39.0,
+        "internalID":"M02_SM_A2_C04"
     },
     {
         "cellID":9050555,
@@ -626,8 +688,9 @@
         "Rheobase":110.0,
         "Resistance":218.2,
         "Time Constant":12.17,
-        "Resting potential":-66.5319394007,
-        "Maximum firing rate":152.0
+        "Resting potential":-66.5319394,
+        "Maximum firing rate":152.0,
+        "internalID":"M02_SM_A4_C07"
     },
     {
         "cellID":3707837,
@@ -636,8 +699,9 @@
         "Rheobase":30.0,
         "Resistance":437.93,
         "Time Constant":25.06,
-        "Resting potential":-70.2241253611,
-        "Maximum firing rate":51.0
+        "Resting potential":-70.22412536,
+        "Maximum firing rate":51.0,
+        "internalID":"M02_SM_A4_C08"
     },
     {
         "cellID":8965146,
@@ -646,8 +710,9 @@
         "Rheobase":150.0,
         "Resistance":272.67,
         "Time Constant":16.0,
-        "Resting potential":-72.0462490434,
-        "Maximum firing rate":3.0
+        "Resting potential":-72.04624904,
+        "Maximum firing rate":3.0,
+        "internalID":"M02_SM_A5_C10"
     },
     {
         "cellID":8728742,
@@ -656,8 +721,9 @@
         "Rheobase":30.0,
         "Resistance":383.5,
         "Time Constant":17.2,
-        "Resting potential":-61.047426376,
-        "Maximum firing rate":24.0
+        "Resting potential":-61.04742638,
+        "Maximum firing rate":24.0,
+        "internalID":"M02_SM_A5_C12"
     },
     {
         "cellID":1048427,
@@ -666,8 +732,9 @@
         "Rheobase":190.0,
         "Resistance":199.13,
         "Time Constant":13.64,
-        "Resting potential":-74.256578525,
-        "Maximum firing rate":4.0
+        "Resting potential":-74.25657852,
+        "Maximum firing rate":4.0,
+        "internalID":"M02_SM_A6_C14"
     },
     {
         "cellID":4772129,
@@ -677,7 +744,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M02_SM_A6_C15"
     },
     {
         "cellID":3460395,
@@ -686,8 +754,9 @@
         "Rheobase":110.0,
         "Resistance":271.45,
         "Time Constant":15.51,
-        "Resting potential":-65.3986587858,
-        "Maximum firing rate":195.0
+        "Resting potential":-65.39865879,
+        "Maximum firing rate":195.0,
+        "internalID":"M02_SM_A6_C16"
     },
     {
         "cellID":2173709,
@@ -696,8 +765,9 @@
         "Rheobase":50.0,
         "Resistance":270.65,
         "Time Constant":43.95,
-        "Resting potential":-69.7042751043,
-        "Maximum firing rate":67.0
+        "Resting potential":-69.7042751,
+        "Maximum firing rate":67.0,
+        "internalID":"M03_JS_A1_C01"
     },
     {
         "cellID":2786918,
@@ -707,7 +777,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C02"
     },
     {
         "cellID":9144107,
@@ -717,7 +788,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C03"
     },
     {
         "cellID":2571634,
@@ -726,8 +798,9 @@
         "Rheobase":30.0,
         "Resistance":283.11,
         "Time Constant":30.3,
-        "Resting potential":-66.2349129815,
-        "Maximum firing rate":98.0
+        "Resting potential":-66.23491298,
+        "Maximum firing rate":98.0,
+        "internalID":"M03_JS_A1_C04"
     },
     {
         "cellID":7409398,
@@ -737,7 +810,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C05"
     },
     {
         "cellID":5516779,
@@ -746,8 +820,9 @@
         "Rheobase":30.0,
         "Resistance":526.49,
         "Time Constant":18.1,
-        "Resting potential":-61.6797043754,
-        "Maximum firing rate":117.0
+        "Resting potential":-61.67970438,
+        "Maximum firing rate":117.0,
+        "internalID":"M03_JS_A1_C06"
     },
     {
         "cellID":7533484,
@@ -757,7 +832,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C07"
     },
     {
         "cellID":7102276,
@@ -767,7 +843,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C08"
     },
     {
         "cellID":1646429,
@@ -777,7 +854,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C09"
     },
     {
         "cellID":3292431,
@@ -786,8 +864,9 @@
         "Rheobase":150.0,
         "Resistance":277.1,
         "Time Constant":14.28,
-        "Resting potential":-64.5471841205,
-        "Maximum firing rate":115.0
+        "Resting potential":-64.54718412,
+        "Maximum firing rate":115.0,
+        "internalID":"M03_JS_A1_C10"
     },
     {
         "cellID":6239811,
@@ -797,7 +876,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C11"
     },
     {
         "cellID":5403686,
@@ -807,7 +887,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C12"
     },
     {
         "cellID":2138321,
@@ -817,7 +898,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C13"
     },
     {
         "cellID":6753342,
@@ -827,7 +909,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C14"
     },
     {
         "cellID":9291512,
@@ -837,7 +920,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C15"
     },
     {
         "cellID":5091066,
@@ -847,7 +931,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_JS_A1_C16"
     },
     {
         "cellID":6068532,
@@ -856,8 +941,9 @@
         "Rheobase":50.0,
         "Resistance":270.11,
         "Time Constant":20.09,
-        "Resting potential":-58.766011243,
-        "Maximum firing rate":1.0
+        "Resting potential":-58.76601124,
+        "Maximum firing rate":1.0,
+        "internalID":"M03_JS_A1_C17"
     },
     {
         "cellID":5764633,
@@ -866,8 +952,9 @@
         "Rheobase":30.0,
         "Resistance":408.13,
         "Time Constant":46.11,
-        "Resting potential":-71.3827212038,
-        "Maximum firing rate":40.0
+        "Resting potential":-71.3827212,
+        "Maximum firing rate":40.0,
+        "internalID":"M03_JS_A1_C18"
     },
     {
         "cellID":5735531,
@@ -876,8 +963,9 @@
         "Rheobase":30.0,
         "Resistance":474.37,
         "Time Constant":33.87,
-        "Resting potential":-68.7331002648,
-        "Maximum firing rate":57.0
+        "Resting potential":-68.73310026,
+        "Maximum firing rate":57.0,
+        "internalID":"M03_JS_A1_C19"
     },
     {
         "cellID":6229821,
@@ -886,8 +974,9 @@
         "Rheobase":30.0,
         "Resistance":408.9,
         "Time Constant":31.29,
-        "Resting potential":-68.3403695873,
-        "Maximum firing rate":46.0
+        "Resting potential":-68.34036959,
+        "Maximum firing rate":46.0,
+        "internalID":"M03_JS_A1_C20"
     },
     {
         "cellID":3328479,
@@ -896,8 +985,9 @@
         "Rheobase":30.0,
         "Resistance":476.07,
         "Time Constant":34.21,
-        "Resting potential":-54.0583463271,
-        "Maximum firing rate":102.0
+        "Resting potential":-54.05834633,
+        "Maximum firing rate":102.0,
+        "internalID":"M03_MW_A1_C02"
     },
     {
         "cellID":2717681,
@@ -906,8 +996,9 @@
         "Rheobase":50.0,
         "Resistance":238.34,
         "Time Constant":26.56,
-        "Resting potential":-65.7987000811,
-        "Maximum firing rate":19.0
+        "Resting potential":-65.79870008,
+        "Maximum firing rate":19.0,
+        "internalID":"M03_MW_A1_C03"
     },
     {
         "cellID":7741737,
@@ -916,8 +1007,9 @@
         "Rheobase":50.0,
         "Resistance":359.34,
         "Time Constant":19.13,
-        "Resting potential":-73.4350765744,
-        "Maximum firing rate":23.0
+        "Resting potential":-73.43507657,
+        "Maximum firing rate":23.0,
+        "internalID":"M03_MW_A1_C04"
     },
     {
         "cellID":9307438,
@@ -927,7 +1019,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_MW_A1_C05"
     },
     {
         "cellID":1918906,
@@ -936,8 +1029,9 @@
         "Rheobase":50.0,
         "Resistance":256.5,
         "Time Constant":21.04,
-        "Resting potential":-62.5741987115,
-        "Maximum firing rate":24.0
+        "Resting potential":-62.57419871,
+        "Maximum firing rate":24.0,
+        "internalID":"M03_MW_A1_C06"
     },
     {
         "cellID":3354272,
@@ -946,8 +1040,9 @@
         "Rheobase":50.0,
         "Resistance":270.65,
         "Time Constant":19.3,
-        "Resting potential":-54.6415817293,
-        "Maximum firing rate":116.0
+        "Resting potential":-54.64158173,
+        "Maximum firing rate":116.0,
+        "internalID":"M03_MW_A1_C07"
     },
     {
         "cellID":8112354,
@@ -956,8 +1051,9 @@
         "Rheobase":70.0,
         "Resistance":351.2,
         "Time Constant":20.23,
-        "Resting potential":-63.221952115,
-        "Maximum firing rate":23.0
+        "Resting potential":-63.22195211,
+        "Maximum firing rate":23.0,
+        "internalID":"M03_MW_A1_C08"
     },
     {
         "cellID":5611401,
@@ -966,8 +1062,9 @@
         "Rheobase":70.0,
         "Resistance":325.47,
         "Time Constant":23.15,
-        "Resting potential":-67.7935401815,
-        "Maximum firing rate":8.0
+        "Resting potential":-67.79354018,
+        "Maximum firing rate":8.0,
+        "internalID":"M03_MW_A1_C09"
     },
     {
         "cellID":6322207,
@@ -976,8 +1073,9 @@
         "Rheobase":150.0,
         "Resistance":105.35,
         "Time Constant":20.45,
-        "Resting potential":-69.9044079727,
-        "Maximum firing rate":1.0
+        "Resting potential":-69.90440797,
+        "Maximum firing rate":1.0,
+        "internalID":"M03_MW_A1_C10"
     },
     {
         "cellID":2877228,
@@ -987,7 +1085,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_MW_A1_C11"
     },
     {
         "cellID":7172153,
@@ -997,7 +1096,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_MW_A1_C13"
     },
     {
         "cellID":9004543,
@@ -1006,8 +1106,9 @@
         "Rheobase":30.0,
         "Resistance":202.94,
         "Time Constant":43.92,
-        "Resting potential":-58.1282975876,
-        "Maximum firing rate":16.0
+        "Resting potential":-58.12829759,
+        "Maximum firing rate":16.0,
+        "internalID":"M03_MW_A1_C15"
     },
     {
         "cellID":2433874,
@@ -1016,8 +1117,9 @@
         "Rheobase":90.0,
         "Resistance":203.83,
         "Time Constant":21.86,
-        "Resting potential":-65.0032420484,
-        "Maximum firing rate":9.0
+        "Resting potential":-65.00324205,
+        "Maximum firing rate":9.0,
+        "internalID":"M03_MW_A1_C16"
     },
     {
         "cellID":7440194,
@@ -1026,8 +1128,9 @@
         "Rheobase":70.0,
         "Resistance":149.72,
         "Time Constant":18.13,
-        "Resting potential":-72.6345672176,
-        "Maximum firing rate":2.0
+        "Resting potential":-72.63456722,
+        "Maximum firing rate":2.0,
+        "internalID":"M03_SM_A1_C02"
     },
     {
         "cellID":8514967,
@@ -1037,7 +1140,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_SM_A1_C03"
     },
     {
         "cellID":6740900,
@@ -1046,8 +1150,9 @@
         "Rheobase":150.0,
         "Resistance":276.28,
         "Time Constant":21.6,
-        "Resting potential":-57.1228110544,
-        "Maximum firing rate":112.0
+        "Resting potential":-57.12281105,
+        "Maximum firing rate":112.0,
+        "internalID":"M03_SM_A1_C04"
     },
     {
         "cellID":8405731,
@@ -1056,8 +1161,9 @@
         "Rheobase":130.0,
         "Resistance":117.46,
         "Time Constant":16.63,
-        "Resting potential":-75.2344017712,
-        "Maximum firing rate":1.0
+        "Resting potential":-75.23440177,
+        "Maximum firing rate":1.0,
+        "internalID":"M03_SM_A1_C05"
     },
     {
         "cellID":7351312,
@@ -1067,7 +1173,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_SM_A1_C06"
     },
     {
         "cellID":4907214,
@@ -1076,8 +1183,9 @@
         "Rheobase":170.0,
         "Resistance":140.99,
         "Time Constant":12.41,
-        "Resting potential":-75.341205598,
-        "Maximum firing rate":1.0
+        "Resting potential":-75.3412056,
+        "Maximum firing rate":1.0,
+        "internalID":"M03_SM_A1_C07"
     },
     {
         "cellID":1034621,
@@ -1086,8 +1194,9 @@
         "Rheobase":150.0,
         "Resistance":126.74,
         "Time Constant":13.68,
-        "Resting potential":-72.9382246629,
-        "Maximum firing rate":1.0
+        "Resting potential":-72.93822466,
+        "Maximum firing rate":1.0,
+        "internalID":"M03_SM_A1_C09"
     },
     {
         "cellID":9782658,
@@ -1097,7 +1206,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_SM_A1_C10"
     },
     {
         "cellID":7855496,
@@ -1107,7 +1217,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_SM_A1_C11"
     },
     {
         "cellID":8471955,
@@ -1116,8 +1227,9 @@
         "Rheobase":90.0,
         "Resistance":206.6,
         "Time Constant":18.73,
-        "Resting potential":-57.7013116406,
-        "Maximum firing rate":2.0
+        "Resting potential":-57.70131164,
+        "Maximum firing rate":2.0,
+        "internalID":"M03_SM_A1_C12"
     },
     {
         "cellID":9690318,
@@ -1127,7 +1239,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_SM_A1_C13"
     },
     {
         "cellID":6253136,
@@ -1136,8 +1249,9 @@
         "Rheobase":110.0,
         "Resistance":134.91,
         "Time Constant":23.6,
-        "Resting potential":-77.4810559943,
-        "Maximum firing rate":1.0
+        "Resting potential":-77.48105599,
+        "Maximum firing rate":1.0,
+        "internalID":"M03_SM_A1_C14"
     },
     {
         "cellID":4996008,
@@ -1146,8 +1260,9 @@
         "Rheobase":70.0,
         "Resistance":336.67,
         "Time Constant":17.02,
-        "Resting potential":-63.7428210647,
-        "Maximum firing rate":1.0
+        "Resting potential":-63.74282106,
+        "Maximum firing rate":1.0,
+        "internalID":"M03_SM_A1_C15"
     },
     {
         "cellID":6643315,
@@ -1156,8 +1271,9 @@
         "Rheobase":50.0,
         "Resistance":292.88,
         "Time Constant":26.54,
-        "Resting potential":-66.9072305628,
-        "Maximum firing rate":2.0
+        "Resting potential":-66.90723056,
+        "Maximum firing rate":2.0,
+        "internalID":"M03_SM_A1_C16"
     },
     {
         "cellID":8285613,
@@ -1167,7 +1283,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_SM_A1_C17"
     },
     {
         "cellID":7726562,
@@ -1177,7 +1294,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M03_SM_A1_C18"
     },
     {
         "cellID":2374526,
@@ -1186,8 +1304,9 @@
         "Rheobase":70.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-58.9459660119,
-        "Maximum firing rate":82.0
+        "Resting potential":-58.94596601,
+        "Maximum firing rate":82.0,
+        "internalID":"M04_JS_A1_C01"
     },
     {
         "cellID":8682745,
@@ -1196,8 +1315,9 @@
         "Rheobase":20.0,
         "Resistance":405.82,
         "Time Constant":23.28,
-        "Resting potential":-64.6441586497,
-        "Maximum firing rate":30.0
+        "Resting potential":-64.64415865,
+        "Maximum firing rate":30.0,
+        "internalID":"M04_JS_A1_C02"
     },
     {
         "cellID":8938877,
@@ -1206,8 +1326,9 @@
         "Rheobase":150.0,
         "Resistance":302.73,
         "Time Constant":20.75,
-        "Resting potential":-56.5781236491,
-        "Maximum firing rate":146.0
+        "Resting potential":-56.57812365,
+        "Maximum firing rate":146.0,
+        "internalID":"M04_JS_A1_C03"
     },
     {
         "cellID":5677189,
@@ -1217,7 +1338,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_JS_A1_C05"
     },
     {
         "cellID":9309103,
@@ -1226,8 +1348,9 @@
         "Rheobase":90.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-68.5551397269,
-        "Maximum firing rate":11.0
+        "Resting potential":-68.55513973,
+        "Maximum firing rate":11.0,
+        "internalID":"M04_JS_A1_C06"
     },
     {
         "cellID":1216860,
@@ -1237,7 +1360,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_JS_A1_C07"
     },
     {
         "cellID":1471303,
@@ -1246,8 +1370,9 @@
         "Rheobase":50.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-56.419695161,
-        "Maximum firing rate":43.0
+        "Resting potential":-56.41969516,
+        "Maximum firing rate":43.0,
+        "internalID":"M04_JS_A1_C08"
     },
     {
         "cellID":2950280,
@@ -1256,8 +1381,9 @@
         "Rheobase":70.0,
         "Resistance":371.58,
         "Time Constant":20.81,
-        "Resting potential":-67.7120761748,
-        "Maximum firing rate":1.0
+        "Resting potential":-67.71207617,
+        "Maximum firing rate":1.0,
+        "internalID":"M04_JS_A1_C09"
     },
     {
         "cellID":6431711,
@@ -1266,8 +1392,9 @@
         "Rheobase":80.0,
         "Resistance":224.06,
         "Time Constant":30.39,
-        "Resting potential":-75.9284999623,
-        "Maximum firing rate":2.0
+        "Resting potential":-75.92849996,
+        "Maximum firing rate":2.0,
+        "internalID":"M04_JS_A1_C10"
     },
     {
         "cellID":4869313,
@@ -1276,8 +1403,9 @@
         "Rheobase":70.0,
         "Resistance":171.97,
         "Time Constant":55.88,
-        "Resting potential":-80.9968546173,
-        "Maximum firing rate":26.0
+        "Resting potential":-80.99685462,
+        "Maximum firing rate":26.0,
+        "internalID":"M04_JS_A1_C12"
     },
     {
         "cellID":9486901,
@@ -1286,8 +1414,9 @@
         "Rheobase":70.0,
         "Resistance":207.67,
         "Time Constant":19.55,
-        "Resting potential":-68.5379607464,
-        "Maximum firing rate":24.0
+        "Resting potential":-68.53796075,
+        "Maximum firing rate":24.0,
+        "internalID":"M04_JS_A1_C13"
     },
     {
         "cellID":6939911,
@@ -1296,8 +1425,9 @@
         "Rheobase":10.0,
         "Resistance":293.64,
         "Time Constant":29.57,
-        "Resting potential":-67.1934398841,
-        "Maximum firing rate":28.0
+        "Resting potential":-67.19343988,
+        "Maximum firing rate":28.0,
+        "internalID":"M04_JS_A1_C14"
     },
     {
         "cellID":1051255,
@@ -1306,8 +1436,9 @@
         "Rheobase":20.0,
         "Resistance":523.65,
         "Time Constant":21.24,
-        "Resting potential":-69.5584344176,
-        "Maximum firing rate":33.0
+        "Resting potential":-69.55843442,
+        "Maximum firing rate":33.0,
+        "internalID":"M04_JS_A1_C15"
     },
     {
         "cellID":4659944,
@@ -1317,7 +1448,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_JS_A1_C16"
     },
     {
         "cellID":4642236,
@@ -1326,8 +1458,9 @@
         "Rheobase":230.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-69.2815827116,
-        "Maximum firing rate":1.0
+        "Resting potential":-69.28158271,
+        "Maximum firing rate":1.0,
+        "internalID":"M04_JS_A1_C17"
     },
     {
         "cellID":9363412,
@@ -1337,7 +1470,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_MW_A1_C01"
     },
     {
         "cellID":6902591,
@@ -1346,8 +1480,9 @@
         "Rheobase":270.0,
         "Resistance":98.75,
         "Time Constant":7.14,
-        "Resting potential":-81.0290722107,
-        "Maximum firing rate":20.0
+        "Resting potential":-81.02907221,
+        "Maximum firing rate":20.0,
+        "internalID":"M04_MW_A1_C02"
     },
     {
         "cellID":1875729,
@@ -1356,8 +1491,9 @@
         "Rheobase":150.0,
         "Resistance":160.64,
         "Time Constant":11.6,
-        "Resting potential":-58.7259021051,
-        "Maximum firing rate":63.0
+        "Resting potential":-58.72590211,
+        "Maximum firing rate":63.0,
+        "internalID":"M04_MW_A1_C03"
     },
     {
         "cellID":2792521,
@@ -1367,7 +1503,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_MW_A1_C04"
     },
     {
         "cellID":8139834,
@@ -1376,8 +1513,9 @@
         "Rheobase":150.0,
         "Resistance":188.87,
         "Time Constant":12.59,
-        "Resting potential":-59.2245976195,
-        "Maximum firing rate":1.0
+        "Resting potential":-59.22459762,
+        "Maximum firing rate":1.0,
+        "internalID":"M04_MW_A1_C06"
     },
     {
         "cellID":7342917,
@@ -1386,8 +1524,9 @@
         "Rheobase":170.0,
         "Resistance":93.2,
         "Time Constant":10.51,
-        "Resting potential":-72.3468910136,
-        "Maximum firing rate":1.0
+        "Resting potential":-72.34689101,
+        "Maximum firing rate":1.0,
+        "internalID":"M04_MW_A1_C07"
     },
     {
         "cellID":7517171,
@@ -1396,8 +1535,9 @@
         "Rheobase":70.0,
         "Resistance":264.22,
         "Time Constant":17.46,
-        "Resting potential":-65.1500638048,
-        "Maximum firing rate":23.0
+        "Resting potential":-65.1500638,
+        "Maximum firing rate":23.0,
+        "internalID":"M04_MW_A1_C08"
     },
     {
         "cellID":5325445,
@@ -1406,8 +1546,9 @@
         "Rheobase":30.0,
         "Resistance":298.34,
         "Time Constant":43.22,
-        "Resting potential":-53.6388155717,
-        "Maximum firing rate":11.0
+        "Resting potential":-53.63881557,
+        "Maximum firing rate":11.0,
+        "internalID":"M04_MW_A1_C09"
     },
     {
         "cellID":7533790,
@@ -1416,8 +1557,9 @@
         "Rheobase":330.0,
         "Resistance":77.85,
         "Time Constant":7.12,
-        "Resting potential":-87.8802882962,
-        "Maximum firing rate":1.0
+        "Resting potential":-87.8802883,
+        "Maximum firing rate":1.0,
+        "internalID":"M04_MW_A1_C10"
     },
     {
         "cellID":7601346,
@@ -1427,7 +1569,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_SM_A1_C01"
     },
     {
         "cellID":5216294,
@@ -1437,7 +1580,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_SM_A1_C02"
     },
     {
         "cellID":3591300,
@@ -1447,7 +1591,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_SM_A1_C03"
     },
     {
         "cellID":2032448,
@@ -1457,7 +1602,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_SM_A1_C04"
     },
     {
         "cellID":5994610,
@@ -1466,8 +1612,9 @@
         "Rheobase":30.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-58.1221962111,
-        "Maximum firing rate":1.0
+        "Resting potential":-58.12219621,
+        "Maximum firing rate":1.0,
+        "internalID":"M04_SM_A1_C05"
     },
     {
         "cellID":1375121,
@@ -1477,7 +1624,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_SM_A1_C06"
     },
     {
         "cellID":3807908,
@@ -1486,8 +1634,9 @@
         "Rheobase":90.0,
         "Resistance":229.64,
         "Time Constant":12.66,
-        "Resting potential":-76.1756019865,
-        "Maximum firing rate":2.0
+        "Resting potential":-76.17560199,
+        "Maximum firing rate":2.0,
+        "internalID":"M04_SM_A1_C07"
     },
     {
         "cellID":1759444,
@@ -1497,7 +1646,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_SM_A1_C08"
     },
     {
         "cellID":8868010,
@@ -1506,8 +1656,9 @@
         "Rheobase":70.0,
         "Resistance":524.14,
         "Time Constant":22.12,
-        "Resting potential":-61.4235328451,
-        "Maximum firing rate":1.0
+        "Resting potential":-61.42353285,
+        "Maximum firing rate":1.0,
+        "internalID":"M04_SM_A1_C09"
     },
     {
         "cellID":8094375,
@@ -1516,8 +1667,9 @@
         "Rheobase":90.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-68.0142127508,
-        "Maximum firing rate":1.0
+        "Resting potential":-68.01421275,
+        "Maximum firing rate":1.0,
+        "internalID":"M04_SM_A1_C10"
     },
     {
         "cellID":1745763,
@@ -1527,7 +1679,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_SM_A1_C11"
     },
     {
         "cellID":2175011,
@@ -1537,7 +1690,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M04_SM_A1_C12"
     },
     {
         "cellID":7798299,
@@ -1546,8 +1700,9 @@
         "Rheobase":150.0,
         "Resistance":102.29,
         "Time Constant":15.22,
-        "Resting potential":-74.989079664,
-        "Maximum firing rate":1.0
+        "Resting potential":-74.98907966,
+        "Maximum firing rate":1.0,
+        "internalID":"M04_SM_A1_C13"
     },
     {
         "cellID":2309846,
@@ -1557,7 +1712,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_JS_A1_C01"
     },
     {
         "cellID":3381210,
@@ -1566,8 +1722,9 @@
         "Rheobase":10.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-68.3400593634,
-        "Maximum firing rate":41.0
+        "Resting potential":-68.34005936,
+        "Maximum firing rate":41.0,
+        "internalID":"M05_JS_A1_C02"
     },
     {
         "cellID":4828162,
@@ -1576,8 +1733,9 @@
         "Rheobase":50.0,
         "Resistance":341.96,
         "Time Constant":17.26,
-        "Resting potential":-75.3537242854,
-        "Maximum firing rate":40.0
+        "Resting potential":-75.35372429,
+        "Maximum firing rate":40.0,
+        "internalID":"M05_JS_A1_C03"
     },
     {
         "cellID":6678187,
@@ -1587,7 +1745,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_JS_A1_C04"
     },
     {
         "cellID":1766617,
@@ -1596,8 +1755,9 @@
         "Rheobase":30.0,
         "Resistance":324.9,
         "Time Constant":12.65,
-        "Resting potential":-71.4913199845,
-        "Maximum firing rate":39.0
+        "Resting potential":-71.49131998,
+        "Maximum firing rate":39.0,
+        "internalID":"M05_JS_A1_C05"
     },
     {
         "cellID":9018815,
@@ -1606,8 +1766,9 @@
         "Rheobase":70.0,
         "Resistance":350.46,
         "Time Constant":23.6,
-        "Resting potential":-67.092316939,
-        "Maximum firing rate":82.0
+        "Resting potential":-67.09231694,
+        "Maximum firing rate":82.0,
+        "internalID":"M05_JS_A1_C06"
     },
     {
         "cellID":7208490,
@@ -1616,8 +1777,9 @@
         "Rheobase":110.0,
         "Resistance":509.77,
         "Time Constant":36.23,
-        "Resting potential":-69.5550024794,
-        "Maximum firing rate":1.0
+        "Resting potential":-69.55500248,
+        "Maximum firing rate":1.0,
+        "internalID":"M05_JS_A1_C07"
     },
     {
         "cellID":8311755,
@@ -1626,8 +1788,9 @@
         "Rheobase":90.0,
         "Resistance":184.63,
         "Time Constant":20.85,
-        "Resting potential":-65.4897241428,
-        "Maximum firing rate":3.0
+        "Resting potential":-65.48972414,
+        "Maximum firing rate":3.0,
+        "internalID":"M05_JS_A1_C08"
     },
     {
         "cellID":4189686,
@@ -1636,8 +1799,9 @@
         "Rheobase":50.0,
         "Resistance":489.68,
         "Time Constant":23.83,
-        "Resting potential":-65.9377993684,
-        "Maximum firing rate":2.0
+        "Resting potential":-65.93779937,
+        "Maximum firing rate":2.0,
+        "internalID":"M05_JS_A1_C09"
     },
     {
         "cellID":1708863,
@@ -1647,7 +1811,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_JS_A1_C10"
     },
     {
         "cellID":4791904,
@@ -1656,8 +1821,9 @@
         "Rheobase":40.0,
         "Resistance":302.15,
         "Time Constant":20.33,
-        "Resting potential":-63.8841497494,
-        "Maximum firing rate":35.0
+        "Resting potential":-63.88414975,
+        "Maximum firing rate":35.0,
+        "internalID":"M05_JS_A1_C11"
     },
     {
         "cellID":7571316,
@@ -1667,7 +1833,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_JS_A1_C13"
     },
     {
         "cellID":3398513,
@@ -1677,7 +1844,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_MJ_A1_C01"
     },
     {
         "cellID":7551031,
@@ -1686,8 +1854,9 @@
         "Rheobase":130.0,
         "Resistance":219.86,
         "Time Constant":22.53,
-        "Resting potential":-52.3389117202,
-        "Maximum firing rate":1.0
+        "Resting potential":-52.33891172,
+        "Maximum firing rate":1.0,
+        "internalID":"M05_MJ_A1_C02"
     },
     {
         "cellID":7785812,
@@ -1697,7 +1866,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_MJ_A1_C03"
     },
     {
         "cellID":9245752,
@@ -1706,8 +1876,9 @@
         "Rheobase":70.0,
         "Resistance":179.66,
         "Time Constant":27.74,
-        "Resting potential":-71.4596797127,
-        "Maximum firing rate":11.0
+        "Resting potential":-71.45967971,
+        "Maximum firing rate":11.0,
+        "internalID":"M05_MJ_A1_C04"
     },
     {
         "cellID":1755126,
@@ -1717,7 +1888,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_MJ_A1_C05"
     },
     {
         "cellID":5414054,
@@ -1727,7 +1899,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_MW_A1_C01"
     },
     {
         "cellID":6869256,
@@ -1737,7 +1910,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_MW_A1_C04"
     },
     {
         "cellID":5349797,
@@ -1747,7 +1921,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_MW_A1_C05"
     },
     {
         "cellID":7288380,
@@ -1756,8 +1931,9 @@
         "Rheobase":70.0,
         "Resistance":222.78,
         "Time Constant":21.25,
-        "Resting potential":-63.9275683802,
-        "Maximum firing rate":12.0
+        "Resting potential":-63.92756838,
+        "Maximum firing rate":12.0,
+        "internalID":"M05_SM_A1_C01"
     },
     {
         "cellID":2418091,
@@ -1766,8 +1942,9 @@
         "Rheobase":90.0,
         "Resistance":257.26,
         "Time Constant":17.3,
-        "Resting potential":-73.247628265,
-        "Maximum firing rate":4.0
+        "Resting potential":-73.24762826,
+        "Maximum firing rate":4.0,
+        "internalID":"M05_SM_A1_C02"
     },
     {
         "cellID":8814083,
@@ -1777,7 +1954,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_SM_A1_C03"
     },
     {
         "cellID":6182896,
@@ -1787,7 +1965,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M05_SM_A1_C13"
     },
     {
         "cellID":3546778,
@@ -1797,7 +1976,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M06_MW_A1_C01"
     },
     {
         "cellID":3629404,
@@ -1807,7 +1987,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M06_MW_A1_C02"
     },
     {
         "cellID":4418976,
@@ -1817,7 +1998,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M06_MW_A1_C03"
     },
     {
         "cellID":9684058,
@@ -1827,7 +2009,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M06_MW_A1_C04"
     },
     {
         "cellID":1508951,
@@ -1836,8 +2019,9 @@
         "Rheobase":30.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-63.1606432581,
-        "Maximum firing rate":3.0
+        "Resting potential":-63.16064326,
+        "Maximum firing rate":3.0,
+        "internalID":"M06_SM_A1_C01"
     },
     {
         "cellID":8816063,
@@ -1847,7 +2031,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M06_SM_A1_C06"
     },
     {
         "cellID":4610431,
@@ -1856,8 +2041,9 @@
         "Rheobase":30.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-57.2299993599,
-        "Maximum firing rate":1.0
+        "Resting potential":-57.22999936,
+        "Maximum firing rate":1.0,
+        "internalID":"M06_SM_A1_C07"
     },
     {
         "cellID":7018718,
@@ -1867,7 +2053,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M06_SM_A1_C08"
     },
     {
         "cellID":2822153,
@@ -1877,7 +2064,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M06_SM_A1_C09"
     },
     {
         "cellID":5088740,
@@ -1887,7 +2075,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M06_SM_A1_C12"
     },
     {
         "cellID":7029887,
@@ -1897,7 +2086,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M06_SM_A1_C14"
     },
     {
         "cellID":9176771,
@@ -1907,7 +2097,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M07_MW_A1_C01"
     },
     {
         "cellID":5584685,
@@ -1917,7 +2108,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M07_MW_A1_C03"
     },
     {
         "cellID":7706192,
@@ -1926,8 +2118,9 @@
         "Rheobase":90.0,
         "Resistance":277.32,
         "Time Constant":19.14,
-        "Resting potential":-62.6708107131,
-        "Maximum firing rate":76.0
+        "Resting potential":-62.67081071,
+        "Maximum firing rate":76.0,
+        "internalID":"M08_JS_A1_C01"
     },
     {
         "cellID":6388045,
@@ -1936,8 +2129,9 @@
         "Rheobase":10.0,
         "Resistance":327.68,
         "Time Constant":14.9,
-        "Resting potential":-65.3944703053,
-        "Maximum firing rate":60.0
+        "Resting potential":-65.39447031,
+        "Maximum firing rate":60.0,
+        "internalID":"M08_JS_A1_C02"
     },
     {
         "cellID":7861156,
@@ -1946,8 +2140,9 @@
         "Rheobase":70.0,
         "Resistance":400.52,
         "Time Constant":14.38,
-        "Resting potential":-61.0170861991,
-        "Maximum firing rate":86.0
+        "Resting potential":-61.0170862,
+        "Maximum firing rate":86.0,
+        "internalID":"M08_JS_A1_C03"
     },
     {
         "cellID":4180066,
@@ -1956,8 +2151,9 @@
         "Rheobase":50.0,
         "Resistance":606.23,
         "Time Constant":32.15,
-        "Resting potential":-51.8938852636,
-        "Maximum firing rate":10.0
+        "Resting potential":-51.89388526,
+        "Maximum firing rate":10.0,
+        "internalID":"M08_JS_A1_C04"
     },
     {
         "cellID":1467366,
@@ -1967,7 +2163,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M08_JS_A1_C05"
     },
     {
         "cellID":2420627,
@@ -1976,8 +2173,9 @@
         "Rheobase":90.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-66.6244870144,
-        "Maximum firing rate":29.0
+        "Resting potential":-66.62448701,
+        "Maximum firing rate":29.0,
+        "internalID":"M08_JS_A1_C06"
     },
     {
         "cellID":3304879,
@@ -1986,8 +2184,9 @@
         "Rheobase":90.0,
         "Resistance":519.41,
         "Time Constant":26.27,
-        "Resting potential":-66.7321826673,
-        "Maximum firing rate":5.0
+        "Resting potential":-66.73218267,
+        "Maximum firing rate":5.0,
+        "internalID":"M08_JS_A1_C07"
     },
     {
         "cellID":6226949,
@@ -1996,8 +2195,9 @@
         "Rheobase":250.0,
         "Resistance":131.15,
         "Time Constant":9.1,
-        "Resting potential":-77.4459763448,
-        "Maximum firing rate":5.0
+        "Resting potential":-77.44597634,
+        "Maximum firing rate":5.0,
+        "internalID":"M08_JS_A1_C08"
     },
     {
         "cellID":3781957,
@@ -2006,8 +2206,9 @@
         "Rheobase":10.0,
         "Resistance":428.54,
         "Time Constant":38.43,
-        "Resting potential":-57.6264133329,
-        "Maximum firing rate":55.0
+        "Resting potential":-57.62641333,
+        "Maximum firing rate":55.0,
+        "internalID":"M08_JS_A1_C09"
     },
     {
         "cellID":4346936,
@@ -2016,8 +2217,9 @@
         "Rheobase":250.0,
         "Resistance":236.28,
         "Time Constant":14.47,
-        "Resting potential":-67.2101095298,
-        "Maximum firing rate":55.0
+        "Resting potential":-67.21010953,
+        "Maximum firing rate":55.0,
+        "internalID":"M08_JS_A1_C10"
     },
     {
         "cellID":1731348,
@@ -2026,8 +2228,9 @@
         "Rheobase":170.0,
         "Resistance":572.94,
         "Time Constant":37.44,
-        "Resting potential":-63.6207785227,
-        "Maximum firing rate":1.0
+        "Resting potential":-63.62077852,
+        "Maximum firing rate":1.0,
+        "internalID":"M08_JS_A1_C11"
     },
     {
         "cellID":1108683,
@@ -2037,7 +2240,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M08_JS_A1_C12"
     },
     {
         "cellID":1762174,
@@ -2046,8 +2250,9 @@
         "Rheobase":30.0,
         "Resistance":528.83,
         "Time Constant":19.9,
-        "Resting potential":-70.3109108667,
-        "Maximum firing rate":2.0
+        "Resting potential":-70.31091087,
+        "Maximum firing rate":2.0,
+        "internalID":"M08_JS_A1_C13"
     },
     {
         "cellID":8210546,
@@ -2056,8 +2261,9 @@
         "Rheobase":70.0,
         "Resistance":444.25,
         "Time Constant":25.45,
-        "Resting potential":-73.6723808841,
-        "Maximum firing rate":108.0
+        "Resting potential":-73.67238088,
+        "Maximum firing rate":108.0,
+        "internalID":"M08_JS_A1_C14"
     },
     {
         "cellID":4230876,
@@ -2067,7 +2273,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M08_MW_A1_C01"
     },
     {
         "cellID":4989490,
@@ -2076,8 +2283,9 @@
         "Rheobase":50.0,
         "Resistance":206.76,
         "Time Constant":25.95,
-        "Resting potential":-67.3346771013,
-        "Maximum firing rate":23.0
+        "Resting potential":-67.3346771,
+        "Maximum firing rate":23.0,
+        "internalID":"M08_MW_A1_C02"
     },
     {
         "cellID":8494148,
@@ -2086,8 +2294,9 @@
         "Rheobase":30.0,
         "Resistance":335.69,
         "Time Constant":18.68,
-        "Resting potential":-73.2441918328,
-        "Maximum firing rate":56.0
+        "Resting potential":-73.24419183,
+        "Maximum firing rate":56.0,
+        "internalID":"M08_MW_A1_C03"
     },
     {
         "cellID":5212794,
@@ -2096,8 +2305,9 @@
         "Rheobase":150.0,
         "Resistance":102.39,
         "Time Constant":13.09,
-        "Resting potential":-69.5381179707,
-        "Maximum firing rate":1.0
+        "Resting potential":-69.53811797,
+        "Maximum firing rate":1.0,
+        "internalID":"M08_MW_A1_C05"
     },
     {
         "cellID":5722414,
@@ -2107,7 +2317,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M08_MW_A1_C06"
     },
     {
         "cellID":7071602,
@@ -2116,8 +2327,9 @@
         "Rheobase":130.0,
         "Resistance":145.72,
         "Time Constant":8.63,
-        "Resting potential":-76.5870176223,
-        "Maximum firing rate":11.0
+        "Resting potential":-76.58701762,
+        "Maximum firing rate":11.0,
+        "internalID":"M08_MW_A1_C07"
     },
     {
         "cellID":6922694,
@@ -2126,8 +2338,9 @@
         "Rheobase":90.0,
         "Resistance":296.38,
         "Time Constant":20.62,
-        "Resting potential":-63.6072389004,
-        "Maximum firing rate":126.0
+        "Resting potential":-63.6072389,
+        "Maximum firing rate":126.0,
+        "internalID":"M08_SM_A1_C03"
     },
     {
         "cellID":8238986,
@@ -2136,8 +2349,9 @@
         "Rheobase":90.0,
         "Resistance":174.71,
         "Time Constant":15.66,
-        "Resting potential":-55.8862874594,
-        "Maximum firing rate":2.0
+        "Resting potential":-55.88628746,
+        "Maximum firing rate":2.0,
+        "internalID":"M08_SM_A1_C04"
     },
     {
         "cellID":5209360,
@@ -2147,7 +2361,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M08_SM_A1_C05"
     },
     {
         "cellID":3967336,
@@ -2157,7 +2372,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M08_SM_A1_C06"
     },
     {
         "cellID":7788116,
@@ -2166,8 +2382,9 @@
         "Rheobase":130.0,
         "Resistance":91.23,
         "Time Constant":16.52,
-        "Resting potential":-68.5879399863,
-        "Maximum firing rate":1.0
+        "Resting potential":-68.58793999,
+        "Maximum firing rate":1.0,
+        "internalID":"M08_SM_A1_C07"
     },
     {
         "cellID":7940377,
@@ -2176,8 +2393,9 @@
         "Rheobase":70.0,
         "Resistance":103.09,
         "Time Constant":17.13,
-        "Resting potential":-71.0935775089,
-        "Maximum firing rate":23.0
+        "Resting potential":-71.09357751,
+        "Maximum firing rate":23.0,
+        "internalID":"M08_SM_A1_C09"
     },
     {
         "cellID":1793080,
@@ -2187,7 +2405,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_JS_A1_C01"
     },
     {
         "cellID":5413612,
@@ -2196,8 +2415,9 @@
         "Rheobase":20.0,
         "Resistance":348.85,
         "Time Constant":16.14,
-        "Resting potential":-71.4197782258,
-        "Maximum firing rate":40.0
+        "Resting potential":-71.41977823,
+        "Maximum firing rate":40.0,
+        "internalID":"M10_JS_A1_C02"
     },
     {
         "cellID":6726850,
@@ -2206,8 +2426,9 @@
         "Rheobase":20.0,
         "Resistance":504.14,
         "Time Constant":17.93,
-        "Resting potential":-65.5449404482,
-        "Maximum firing rate":109.0
+        "Resting potential":-65.54494045,
+        "Maximum firing rate":109.0,
+        "internalID":"M10_JS_A1_C03"
     },
     {
         "cellID":6107668,
@@ -2216,8 +2437,9 @@
         "Rheobase":20.0,
         "Resistance":600.43,
         "Time Constant":34.74,
-        "Resting potential":-84.5522911907,
-        "Maximum firing rate":37.0
+        "Resting potential":-84.55229119,
+        "Maximum firing rate":37.0,
+        "internalID":"M10_JS_A1_C04"
     },
     {
         "cellID":8823144,
@@ -2226,8 +2448,9 @@
         "Rheobase":60.0,
         "Resistance":214.36,
         "Time Constant":13.06,
-        "Resting potential":-75.4107579192,
-        "Maximum firing rate":9.0
+        "Resting potential":-75.41075792,
+        "Maximum firing rate":9.0,
+        "internalID":"M10_JS_A1_C05"
     },
     {
         "cellID":6046271,
@@ -2237,7 +2460,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_JS_A1_C06"
     },
     {
         "cellID":4001967,
@@ -2246,8 +2470,9 @@
         "Rheobase":160.0,
         "Resistance":181.13,
         "Time Constant":21.93,
-        "Resting potential":-76.5285911701,
-        "Maximum firing rate":2.0
+        "Resting potential":-76.52859117,
+        "Maximum firing rate":2.0,
+        "internalID":"M10_JS_A1_C07"
     },
     {
         "cellID":2972263,
@@ -2256,8 +2481,9 @@
         "Rheobase":90.0,
         "Resistance":216.78,
         "Time Constant":23.63,
-        "Resting potential":-76.3074460507,
-        "Maximum firing rate":3.0
+        "Resting potential":-76.30744605,
+        "Maximum firing rate":3.0,
+        "internalID":"M10_JS_A1_C08"
     },
     {
         "cellID":8949835,
@@ -2266,8 +2492,9 @@
         "Rheobase":90.0,
         "Resistance":228.92,
         "Time Constant":19.5,
-        "Resting potential":-63.1497039558,
-        "Maximum firing rate":121.0
+        "Resting potential":-63.14970396,
+        "Maximum firing rate":121.0,
+        "internalID":"M10_JS_A1_C09"
     },
     {
         "cellID":8196297,
@@ -2277,7 +2504,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_JS_A1_C10"
     },
     {
         "cellID":4265397,
@@ -2286,8 +2514,9 @@
         "Rheobase":70.0,
         "Resistance":211.74,
         "Time Constant":19.14,
-        "Resting potential":-72.5075533168,
-        "Maximum firing rate":4.0
+        "Resting potential":-72.50755332,
+        "Maximum firing rate":4.0,
+        "internalID":"M10_JS_A1_C11"
     },
     {
         "cellID":6101388,
@@ -2296,8 +2525,9 @@
         "Rheobase":50.0,
         "Resistance":272.83,
         "Time Constant":13.31,
-        "Resting potential":-78.0611651902,
-        "Maximum firing rate":1.0
+        "Resting potential":-78.06116519,
+        "Maximum firing rate":1.0,
+        "internalID":"M10_JS_A1_C12"
     },
     {
         "cellID":6926946,
@@ -2306,8 +2536,9 @@
         "Rheobase":90.0,
         "Resistance":255.06,
         "Time Constant":12.24,
-        "Resting potential":-66.5862212937,
-        "Maximum firing rate":97.0
+        "Resting potential":-66.58622129,
+        "Maximum firing rate":97.0,
+        "internalID":"M10_JS_A1_C13"
     },
     {
         "cellID":5524106,
@@ -2316,8 +2547,9 @@
         "Rheobase":90.0,
         "Resistance":187.27,
         "Time Constant":16.96,
-        "Resting potential":-75.4355250306,
-        "Maximum firing rate":8.0
+        "Resting potential":-75.43552503,
+        "Maximum firing rate":8.0,
+        "internalID":"M10_JS_A1_C14"
     },
     {
         "cellID":9222678,
@@ -2327,7 +2559,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_JS_A1_C15"
     },
     {
         "cellID":1988903,
@@ -2336,8 +2569,9 @@
         "Rheobase":230.0,
         "Resistance":88.86,
         "Time Constant":19.45,
-        "Resting potential":-79.6402915103,
-        "Maximum firing rate":1.0
+        "Resting potential":-79.64029151,
+        "Maximum firing rate":1.0,
+        "internalID":"M10_JS_A1_C16"
     },
     {
         "cellID":8615126,
@@ -2346,8 +2580,9 @@
         "Rheobase":150.0,
         "Resistance":74.49,
         "Time Constant":21.65,
-        "Resting potential":-73.1566538338,
-        "Maximum firing rate":14.0
+        "Resting potential":-73.15665383,
+        "Maximum firing rate":14.0,
+        "internalID":"M10_JS_A1_C17"
     },
     {
         "cellID":8001045,
@@ -2356,8 +2591,9 @@
         "Rheobase":150.0,
         "Resistance":240.33,
         "Time Constant":33.72,
-        "Resting potential":-53.0218269488,
-        "Maximum firing rate":16.0
+        "Resting potential":-53.02182695,
+        "Maximum firing rate":16.0,
+        "internalID":"M10_JS_A1_C18"
     },
     {
         "cellID":4784390,
@@ -2366,8 +2602,9 @@
         "Rheobase":80.0,
         "Resistance":413.7,
         "Time Constant":23.08,
-        "Resting potential":-56.8151467126,
-        "Maximum firing rate":3.0
+        "Resting potential":-56.81514671,
+        "Maximum firing rate":3.0,
+        "internalID":"M10_JS_A1_C19"
     },
     {
         "cellID":5312809,
@@ -2376,8 +2613,9 @@
         "Rheobase":60.0,
         "Resistance":433.46,
         "Time Constant":16.67,
-        "Resting potential":-58.1578172283,
-        "Maximum firing rate":69.0
+        "Resting potential":-58.15781723,
+        "Maximum firing rate":69.0,
+        "internalID":"M10_JS_A1_C20"
     },
     {
         "cellID":3162787,
@@ -2386,8 +2624,9 @@
         "Rheobase":120.0,
         "Resistance":243.9,
         "Time Constant":22.81,
-        "Resting potential":-78.577845081,
-        "Maximum firing rate":2.0
+        "Resting potential":-78.57784508,
+        "Maximum firing rate":2.0,
+        "internalID":"M10_JS_A1_C21"
     },
     {
         "cellID":2600929,
@@ -2396,8 +2635,9 @@
         "Rheobase":60.0,
         "Resistance":334.19,
         "Time Constant":26.18,
-        "Resting potential":-73.4375312764,
-        "Maximum firing rate":129.0
+        "Resting potential":-73.43753128,
+        "Maximum firing rate":129.0,
+        "internalID":"M10_JS_A1_C22"
     },
     {
         "cellID":9618564,
@@ -2406,8 +2646,9 @@
         "Rheobase":40.0,
         "Resistance":243.41,
         "Time Constant":25.86,
-        "Resting potential":-65.5149535391,
-        "Maximum firing rate":23.0
+        "Resting potential":-65.51495354,
+        "Maximum firing rate":23.0,
+        "internalID":"M10_JS_A1_C23"
     },
     {
         "cellID":1196436,
@@ -2416,8 +2657,9 @@
         "Rheobase":60.0,
         "Resistance":233.23,
         "Time Constant":26.78,
-        "Resting potential":-69.1695202487,
-        "Maximum firing rate":8.0
+        "Resting potential":-69.16952025,
+        "Maximum firing rate":8.0,
+        "internalID":"M10_JS_A1_C24"
     },
     {
         "cellID":3565939,
@@ -2426,8 +2668,9 @@
         "Rheobase":100.0,
         "Resistance":152.37,
         "Time Constant":29.9,
-        "Resting potential":-75.2685999567,
-        "Maximum firing rate":2.0
+        "Resting potential":-75.26859996,
+        "Maximum firing rate":2.0,
+        "internalID":"M10_JS_A1_C25"
     },
     {
         "cellID":4224639,
@@ -2436,8 +2679,9 @@
         "Rheobase":60.0,
         "Resistance":292.29,
         "Time Constant":45.8,
-        "Resting potential":-67.8016757856,
-        "Maximum firing rate":93.0
+        "Resting potential":-67.80167579,
+        "Maximum firing rate":93.0,
+        "internalID":"M10_JS_A1_C26"
     },
     {
         "cellID":6633291,
@@ -2447,7 +2691,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_JS_A1_C27"
     },
     {
         "cellID":3836546,
@@ -2457,7 +2702,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_JS_A1_C28"
     },
     {
         "cellID":5129559,
@@ -2467,7 +2713,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_JS_A1_C29"
     },
     {
         "cellID":3519968,
@@ -2476,8 +2723,9 @@
         "Rheobase":70.0,
         "Resistance":323.79,
         "Time Constant":30.26,
-        "Resting potential":-71.687250291,
-        "Maximum firing rate":1.0
+        "Resting potential":-71.68725029,
+        "Maximum firing rate":1.0,
+        "internalID":"M10_JS_A1_C30"
     },
     {
         "cellID":1303003,
@@ -2486,8 +2734,9 @@
         "Rheobase":130.0,
         "Resistance":154.11,
         "Time Constant":23.13,
-        "Resting potential":-75.3039351294,
-        "Maximum firing rate":17.0
+        "Resting potential":-75.30393513,
+        "Maximum firing rate":17.0,
+        "internalID":"M10_JS_A1_C32"
     },
     {
         "cellID":5998421,
@@ -2497,7 +2746,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_MJ_A1_C02"
     },
     {
         "cellID":8539974,
@@ -2506,8 +2756,9 @@
         "Rheobase":30.0,
         "Resistance":293.43,
         "Time Constant":36.23,
-        "Resting potential":-66.7648110175,
-        "Maximum firing rate":8.0
+        "Resting potential":-66.76481102,
+        "Maximum firing rate":8.0,
+        "internalID":"M10_MJ_A1_C03"
     },
     {
         "cellID":3767643,
@@ -2516,8 +2767,9 @@
         "Rheobase":70.0,
         "Resistance":648.8,
         "Time Constant":39.28,
-        "Resting potential":-73.2112869194,
-        "Maximum firing rate":55.0
+        "Resting potential":-73.21128692,
+        "Maximum firing rate":55.0,
+        "internalID":"M10_MJ_A1_C06"
     },
     {
         "cellID":6095919,
@@ -2527,7 +2779,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_MJ_A1_C07"
     },
     {
         "cellID":1201167,
@@ -2537,7 +2790,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_MJ_A1_C08"
     },
     {
         "cellID":1874148,
@@ -2547,7 +2801,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_MJ_A1_C12"
     },
     {
         "cellID":4779866,
@@ -2556,8 +2811,9 @@
         "Rheobase":130.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-61.2384653439,
-        "Maximum firing rate":1.0
+        "Resting potential":-61.23846534,
+        "Maximum firing rate":1.0,
+        "internalID":"M10_MJ_A1_C13"
     },
     {
         "cellID":4034987,
@@ -2567,7 +2823,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_MJ_A1_C15"
     },
     {
         "cellID":8433524,
@@ -2576,8 +2833,9 @@
         "Rheobase":130.0,
         "Resistance":303.65,
         "Time Constant":29.75,
-        "Resting potential":-75.2720598348,
-        "Maximum firing rate":37.0
+        "Resting potential":-75.27205983,
+        "Maximum firing rate":37.0,
+        "internalID":"M10_SA_A1_C01"
     },
     {
         "cellID":9922063,
@@ -2586,8 +2844,9 @@
         "Rheobase":165.0,
         "Resistance":151.64,
         "Time Constant":12.5,
-        "Resting potential":-73.1003564053,
-        "Maximum firing rate":183.0
+        "Resting potential":-73.10035641,
+        "Maximum firing rate":183.0,
+        "internalID":"M10_SA_A1_C02"
     },
     {
         "cellID":7108432,
@@ -2596,8 +2855,9 @@
         "Rheobase":120.0,
         "Resistance":250.07,
         "Time Constant":12.28,
-        "Resting potential":-74.7626138295,
-        "Maximum firing rate":21.0
+        "Resting potential":-74.76261383,
+        "Maximum firing rate":21.0,
+        "internalID":"M10_SA_A1_C03"
     },
     {
         "cellID":4482144,
@@ -2606,8 +2866,9 @@
         "Rheobase":230.0,
         "Resistance":113.25,
         "Time Constant":17.6,
-        "Resting potential":-67.4665970277,
-        "Maximum firing rate":2.0
+        "Resting potential":-67.46659703,
+        "Maximum firing rate":2.0,
+        "internalID":"M10_SA_A1_C05"
     },
     {
         "cellID":1066241,
@@ -2617,7 +2878,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_SA_A1_C06"
     },
     {
         "cellID":2595111,
@@ -2626,8 +2888,9 @@
         "Rheobase":100.0,
         "Resistance":191.28,
         "Time Constant":18.15,
-        "Resting potential":-74.8892063563,
-        "Maximum firing rate":133.0
+        "Resting potential":-74.88920636,
+        "Maximum firing rate":133.0,
+        "internalID":"M10_SA_A1_C07"
     },
     {
         "cellID":3763698,
@@ -2636,8 +2899,9 @@
         "Rheobase":55.0,
         "Resistance":317.32,
         "Time Constant":13.57,
-        "Resting potential":-73.8955433605,
-        "Maximum firing rate":160.0
+        "Resting potential":-73.89554336,
+        "Maximum firing rate":160.0,
+        "internalID":"M10_SA_A1_C08"
     },
     {
         "cellID":3912290,
@@ -2647,7 +2911,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_SA_A1_C09"
     },
     {
         "cellID":8197210,
@@ -2656,8 +2921,9 @@
         "Rheobase":25.0,
         "Resistance":564.21,
         "Time Constant":16.97,
-        "Resting potential":-67.6838992027,
-        "Maximum firing rate":114.0
+        "Resting potential":-67.6838992,
+        "Maximum firing rate":114.0,
+        "internalID":"M10_SA_A1_C10"
     },
     {
         "cellID":3474926,
@@ -2666,8 +2932,9 @@
         "Rheobase":120.0,
         "Resistance":null,
         "Time Constant":null,
-        "Resting potential":-75.2225886852,
-        "Maximum firing rate":16.0
+        "Resting potential":-75.22258869,
+        "Maximum firing rate":16.0,
+        "internalID":"M10_SA_A1_C11"
     },
     {
         "cellID":3970106,
@@ -2677,7 +2944,8 @@
         "Resistance":null,
         "Time Constant":null,
         "Resting potential":null,
-        "Maximum firing rate":null
+        "Maximum firing rate":null,
+        "internalID":"M10_SA_A1_C14"
     },
     {
         "cellID":7725418,
@@ -2686,8 +2954,9 @@
         "Rheobase":310.0,
         "Resistance":39.37,
         "Time Constant":22.8,
-        "Resting potential":-62.0044665176,
-        "Maximum firing rate":1.0
+        "Resting potential":-62.00446652,
+        "Maximum firing rate":1.0,
+        "internalID":"M10_SA_A1_C15"
     },
     {
         "cellID":4817263,
@@ -2696,7 +2965,8 @@
         "Rheobase":160.0,
         "Resistance":237.53,
         "Time Constant":14.82,
-        "Resting potential":-65.9798240434,
-        "Maximum firing rate":1.0
+        "Resting potential":-65.97982404,
+        "Maximum firing rate":1.0,
+        "internalID":"M10_SA_A1_C16"
     }
 ]
