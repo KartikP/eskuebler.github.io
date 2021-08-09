@@ -517,16 +517,12 @@ graphDiv2.on('plotly_selected', function(eventData){
 																	})
 								var timeseries = Object.keys(row);
 
-							if (row.Species == 0) {
+							if (row.labels.includes("NHP") != true) {
 								m_trace_y = m_trace_y.concat([row.X2])
 								m_trace_x = m_trace_x.concat([row.X1])
 
 
-							} else if (row.Species == 1){
-								h_trace_y = h_trace_y.concat([row.X2])
-								h_trace_x = h_trace_x.concat([row.X1])
-
-							}else if (row.Species == 3){
+							} else if (row.labels.includes("NHP")){
 								var sweepname = row.IDs
 								var trace = {
 										type: 'scatter',                    // set the chart type
