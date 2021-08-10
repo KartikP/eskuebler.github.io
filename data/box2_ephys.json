@@ -1,6 +1,6 @@
 [
     {
-        "cellID":9116186,
+        "cellID":3128918,
         "AP halfwidth":0.8,
         "AP amplitude":52.54,
         "Rheobase":110.0,
@@ -11,7 +11,7 @@
         "internalID":"M01_CN_A1_C02"
     },
     {
-        "cellID":3991007,
+        "cellID":8155013,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -22,7 +22,7 @@
         "internalID":"M01_CN_A2_C05"
     },
     {
-        "cellID":6138786,
+        "cellID":2492102,
         "AP halfwidth":1.1,
         "AP amplitude":49.61,
         "Rheobase":210.0,
@@ -33,7 +33,7 @@
         "internalID":"M01_CN_A3_C09"
     },
     {
-        "cellID":4139713,
+        "cellID":6193639,
         "AP halfwidth":0.8,
         "AP amplitude":59.94,
         "Rheobase":30.0,
@@ -44,7 +44,7 @@
         "internalID":"M01_CN_A4_C10"
     },
     {
-        "cellID":9125040,
+        "cellID":2897488,
         "AP halfwidth":0.7,
         "AP amplitude":62.95,
         "Rheobase":10.0,
@@ -55,7 +55,7 @@
         "internalID":"M01_CN_A4_C12"
     },
     {
-        "cellID":4131768,
+        "cellID":6219221,
         "AP halfwidth":0.7,
         "AP amplitude":73.49,
         "Rheobase":30.0,
@@ -66,7 +66,7 @@
         "internalID":"M01_CN_A5_C13"
     },
     {
-        "cellID":9238886,
+        "cellID":2081506,
         "AP halfwidth":0.5,
         "AP amplitude":47.33,
         "Rheobase":110.0,
@@ -77,7 +77,7 @@
         "internalID":"M01_CN_A5_C14"
     },
     {
-        "cellID":3300990,
+        "cellID":4048863,
         "AP halfwidth":0.4,
         "AP amplitude":53.86,
         "Rheobase":170.0,
@@ -88,7 +88,7 @@
         "internalID":"M01_CN_A5_C15"
     },
     {
-        "cellID":4381950,
+        "cellID":4007447,
         "AP halfwidth":0.6,
         "AP amplitude":39.95,
         "Rheobase":50.0,
@@ -99,7 +99,7 @@
         "internalID":"M01_JS_A2_C03"
     },
     {
-        "cellID":2608692,
+        "cellID":2224007,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -110,7 +110,7 @@
         "internalID":"M01_JS_A2_C05"
     },
     {
-        "cellID":9484668,
+        "cellID":4923180,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -121,7 +121,7 @@
         "internalID":"M01_JS_A2_C06"
     },
     {
-        "cellID":2193978,
+        "cellID":6850624,
         "AP halfwidth":1.5,
         "AP amplitude":63.78,
         "Rheobase":50.0,
@@ -132,7 +132,7 @@
         "internalID":"M01_JS_A3_C07"
     },
     {
-        "cellID":1594785,
+        "cellID":1860444,
         "AP halfwidth":1.1,
         "AP amplitude":62.91,
         "Rheobase":50.0,
@@ -143,7 +143,7 @@
         "internalID":"M01_JS_A4_C11"
     },
     {
-        "cellID":8192642,
+        "cellID":4100526,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -154,7 +154,7 @@
         "internalID":"M01_JS_A4_C12"
     },
     {
-        "cellID":8117196,
+        "cellID":4872470,
         "AP halfwidth":1.3,
         "AP amplitude":69.92,
         "Rheobase":30.0,
@@ -165,7 +165,7 @@
         "internalID":"M01_JS_B1_C14"
     },
     {
-        "cellID":5509646,
+        "cellID":9266875,
         "AP halfwidth":1.5,
         "AP amplitude":59.67,
         "Rheobase":10.0,
@@ -176,7 +176,7 @@
         "internalID":"M01_JS_B1_C15"
     },
     {
-        "cellID":2082324,
+        "cellID":3603737,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -187,7 +187,7 @@
         "internalID":"M01_JS_B2_C17"
     },
     {
-        "cellID":9354900,
+        "cellID":5041360,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -198,7 +198,7 @@
         "internalID":"M01_JS_B2_C18"
     },
     {
-        "cellID":9442391,
+        "cellID":6160507,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -209,7 +209,7 @@
         "internalID":"M01_JS_B3_C21"
     },
     {
-        "cellID":6579948,
+        "cellID":3717930,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -220,7 +220,7 @@
         "internalID":"M01_MW_D1_C01"
     },
     {
-        "cellID":6053114,
+        "cellID":1812154,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -231,7 +231,7 @@
         "internalID":"M01_MW_D1_C02"
     },
     {
-        "cellID":9006388,
+        "cellID":3871442,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -242,7 +242,7 @@
         "internalID":"M01_MW_D2_C03"
     },
     {
-        "cellID":3814945,
+        "cellID":2691804,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -253,7 +253,7 @@
         "internalID":"M01_MW_D2_C05"
     },
     {
-        "cellID":5093218,
+        "cellID":4594545,
         "AP halfwidth":1.6,
         "AP amplitude":75.43,
         "Rheobase":70.0,
@@ -264,7 +264,7 @@
         "internalID":"M01_MW_D3_C07"
     },
     {
-        "cellID":5516188,
+        "cellID":9914214,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -275,7 +275,7 @@
         "internalID":"M01_MW_D4_C10"
     },
     {
-        "cellID":9773626,
+        "cellID":1964115,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -286,7 +286,7 @@
         "internalID":"M01_MW_D4_C11"
     },
     {
-        "cellID":1042279,
+        "cellID":3168757,
         "AP halfwidth":2.8,
         "AP amplitude":67.12,
         "Rheobase":130.0,
@@ -297,7 +297,7 @@
         "internalID":"M01_MW_D5_C12"
     },
     {
-        "cellID":3057255,
+        "cellID":6573900,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -308,7 +308,7 @@
         "internalID":"M01_MW_D5_C13"
     },
     {
-        "cellID":8142137,
+        "cellID":3315344,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -319,7 +319,7 @@
         "internalID":"M01_MW_D5_C14"
     },
     {
-        "cellID":9320369,
+        "cellID":4717635,
         "AP halfwidth":0.4,
         "AP amplitude":53.86,
         "Rheobase":170.0,
@@ -330,7 +330,7 @@
         "internalID":"M01_SM_A1_C02"
     },
     {
-        "cellID":6665246,
+        "cellID":4461307,
         "AP halfwidth":0.5,
         "AP amplitude":47.33,
         "Rheobase":110.0,
@@ -341,7 +341,7 @@
         "internalID":"M01_SM_A1_C03"
     },
     {
-        "cellID":7871241,
+        "cellID":2507885,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -352,7 +352,7 @@
         "internalID":"M01_SM_A2_C04"
     },
     {
-        "cellID":4605758,
+        "cellID":2164708,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -363,7 +363,7 @@
         "internalID":"M01_SM_A2_C05"
     },
     {
-        "cellID":2329230,
+        "cellID":4757649,
         "AP halfwidth":0.8,
         "AP amplitude":69.06,
         "Rheobase":50.0,
@@ -374,7 +374,7 @@
         "internalID":"M01_SM_A3_C08"
     },
     {
-        "cellID":4257958,
+        "cellID":1893218,
         "AP halfwidth":0.4,
         "AP amplitude":43.14,
         "Rheobase":270.0,
@@ -385,7 +385,7 @@
         "internalID":"M01_SM_A3_C09"
     },
     {
-        "cellID":4544001,
+        "cellID":4983354,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -396,7 +396,7 @@
         "internalID":"M01_SM_A5_C11"
     },
     {
-        "cellID":4086761,
+        "cellID":6353116,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -407,7 +407,7 @@
         "internalID":"M01_SM_A5_C12"
     },
     {
-        "cellID":7003136,
+        "cellID":6353320,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -418,7 +418,7 @@
         "internalID":"M01_SM_A6_C14"
     },
     {
-        "cellID":8351285,
+        "cellID":6047132,
         "AP halfwidth":0.7,
         "AP amplitude":69.49,
         "Rheobase":30.0,
@@ -429,7 +429,7 @@
         "internalID":"M01_SM_A7_C17"
     },
     {
-        "cellID":8173434,
+        "cellID":8440701,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -440,7 +440,7 @@
         "internalID":"M01_SM_A7_C19"
     },
     {
-        "cellID":2029012,
+        "cellID":1471317,
         "AP halfwidth":0.95,
         "AP amplitude":79.16,
         "Rheobase":30.0,
@@ -451,7 +451,7 @@
         "internalID":"M02_JS_D1_C11"
     },
     {
-        "cellID":8568858,
+        "cellID":1502987,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -462,7 +462,7 @@
         "internalID":"M02_JS_D1_C12"
     },
     {
-        "cellID":5158717,
+        "cellID":3166185,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -473,7 +473,7 @@
         "internalID":"M02_JS_D2_C09"
     },
     {
-        "cellID":1793600,
+        "cellID":4221355,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -484,7 +484,7 @@
         "internalID":"M02_JS_D2_C10"
     },
     {
-        "cellID":3205536,
+        "cellID":7046620,
         "AP halfwidth":0.8,
         "AP amplitude":69.76,
         "Rheobase":110.0,
@@ -495,7 +495,7 @@
         "internalID":"M02_JS_D3_C07"
     },
     {
-        "cellID":6497946,
+        "cellID":4415715,
         "AP halfwidth":0.45,
         "AP amplitude":59.05,
         "Rheobase":70.0,
@@ -506,7 +506,7 @@
         "internalID":"M02_JS_D3_C08"
     },
     {
-        "cellID":1868154,
+        "cellID":3850320,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -517,7 +517,7 @@
         "internalID":"M02_JS_D4_C05"
     },
     {
-        "cellID":3387038,
+        "cellID":6013473,
         "AP halfwidth":1.05,
         "AP amplitude":76.08,
         "Rheobase":30.0,
@@ -528,7 +528,7 @@
         "internalID":"M02_JS_D4_C06"
     },
     {
-        "cellID":7156283,
+        "cellID":7033088,
         "AP halfwidth":0.6,
         "AP amplitude":84.35,
         "Rheobase":10.0,
@@ -539,7 +539,7 @@
         "internalID":"M02_JS_D5_C03"
     },
     {
-        "cellID":6894164,
+        "cellID":3424140,
         "AP halfwidth":1.4,
         "AP amplitude":50.69,
         "Rheobase":190.0,
@@ -550,7 +550,7 @@
         "internalID":"M02_JS_D6_C01"
     },
     {
-        "cellID":9994846,
+        "cellID":3663241,
         "AP halfwidth":0.4,
         "AP amplitude":65.22,
         "Rheobase":90.0,
@@ -561,7 +561,7 @@
         "internalID":"M02_JS_D6_C02"
     },
     {
-        "cellID":9197281,
+        "cellID":1768221,
         "AP halfwidth":0.75,
         "AP amplitude":47.18,
         "Rheobase":70.0,
@@ -572,7 +572,7 @@
         "internalID":"M02_MW_D1_C02"
     },
     {
-        "cellID":3519448,
+        "cellID":9069954,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -583,7 +583,7 @@
         "internalID":"M02_MW_D2_C04"
     },
     {
-        "cellID":8054891,
+        "cellID":9229701,
         "AP halfwidth":1.0,
         "AP amplitude":82.18,
         "Rheobase":30.0,
@@ -594,7 +594,7 @@
         "internalID":"M02_MW_D3_C06"
     },
     {
-        "cellID":5422974,
+        "cellID":4238448,
         "AP halfwidth":1.55,
         "AP amplitude":90.55,
         "Rheobase":210.0,
@@ -605,7 +605,7 @@
         "internalID":"M02_MW_D4_C08"
     },
     {
-        "cellID":1403245,
+        "cellID":4101021,
         "AP halfwidth":0.45,
         "AP amplitude":47.97,
         "Rheobase":50.0,
@@ -616,7 +616,7 @@
         "internalID":"M02_MW_D4_C09"
     },
     {
-        "cellID":4680464,
+        "cellID":3066519,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -627,7 +627,7 @@
         "internalID":"M02_MW_D5_C10"
     },
     {
-        "cellID":8390053,
+        "cellID":5565833,
         "AP halfwidth":0.5,
         "AP amplitude":43.27,
         "Rheobase":50.0,
@@ -638,7 +638,7 @@
         "internalID":"M02_MW_D5_C11"
     },
     {
-        "cellID":2438192,
+        "cellID":5984515,
         "AP halfwidth":1.0,
         "AP amplitude":83.07,
         "Rheobase":30.0,
@@ -649,7 +649,7 @@
         "internalID":"M02_MW_D6_C12"
     },
     {
-        "cellID":6147887,
+        "cellID":5916043,
         "AP halfwidth":1.4,
         "AP amplitude":57.59,
         "Rheobase":30.0,
@@ -660,7 +660,7 @@
         "internalID":"M02_MW_D6_C13"
     },
     {
-        "cellID":7742234,
+        "cellID":6392431,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -671,7 +671,7 @@
         "internalID":"M02_SM_A1_C03"
     },
     {
-        "cellID":6613779,
+        "cellID":1192200,
         "AP halfwidth":0.8,
         "AP amplitude":70.34,
         "Rheobase":130.0,
@@ -682,7 +682,7 @@
         "internalID":"M02_SM_A2_C04"
     },
     {
-        "cellID":9050555,
+        "cellID":6945823,
         "AP halfwidth":0.45,
         "AP amplitude":54.5,
         "Rheobase":110.0,
@@ -693,7 +693,7 @@
         "internalID":"M02_SM_A4_C07"
     },
     {
-        "cellID":3707837,
+        "cellID":4285879,
         "AP halfwidth":0.9,
         "AP amplitude":72.85,
         "Rheobase":30.0,
@@ -704,7 +704,7 @@
         "internalID":"M02_SM_A4_C08"
     },
     {
-        "cellID":8965146,
+        "cellID":6365774,
         "AP halfwidth":0.35,
         "AP amplitude":55.66,
         "Rheobase":150.0,
@@ -715,7 +715,7 @@
         "internalID":"M02_SM_A5_C10"
     },
     {
-        "cellID":8728742,
+        "cellID":3236796,
         "AP halfwidth":0.85,
         "AP amplitude":70.43,
         "Rheobase":30.0,
@@ -726,7 +726,7 @@
         "internalID":"M02_SM_A5_C12"
     },
     {
-        "cellID":1048427,
+        "cellID":8431110,
         "AP halfwidth":0.75,
         "AP amplitude":81.57,
         "Rheobase":190.0,
@@ -737,7 +737,7 @@
         "internalID":"M02_SM_A6_C14"
     },
     {
-        "cellID":4772129,
+        "cellID":8606409,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -748,7 +748,7 @@
         "internalID":"M02_SM_A6_C15"
     },
     {
-        "cellID":3460395,
+        "cellID":2614677,
         "AP halfwidth":0.35,
         "AP amplitude":71.08,
         "Rheobase":110.0,
@@ -759,7 +759,7 @@
         "internalID":"M02_SM_A6_C16"
     },
     {
-        "cellID":2173709,
+        "cellID":5884058,
         "AP halfwidth":0.55,
         "AP amplitude":60.89,
         "Rheobase":50.0,
@@ -770,7 +770,7 @@
         "internalID":"M03_JS_A1_C01"
     },
     {
-        "cellID":2786918,
+        "cellID":1944276,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -781,7 +781,7 @@
         "internalID":"M03_JS_A1_C02"
     },
     {
-        "cellID":9144107,
+        "cellID":7256120,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -792,7 +792,7 @@
         "internalID":"M03_JS_A1_C03"
     },
     {
-        "cellID":2571634,
+        "cellID":6537529,
         "AP halfwidth":0.6,
         "AP amplitude":50.56,
         "Rheobase":30.0,
@@ -803,7 +803,7 @@
         "internalID":"M03_JS_A1_C04"
     },
     {
-        "cellID":7409398,
+        "cellID":5995315,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -814,7 +814,7 @@
         "internalID":"M03_JS_A1_C05"
     },
     {
-        "cellID":5516779,
+        "cellID":3621020,
         "AP halfwidth":0.55,
         "AP amplitude":76.01,
         "Rheobase":30.0,
@@ -825,7 +825,7 @@
         "internalID":"M03_JS_A1_C06"
     },
     {
-        "cellID":7533484,
+        "cellID":1730110,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -836,7 +836,7 @@
         "internalID":"M03_JS_A1_C07"
     },
     {
-        "cellID":7102276,
+        "cellID":4769321,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -847,7 +847,7 @@
         "internalID":"M03_JS_A1_C08"
     },
     {
-        "cellID":1646429,
+        "cellID":2713610,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -858,7 +858,7 @@
         "internalID":"M03_JS_A1_C09"
     },
     {
-        "cellID":3292431,
+        "cellID":4255641,
         "AP halfwidth":0.35,
         "AP amplitude":57.62,
         "Rheobase":150.0,
@@ -869,7 +869,7 @@
         "internalID":"M03_JS_A1_C10"
     },
     {
-        "cellID":6239811,
+        "cellID":2713238,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -880,7 +880,7 @@
         "internalID":"M03_JS_A1_C11"
     },
     {
-        "cellID":5403686,
+        "cellID":9067376,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -891,7 +891,7 @@
         "internalID":"M03_JS_A1_C12"
     },
     {
-        "cellID":2138321,
+        "cellID":4466702,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -902,7 +902,7 @@
         "internalID":"M03_JS_A1_C13"
     },
     {
-        "cellID":6753342,
+        "cellID":6535615,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -913,7 +913,7 @@
         "internalID":"M03_JS_A1_C14"
     },
     {
-        "cellID":9291512,
+        "cellID":7382003,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -924,7 +924,7 @@
         "internalID":"M03_JS_A1_C15"
     },
     {
-        "cellID":5091066,
+        "cellID":5045555,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -935,7 +935,7 @@
         "internalID":"M03_JS_A1_C16"
     },
     {
-        "cellID":6068532,
+        "cellID":7217222,
         "AP halfwidth":1.8,
         "AP amplitude":54.16,
         "Rheobase":50.0,
@@ -946,7 +946,7 @@
         "internalID":"M03_JS_A1_C17"
     },
     {
-        "cellID":5764633,
+        "cellID":6234539,
         "AP halfwidth":0.85,
         "AP amplitude":72.66,
         "Rheobase":30.0,
@@ -957,7 +957,7 @@
         "internalID":"M03_JS_A1_C18"
     },
     {
-        "cellID":5735531,
+        "cellID":4109613,
         "AP halfwidth":0.75,
         "AP amplitude":80.63,
         "Rheobase":30.0,
@@ -968,7 +968,7 @@
         "internalID":"M03_JS_A1_C19"
     },
     {
-        "cellID":6229821,
+        "cellID":3996040,
         "AP halfwidth":0.7,
         "AP amplitude":70.62,
         "Rheobase":30.0,
@@ -979,7 +979,7 @@
         "internalID":"M03_JS_A1_C20"
     },
     {
-        "cellID":3328479,
+        "cellID":6780595,
         "AP halfwidth":0.7,
         "AP amplitude":56.7,
         "Rheobase":30.0,
@@ -990,7 +990,7 @@
         "internalID":"M03_MW_A1_C02"
     },
     {
-        "cellID":2717681,
+        "cellID":4849747,
         "AP halfwidth":1.5,
         "AP amplitude":85.08,
         "Rheobase":50.0,
@@ -1001,7 +1001,7 @@
         "internalID":"M03_MW_A1_C03"
     },
     {
-        "cellID":7741737,
+        "cellID":4097424,
         "AP halfwidth":1.25,
         "AP amplitude":66.77,
         "Rheobase":50.0,
@@ -1012,7 +1012,7 @@
         "internalID":"M03_MW_A1_C04"
     },
     {
-        "cellID":9307438,
+        "cellID":7605370,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1023,7 +1023,7 @@
         "internalID":"M03_MW_A1_C05"
     },
     {
-        "cellID":1918906,
+        "cellID":4270012,
         "AP halfwidth":1.45,
         "AP amplitude":73.06,
         "Rheobase":50.0,
@@ -1034,7 +1034,7 @@
         "internalID":"M03_MW_A1_C06"
     },
     {
-        "cellID":3354272,
+        "cellID":8683771,
         "AP halfwidth":0.4,
         "AP amplitude":76.91,
         "Rheobase":50.0,
@@ -1045,7 +1045,7 @@
         "internalID":"M03_MW_A1_C07"
     },
     {
-        "cellID":8112354,
+        "cellID":7542404,
         "AP halfwidth":0.85,
         "AP amplitude":86.02,
         "Rheobase":70.0,
@@ -1056,7 +1056,7 @@
         "internalID":"M03_MW_A1_C08"
     },
     {
-        "cellID":5611401,
+        "cellID":6895102,
         "AP halfwidth":0.95,
         "AP amplitude":90.45,
         "Rheobase":70.0,
@@ -1067,7 +1067,7 @@
         "internalID":"M03_MW_A1_C09"
     },
     {
-        "cellID":6322207,
+        "cellID":1821560,
         "AP halfwidth":1.1,
         "AP amplitude":87.91,
         "Rheobase":150.0,
@@ -1078,7 +1078,7 @@
         "internalID":"M03_MW_A1_C10"
     },
     {
-        "cellID":2877228,
+        "cellID":4849720,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1089,7 +1089,7 @@
         "internalID":"M03_MW_A1_C11"
     },
     {
-        "cellID":7172153,
+        "cellID":8633452,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1100,7 +1100,7 @@
         "internalID":"M03_MW_A1_C13"
     },
     {
-        "cellID":9004543,
+        "cellID":4916610,
         "AP halfwidth":1.75,
         "AP amplitude":84.03,
         "Rheobase":30.0,
@@ -1111,7 +1111,7 @@
         "internalID":"M03_MW_A1_C15"
     },
     {
-        "cellID":2433874,
+        "cellID":5010892,
         "AP halfwidth":1.4,
         "AP amplitude":91.87,
         "Rheobase":90.0,
@@ -1122,7 +1122,7 @@
         "internalID":"M03_MW_A1_C16"
     },
     {
-        "cellID":7440194,
+        "cellID":6867830,
         "AP halfwidth":0.75,
         "AP amplitude":68.55,
         "Rheobase":70.0,
@@ -1133,7 +1133,7 @@
         "internalID":"M03_SM_A1_C02"
     },
     {
-        "cellID":8514967,
+        "cellID":2659106,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1144,7 +1144,7 @@
         "internalID":"M03_SM_A1_C03"
     },
     {
-        "cellID":6740900,
+        "cellID":1218334,
         "AP halfwidth":0.45,
         "AP amplitude":57.51,
         "Rheobase":150.0,
@@ -1155,7 +1155,7 @@
         "internalID":"M03_SM_A1_C04"
     },
     {
-        "cellID":8405731,
+        "cellID":9093066,
         "AP halfwidth":0.7,
         "AP amplitude":82.08,
         "Rheobase":130.0,
@@ -1166,7 +1166,7 @@
         "internalID":"M03_SM_A1_C05"
     },
     {
-        "cellID":7351312,
+        "cellID":2991184,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1177,7 +1177,7 @@
         "internalID":"M03_SM_A1_C06"
     },
     {
-        "cellID":4907214,
+        "cellID":7159732,
         "AP halfwidth":0.55,
         "AP amplitude":83.62,
         "Rheobase":170.0,
@@ -1188,7 +1188,7 @@
         "internalID":"M03_SM_A1_C07"
     },
     {
-        "cellID":1034621,
+        "cellID":3791505,
         "AP halfwidth":0.7,
         "AP amplitude":97.41,
         "Rheobase":150.0,
@@ -1199,7 +1199,7 @@
         "internalID":"M03_SM_A1_C09"
     },
     {
-        "cellID":9782658,
+        "cellID":5735245,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1210,7 +1210,7 @@
         "internalID":"M03_SM_A1_C10"
     },
     {
-        "cellID":7855496,
+        "cellID":8328688,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1221,7 +1221,7 @@
         "internalID":"M03_SM_A1_C11"
     },
     {
-        "cellID":8471955,
+        "cellID":1875303,
         "AP halfwidth":1.15,
         "AP amplitude":65.53,
         "Rheobase":90.0,
@@ -1232,7 +1232,7 @@
         "internalID":"M03_SM_A1_C12"
     },
     {
-        "cellID":9690318,
+        "cellID":8930506,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1243,7 +1243,7 @@
         "internalID":"M03_SM_A1_C13"
     },
     {
-        "cellID":6253136,
+        "cellID":2333742,
         "AP halfwidth":0.7,
         "AP amplitude":88.49,
         "Rheobase":110.0,
@@ -1254,7 +1254,7 @@
         "internalID":"M03_SM_A1_C14"
     },
     {
-        "cellID":4996008,
+        "cellID":8046166,
         "AP halfwidth":0.75,
         "AP amplitude":78.36,
         "Rheobase":70.0,
@@ -1265,7 +1265,7 @@
         "internalID":"M03_SM_A1_C15"
     },
     {
-        "cellID":6643315,
+        "cellID":9355943,
         "AP halfwidth":0.75,
         "AP amplitude":58.47,
         "Rheobase":50.0,
@@ -1276,7 +1276,7 @@
         "internalID":"M03_SM_A1_C16"
     },
     {
-        "cellID":8285613,
+        "cellID":1093017,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1287,7 +1287,7 @@
         "internalID":"M03_SM_A1_C17"
     },
     {
-        "cellID":7726562,
+        "cellID":2489305,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1298,7 +1298,7 @@
         "internalID":"M03_SM_A1_C18"
     },
     {
-        "cellID":2374526,
+        "cellID":3873304,
         "AP halfwidth":0.45,
         "AP amplitude":67.58,
         "Rheobase":70.0,
@@ -1309,7 +1309,7 @@
         "internalID":"M04_JS_A1_C01"
     },
     {
-        "cellID":8682745,
+        "cellID":5819158,
         "AP halfwidth":0.85,
         "AP amplitude":72.89,
         "Rheobase":20.0,
@@ -1320,7 +1320,7 @@
         "internalID":"M04_JS_A1_C02"
     },
     {
-        "cellID":8938877,
+        "cellID":8870939,
         "AP halfwidth":0.45,
         "AP amplitude":67.98,
         "Rheobase":150.0,
@@ -1331,7 +1331,7 @@
         "internalID":"M04_JS_A1_C03"
     },
     {
-        "cellID":5677189,
+        "cellID":3574150,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1342,7 +1342,7 @@
         "internalID":"M04_JS_A1_C05"
     },
     {
-        "cellID":9309103,
+        "cellID":3665191,
         "AP halfwidth":0.85,
         "AP amplitude":68.01,
         "Rheobase":90.0,
@@ -1353,7 +1353,7 @@
         "internalID":"M04_JS_A1_C06"
     },
     {
-        "cellID":1216860,
+        "cellID":5649732,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1364,7 +1364,7 @@
         "internalID":"M04_JS_A1_C07"
     },
     {
-        "cellID":1471303,
+        "cellID":2423461,
         "AP halfwidth":0.8,
         "AP amplitude":80.05,
         "Rheobase":50.0,
@@ -1375,7 +1375,7 @@
         "internalID":"M04_JS_A1_C08"
     },
     {
-        "cellID":2950280,
+        "cellID":2627090,
         "AP halfwidth":0.9,
         "AP amplitude":69.59,
         "Rheobase":70.0,
@@ -1386,7 +1386,7 @@
         "internalID":"M04_JS_A1_C09"
     },
     {
-        "cellID":6431711,
+        "cellID":7409082,
         "AP halfwidth":1.0,
         "AP amplitude":73.36,
         "Rheobase":80.0,
@@ -1397,7 +1397,7 @@
         "internalID":"M04_JS_A1_C10"
     },
     {
-        "cellID":4869313,
+        "cellID":2024419,
         "AP halfwidth":1.55,
         "AP amplitude":85.66,
         "Rheobase":70.0,
@@ -1408,7 +1408,7 @@
         "internalID":"M04_JS_A1_C12"
     },
     {
-        "cellID":9486901,
+        "cellID":6237597,
         "AP halfwidth":0.95,
         "AP amplitude":81.37,
         "Rheobase":70.0,
@@ -1419,7 +1419,7 @@
         "internalID":"M04_JS_A1_C13"
     },
     {
-        "cellID":6939911,
+        "cellID":2649786,
         "AP halfwidth":0.95,
         "AP amplitude":87.29,
         "Rheobase":10.0,
@@ -1430,7 +1430,7 @@
         "internalID":"M04_JS_A1_C14"
     },
     {
-        "cellID":1051255,
+        "cellID":9355033,
         "AP halfwidth":1.2,
         "AP amplitude":71.91,
         "Rheobase":20.0,
@@ -1441,7 +1441,7 @@
         "internalID":"M04_JS_A1_C15"
     },
     {
-        "cellID":4659944,
+        "cellID":2036054,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1452,7 +1452,7 @@
         "internalID":"M04_JS_A1_C16"
     },
     {
-        "cellID":4642236,
+        "cellID":4691779,
         "AP halfwidth":1.15,
         "AP amplitude":66.41,
         "Rheobase":230.0,
@@ -1463,7 +1463,7 @@
         "internalID":"M04_JS_A1_C17"
     },
     {
-        "cellID":9363412,
+        "cellID":2472507,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1474,7 +1474,7 @@
         "internalID":"M04_MW_A1_C01"
     },
     {
-        "cellID":6902591,
+        "cellID":9349566,
         "AP halfwidth":0.9,
         "AP amplitude":87.05,
         "Rheobase":270.0,
@@ -1485,7 +1485,7 @@
         "internalID":"M04_MW_A1_C02"
     },
     {
-        "cellID":1875729,
+        "cellID":4252378,
         "AP halfwidth":0.35,
         "AP amplitude":62.38,
         "Rheobase":150.0,
@@ -1496,7 +1496,7 @@
         "internalID":"M04_MW_A1_C03"
     },
     {
-        "cellID":2792521,
+        "cellID":7511183,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1507,7 +1507,7 @@
         "internalID":"M04_MW_A1_C04"
     },
     {
-        "cellID":8139834,
+        "cellID":9809147,
         "AP halfwidth":0.4,
         "AP amplitude":74.88,
         "Rheobase":150.0,
@@ -1518,7 +1518,7 @@
         "internalID":"M04_MW_A1_C06"
     },
     {
-        "cellID":7342917,
+        "cellID":4029742,
         "AP halfwidth":1.15,
         "AP amplitude":77.37,
         "Rheobase":170.0,
@@ -1529,7 +1529,7 @@
         "internalID":"M04_MW_A1_C07"
     },
     {
-        "cellID":7517171,
+        "cellID":2365626,
         "AP halfwidth":0.95,
         "AP amplitude":83.72,
         "Rheobase":70.0,
@@ -1540,7 +1540,7 @@
         "internalID":"M04_MW_A1_C08"
     },
     {
-        "cellID":5325445,
+        "cellID":8547048,
         "AP halfwidth":1.4,
         "AP amplitude":87.7,
         "Rheobase":30.0,
@@ -1551,7 +1551,7 @@
         "internalID":"M04_MW_A1_C09"
     },
     {
-        "cellID":7533790,
+        "cellID":7871810,
         "AP halfwidth":0.85,
         "AP amplitude":96.15,
         "Rheobase":330.0,
@@ -1562,7 +1562,7 @@
         "internalID":"M04_MW_A1_C10"
     },
     {
-        "cellID":7601346,
+        "cellID":9384037,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1573,7 +1573,7 @@
         "internalID":"M04_SM_A1_C01"
     },
     {
-        "cellID":5216294,
+        "cellID":9088268,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1584,7 +1584,7 @@
         "internalID":"M04_SM_A1_C02"
     },
     {
-        "cellID":3591300,
+        "cellID":2667410,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1595,7 +1595,7 @@
         "internalID":"M04_SM_A1_C03"
     },
     {
-        "cellID":2032448,
+        "cellID":4416737,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1606,7 +1606,7 @@
         "internalID":"M04_SM_A1_C04"
     },
     {
-        "cellID":5994610,
+        "cellID":2532120,
         "AP halfwidth":1.3,
         "AP amplitude":50.45,
         "Rheobase":30.0,
@@ -1617,7 +1617,7 @@
         "internalID":"M04_SM_A1_C05"
     },
     {
-        "cellID":1375121,
+        "cellID":6515523,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1628,7 +1628,7 @@
         "internalID":"M04_SM_A1_C06"
     },
     {
-        "cellID":3807908,
+        "cellID":5239920,
         "AP halfwidth":0.85,
         "AP amplitude":72.85,
         "Rheobase":90.0,
@@ -1639,7 +1639,7 @@
         "internalID":"M04_SM_A1_C07"
     },
     {
-        "cellID":1759444,
+        "cellID":3719986,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1650,7 +1650,7 @@
         "internalID":"M04_SM_A1_C08"
     },
     {
-        "cellID":8868010,
+        "cellID":1010437,
         "AP halfwidth":0.9,
         "AP amplitude":55.61,
         "Rheobase":70.0,
@@ -1661,7 +1661,7 @@
         "internalID":"M04_SM_A1_C09"
     },
     {
-        "cellID":8094375,
+        "cellID":1931437,
         "AP halfwidth":0.8,
         "AP amplitude":66.41,
         "Rheobase":90.0,
@@ -1672,7 +1672,7 @@
         "internalID":"M04_SM_A1_C10"
     },
     {
-        "cellID":1745763,
+        "cellID":3145456,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1683,7 +1683,7 @@
         "internalID":"M04_SM_A1_C11"
     },
     {
-        "cellID":2175011,
+        "cellID":3412592,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1694,7 +1694,7 @@
         "internalID":"M04_SM_A1_C12"
     },
     {
-        "cellID":7798299,
+        "cellID":7017110,
         "AP halfwidth":1.0,
         "AP amplitude":83.18,
         "Rheobase":150.0,
@@ -1705,7 +1705,7 @@
         "internalID":"M04_SM_A1_C13"
     },
     {
-        "cellID":2309846,
+        "cellID":5848360,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1716,7 +1716,7 @@
         "internalID":"M05_JS_A1_C01"
     },
     {
-        "cellID":3381210,
+        "cellID":3705665,
         "AP halfwidth":1.0,
         "AP amplitude":76.77,
         "Rheobase":10.0,
@@ -1727,7 +1727,7 @@
         "internalID":"M05_JS_A1_C02"
     },
     {
-        "cellID":4828162,
+        "cellID":4065486,
         "AP halfwidth":0.95,
         "AP amplitude":74.98,
         "Rheobase":50.0,
@@ -1738,7 +1738,7 @@
         "internalID":"M05_JS_A1_C03"
     },
     {
-        "cellID":6678187,
+        "cellID":9964678,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1749,7 +1749,7 @@
         "internalID":"M05_JS_A1_C04"
     },
     {
-        "cellID":1766617,
+        "cellID":2456147,
         "AP halfwidth":1.1,
         "AP amplitude":77.22,
         "Rheobase":30.0,
@@ -1760,7 +1760,7 @@
         "internalID":"M05_JS_A1_C05"
     },
     {
-        "cellID":9018815,
+        "cellID":5320765,
         "AP halfwidth":0.55,
         "AP amplitude":62.28,
         "Rheobase":70.0,
@@ -1771,7 +1771,7 @@
         "internalID":"M05_JS_A1_C06"
     },
     {
-        "cellID":7208490,
+        "cellID":2513540,
         "AP halfwidth":1.45,
         "AP amplitude":58.5,
         "Rheobase":110.0,
@@ -1782,7 +1782,7 @@
         "internalID":"M05_JS_A1_C07"
     },
     {
-        "cellID":8311755,
+        "cellID":8968925,
         "AP halfwidth":1.2,
         "AP amplitude":48.37,
         "Rheobase":90.0,
@@ -1793,7 +1793,7 @@
         "internalID":"M05_JS_A1_C08"
     },
     {
-        "cellID":4189686,
+        "cellID":8348086,
         "AP halfwidth":0.9,
         "AP amplitude":73.25,
         "Rheobase":50.0,
@@ -1804,7 +1804,7 @@
         "internalID":"M05_JS_A1_C09"
     },
     {
-        "cellID":1708863,
+        "cellID":9530789,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1815,7 +1815,7 @@
         "internalID":"M05_JS_A1_C10"
     },
     {
-        "cellID":4791904,
+        "cellID":1644318,
         "AP halfwidth":1.05,
         "AP amplitude":71.32,
         "Rheobase":40.0,
@@ -1826,7 +1826,7 @@
         "internalID":"M05_JS_A1_C11"
     },
     {
-        "cellID":7571316,
+        "cellID":9098687,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1837,7 +1837,7 @@
         "internalID":"M05_JS_A1_C13"
     },
     {
-        "cellID":3398513,
+        "cellID":1483866,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1848,7 +1848,7 @@
         "internalID":"M05_MJ_A1_C01"
     },
     {
-        "cellID":7551031,
+        "cellID":5415738,
         "AP halfwidth":2.4,
         "AP amplitude":45.07,
         "Rheobase":130.0,
@@ -1859,7 +1859,7 @@
         "internalID":"M05_MJ_A1_C02"
     },
     {
-        "cellID":7785812,
+        "cellID":1738459,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1870,7 +1870,7 @@
         "internalID":"M05_MJ_A1_C03"
     },
     {
-        "cellID":9245752,
+        "cellID":1485837,
         "AP halfwidth":1.6,
         "AP amplitude":54.77,
         "Rheobase":70.0,
@@ -1881,7 +1881,7 @@
         "internalID":"M05_MJ_A1_C04"
     },
     {
-        "cellID":1755126,
+        "cellID":3466157,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1892,7 +1892,7 @@
         "internalID":"M05_MJ_A1_C05"
     },
     {
-        "cellID":5414054,
+        "cellID":3844017,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1903,7 +1903,7 @@
         "internalID":"M05_MW_A1_C01"
     },
     {
-        "cellID":6869256,
+        "cellID":9152516,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1914,7 +1914,7 @@
         "internalID":"M05_MW_A1_C04"
     },
     {
-        "cellID":5349797,
+        "cellID":5359985,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1925,7 +1925,7 @@
         "internalID":"M05_MW_A1_C05"
     },
     {
-        "cellID":7288380,
+        "cellID":4055093,
         "AP halfwidth":1.0,
         "AP amplitude":46.33,
         "Rheobase":70.0,
@@ -1936,7 +1936,7 @@
         "internalID":"M05_SM_A1_C01"
     },
     {
-        "cellID":2418091,
+        "cellID":2778861,
         "AP halfwidth":0.8,
         "AP amplitude":74.68,
         "Rheobase":90.0,
@@ -1947,7 +1947,7 @@
         "internalID":"M05_SM_A1_C02"
     },
     {
-        "cellID":8814083,
+        "cellID":3784873,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1958,7 +1958,7 @@
         "internalID":"M05_SM_A1_C03"
     },
     {
-        "cellID":6182896,
+        "cellID":3892931,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1969,7 +1969,7 @@
         "internalID":"M05_SM_A1_C13"
     },
     {
-        "cellID":3546778,
+        "cellID":8986433,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1980,7 +1980,7 @@
         "internalID":"M06_MW_A1_C01"
     },
     {
-        "cellID":3629404,
+        "cellID":4981728,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -1991,7 +1991,7 @@
         "internalID":"M06_MW_A1_C02"
     },
     {
-        "cellID":4418976,
+        "cellID":7957336,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2002,7 +2002,7 @@
         "internalID":"M06_MW_A1_C03"
     },
     {
-        "cellID":9684058,
+        "cellID":2868180,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2013,7 +2013,7 @@
         "internalID":"M06_MW_A1_C04"
     },
     {
-        "cellID":1508951,
+        "cellID":9273185,
         "AP halfwidth":1.1,
         "AP amplitude":60.27,
         "Rheobase":30.0,
@@ -2024,7 +2024,7 @@
         "internalID":"M06_SM_A1_C01"
     },
     {
-        "cellID":8816063,
+        "cellID":1298924,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2035,7 +2035,7 @@
         "internalID":"M06_SM_A1_C06"
     },
     {
-        "cellID":4610431,
+        "cellID":8006568,
         "AP halfwidth":1.0,
         "AP amplitude":52.55,
         "Rheobase":30.0,
@@ -2046,7 +2046,7 @@
         "internalID":"M06_SM_A1_C07"
     },
     {
-        "cellID":7018718,
+        "cellID":4734987,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2057,7 +2057,7 @@
         "internalID":"M06_SM_A1_C08"
     },
     {
-        "cellID":2822153,
+        "cellID":9801830,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2068,7 +2068,7 @@
         "internalID":"M06_SM_A1_C09"
     },
     {
-        "cellID":5088740,
+        "cellID":4870626,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2079,7 +2079,7 @@
         "internalID":"M06_SM_A1_C12"
     },
     {
-        "cellID":7029887,
+        "cellID":1098558,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2090,7 +2090,7 @@
         "internalID":"M06_SM_A1_C14"
     },
     {
-        "cellID":9176771,
+        "cellID":6585335,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2101,7 +2101,7 @@
         "internalID":"M07_MW_A1_C01"
     },
     {
-        "cellID":5584685,
+        "cellID":1579188,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2112,7 +2112,7 @@
         "internalID":"M07_MW_A1_C03"
     },
     {
-        "cellID":7706192,
+        "cellID":6806172,
         "AP halfwidth":0.5,
         "AP amplitude":62.78,
         "Rheobase":90.0,
@@ -2123,7 +2123,7 @@
         "internalID":"M08_JS_A1_C01"
     },
     {
-        "cellID":6388045,
+        "cellID":5636114,
         "AP halfwidth":0.6,
         "AP amplitude":77.91,
         "Rheobase":10.0,
@@ -2134,7 +2134,7 @@
         "internalID":"M08_JS_A1_C02"
     },
     {
-        "cellID":7861156,
+        "cellID":8379183,
         "AP halfwidth":0.6,
         "AP amplitude":77.64,
         "Rheobase":70.0,
@@ -2145,7 +2145,7 @@
         "internalID":"M08_JS_A1_C03"
     },
     {
-        "cellID":4180066,
+        "cellID":9447731,
         "AP halfwidth":0.8,
         "AP amplitude":61.74,
         "Rheobase":50.0,
@@ -2156,7 +2156,7 @@
         "internalID":"M08_JS_A1_C04"
     },
     {
-        "cellID":1467366,
+        "cellID":6511525,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2167,7 +2167,7 @@
         "internalID":"M08_JS_A1_C05"
     },
     {
-        "cellID":2420627,
+        "cellID":6564213,
         "AP halfwidth":0.85,
         "AP amplitude":66.59,
         "Rheobase":90.0,
@@ -2178,7 +2178,7 @@
         "internalID":"M08_JS_A1_C06"
     },
     {
-        "cellID":3304879,
+        "cellID":1651279,
         "AP halfwidth":0.7,
         "AP amplitude":56.12,
         "Rheobase":90.0,
@@ -2189,7 +2189,7 @@
         "internalID":"M08_JS_A1_C07"
     },
     {
-        "cellID":6226949,
+        "cellID":7017234,
         "AP halfwidth":0.75,
         "AP amplitude":77.92,
         "Rheobase":250.0,
@@ -2200,7 +2200,7 @@
         "internalID":"M08_JS_A1_C08"
     },
     {
-        "cellID":3781957,
+        "cellID":6085159,
         "AP halfwidth":0.8,
         "AP amplitude":63.22,
         "Rheobase":10.0,
@@ -2211,7 +2211,7 @@
         "internalID":"M08_JS_A1_C09"
     },
     {
-        "cellID":4346936,
+        "cellID":9788035,
         "AP halfwidth":0.4,
         "AP amplitude":46.95,
         "Rheobase":250.0,
@@ -2222,7 +2222,7 @@
         "internalID":"M08_JS_A1_C10"
     },
     {
-        "cellID":1731348,
+        "cellID":8364299,
         "AP halfwidth":0.95,
         "AP amplitude":47.75,
         "Rheobase":170.0,
@@ -2233,7 +2233,7 @@
         "internalID":"M08_JS_A1_C11"
     },
     {
-        "cellID":1108683,
+        "cellID":9813524,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2244,7 +2244,7 @@
         "internalID":"M08_JS_A1_C12"
     },
     {
-        "cellID":1762174,
+        "cellID":7545103,
         "AP halfwidth":1.3,
         "AP amplitude":51.79,
         "Rheobase":30.0,
@@ -2255,7 +2255,7 @@
         "internalID":"M08_JS_A1_C13"
     },
     {
-        "cellID":8210546,
+        "cellID":3137898,
         "AP halfwidth":0.6,
         "AP amplitude":61.92,
         "Rheobase":70.0,
@@ -2266,7 +2266,7 @@
         "internalID":"M08_JS_A1_C14"
     },
     {
-        "cellID":4230876,
+        "cellID":2212063,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2277,7 +2277,7 @@
         "internalID":"M08_MW_A1_C01"
     },
     {
-        "cellID":4989490,
+        "cellID":4430784,
         "AP halfwidth":1.35,
         "AP amplitude":58.96,
         "Rheobase":50.0,
@@ -2288,7 +2288,7 @@
         "internalID":"M08_MW_A1_C02"
     },
     {
-        "cellID":8494148,
+        "cellID":9498134,
         "AP halfwidth":0.85,
         "AP amplitude":82.37,
         "Rheobase":30.0,
@@ -2299,7 +2299,7 @@
         "internalID":"M08_MW_A1_C03"
     },
     {
-        "cellID":5212794,
+        "cellID":3767213,
         "AP halfwidth":0.6,
         "AP amplitude":84.01,
         "Rheobase":150.0,
@@ -2310,7 +2310,7 @@
         "internalID":"M08_MW_A1_C05"
     },
     {
-        "cellID":5722414,
+        "cellID":3203383,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2321,7 +2321,7 @@
         "internalID":"M08_MW_A1_C06"
     },
     {
-        "cellID":7071602,
+        "cellID":3227452,
         "AP halfwidth":0.85,
         "AP amplitude":70.34,
         "Rheobase":130.0,
@@ -2332,7 +2332,7 @@
         "internalID":"M08_MW_A1_C07"
     },
     {
-        "cellID":6922694,
+        "cellID":2947362,
         "AP halfwidth":0.55,
         "AP amplitude":58.4,
         "Rheobase":90.0,
@@ -2343,7 +2343,7 @@
         "internalID":"M08_SM_A1_C03"
     },
     {
-        "cellID":8238986,
+        "cellID":1584520,
         "AP halfwidth":1.15,
         "AP amplitude":66.89,
         "Rheobase":90.0,
@@ -2354,7 +2354,7 @@
         "internalID":"M08_SM_A1_C04"
     },
     {
-        "cellID":5209360,
+        "cellID":8648436,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2365,7 +2365,7 @@
         "internalID":"M08_SM_A1_C05"
     },
     {
-        "cellID":3967336,
+        "cellID":9978544,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2376,7 +2376,7 @@
         "internalID":"M08_SM_A1_C06"
     },
     {
-        "cellID":7788116,
+        "cellID":2883559,
         "AP halfwidth":0.95,
         "AP amplitude":71.83,
         "Rheobase":130.0,
@@ -2387,7 +2387,7 @@
         "internalID":"M08_SM_A1_C07"
     },
     {
-        "cellID":7940377,
+        "cellID":5675998,
         "AP halfwidth":0.8,
         "AP amplitude":79.31,
         "Rheobase":70.0,
@@ -2398,7 +2398,7 @@
         "internalID":"M08_SM_A1_C09"
     },
     {
-        "cellID":1793080,
+        "cellID":5623034,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2409,7 +2409,7 @@
         "internalID":"M10_JS_A1_C01"
     },
     {
-        "cellID":5413612,
+        "cellID":9902142,
         "AP halfwidth":1.0,
         "AP amplitude":65.06,
         "Rheobase":20.0,
@@ -2420,7 +2420,7 @@
         "internalID":"M10_JS_A1_C02"
     },
     {
-        "cellID":6726850,
+        "cellID":6703581,
         "AP halfwidth":0.65,
         "AP amplitude":75.73,
         "Rheobase":20.0,
@@ -2431,7 +2431,7 @@
         "internalID":"M10_JS_A1_C03"
     },
     {
-        "cellID":6107668,
+        "cellID":9146485,
         "AP halfwidth":1.05,
         "AP amplitude":76.51,
         "Rheobase":20.0,
@@ -2442,7 +2442,7 @@
         "internalID":"M10_JS_A1_C04"
     },
     {
-        "cellID":8823144,
+        "cellID":6683254,
         "AP halfwidth":1.1,
         "AP amplitude":72.07,
         "Rheobase":60.0,
@@ -2453,7 +2453,7 @@
         "internalID":"M10_JS_A1_C05"
     },
     {
-        "cellID":6046271,
+        "cellID":6269905,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2464,7 +2464,7 @@
         "internalID":"M10_JS_A1_C06"
     },
     {
-        "cellID":4001967,
+        "cellID":2649538,
         "AP halfwidth":1.15,
         "AP amplitude":68.25,
         "Rheobase":160.0,
@@ -2475,7 +2475,7 @@
         "internalID":"M10_JS_A1_C07"
     },
     {
-        "cellID":2972263,
+        "cellID":5547184,
         "AP halfwidth":1.0,
         "AP amplitude":57.77,
         "Rheobase":90.0,
@@ -2486,7 +2486,7 @@
         "internalID":"M10_JS_A1_C08"
     },
     {
-        "cellID":8949835,
+        "cellID":8286290,
         "AP halfwidth":0.45,
         "AP amplitude":60.12,
         "Rheobase":90.0,
@@ -2497,7 +2497,7 @@
         "internalID":"M10_JS_A1_C09"
     },
     {
-        "cellID":8196297,
+        "cellID":7669369,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2508,7 +2508,7 @@
         "internalID":"M10_JS_A1_C10"
     },
     {
-        "cellID":4265397,
+        "cellID":8325627,
         "AP halfwidth":1.2,
         "AP amplitude":85.09,
         "Rheobase":70.0,
@@ -2519,7 +2519,7 @@
         "internalID":"M10_JS_A1_C11"
     },
     {
-        "cellID":6101388,
+        "cellID":9944849,
         "AP halfwidth":0.8,
         "AP amplitude":50.99,
         "Rheobase":50.0,
@@ -2530,7 +2530,7 @@
         "internalID":"M10_JS_A1_C12"
     },
     {
-        "cellID":6926946,
+        "cellID":9971064,
         "AP halfwidth":0.35,
         "AP amplitude":43.76,
         "Rheobase":90.0,
@@ -2541,7 +2541,7 @@
         "internalID":"M10_JS_A1_C13"
     },
     {
-        "cellID":5524106,
+        "cellID":8247849,
         "AP halfwidth":0.9,
         "AP amplitude":69.84,
         "Rheobase":90.0,
@@ -2552,7 +2552,7 @@
         "internalID":"M10_JS_A1_C14"
     },
     {
-        "cellID":9222678,
+        "cellID":7600953,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2563,7 +2563,7 @@
         "internalID":"M10_JS_A1_C15"
     },
     {
-        "cellID":1988903,
+        "cellID":7978196,
         "AP halfwidth":1.1,
         "AP amplitude":92.37,
         "Rheobase":230.0,
@@ -2574,7 +2574,7 @@
         "internalID":"M10_JS_A1_C16"
     },
     {
-        "cellID":8615126,
+        "cellID":7113146,
         "AP halfwidth":1.45,
         "AP amplitude":83.51,
         "Rheobase":150.0,
@@ -2585,7 +2585,7 @@
         "internalID":"M10_JS_A1_C17"
     },
     {
-        "cellID":8001045,
+        "cellID":7970140,
         "AP halfwidth":0.45,
         "AP amplitude":49.77,
         "Rheobase":150.0,
@@ -2596,7 +2596,7 @@
         "internalID":"M10_JS_A1_C18"
     },
     {
-        "cellID":4784390,
+        "cellID":2827310,
         "AP halfwidth":0.5,
         "AP amplitude":49.94,
         "Rheobase":80.0,
@@ -2607,7 +2607,7 @@
         "internalID":"M10_JS_A1_C19"
     },
     {
-        "cellID":5312809,
+        "cellID":2751410,
         "AP halfwidth":0.8,
         "AP amplitude":71.23,
         "Rheobase":60.0,
@@ -2618,7 +2618,7 @@
         "internalID":"M10_JS_A1_C20"
     },
     {
-        "cellID":3162787,
+        "cellID":5579920,
         "AP halfwidth":1.0,
         "AP amplitude":79.43,
         "Rheobase":120.0,
@@ -2629,7 +2629,7 @@
         "internalID":"M10_JS_A1_C21"
     },
     {
-        "cellID":2600929,
+        "cellID":2516326,
         "AP halfwidth":0.4,
         "AP amplitude":62.59,
         "Rheobase":60.0,
@@ -2640,7 +2640,7 @@
         "internalID":"M10_JS_A1_C22"
     },
     {
-        "cellID":9618564,
+        "cellID":3991272,
         "AP halfwidth":1.1,
         "AP amplitude":73.53,
         "Rheobase":40.0,
@@ -2651,7 +2651,7 @@
         "internalID":"M10_JS_A1_C23"
     },
     {
-        "cellID":1196436,
+        "cellID":3366214,
         "AP halfwidth":1.2,
         "AP amplitude":74.36,
         "Rheobase":60.0,
@@ -2662,7 +2662,7 @@
         "internalID":"M10_JS_A1_C24"
     },
     {
-        "cellID":3565939,
+        "cellID":5907068,
         "AP halfwidth":1.6,
         "AP amplitude":72.45,
         "Rheobase":100.0,
@@ -2673,7 +2673,7 @@
         "internalID":"M10_JS_A1_C25"
     },
     {
-        "cellID":4224639,
+        "cellID":4483980,
         "AP halfwidth":0.55,
         "AP amplitude":60.79,
         "Rheobase":60.0,
@@ -2684,7 +2684,7 @@
         "internalID":"M10_JS_A1_C26"
     },
     {
-        "cellID":6633291,
+        "cellID":6819623,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2695,7 +2695,7 @@
         "internalID":"M10_JS_A1_C27"
     },
     {
-        "cellID":3836546,
+        "cellID":2255788,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2706,7 +2706,7 @@
         "internalID":"M10_JS_A1_C28"
     },
     {
-        "cellID":5129559,
+        "cellID":2000193,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2717,7 +2717,7 @@
         "internalID":"M10_JS_A1_C29"
     },
     {
-        "cellID":3519968,
+        "cellID":6569110,
         "AP halfwidth":1.2,
         "AP amplitude":61.61,
         "Rheobase":70.0,
@@ -2728,7 +2728,7 @@
         "internalID":"M10_JS_A1_C30"
     },
     {
-        "cellID":1303003,
+        "cellID":3682711,
         "AP halfwidth":1.15,
         "AP amplitude":75.53,
         "Rheobase":130.0,
@@ -2739,7 +2739,7 @@
         "internalID":"M10_JS_A1_C32"
     },
     {
-        "cellID":5998421,
+        "cellID":5139476,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2750,7 +2750,7 @@
         "internalID":"M10_MJ_A1_C02"
     },
     {
-        "cellID":8539974,
+        "cellID":1678047,
         "AP halfwidth":1.35,
         "AP amplitude":81.46,
         "Rheobase":30.0,
@@ -2761,7 +2761,7 @@
         "internalID":"M10_MJ_A1_C03"
     },
     {
-        "cellID":3767643,
+        "cellID":1987789,
         "AP halfwidth":1.15,
         "AP amplitude":72.53,
         "Rheobase":70.0,
@@ -2772,7 +2772,7 @@
         "internalID":"M10_MJ_A1_C06"
     },
     {
-        "cellID":6095919,
+        "cellID":5200757,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2783,7 +2783,7 @@
         "internalID":"M10_MJ_A1_C07"
     },
     {
-        "cellID":1201167,
+        "cellID":8818235,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2794,7 +2794,7 @@
         "internalID":"M10_MJ_A1_C08"
     },
     {
-        "cellID":1874148,
+        "cellID":7526445,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2805,7 +2805,7 @@
         "internalID":"M10_MJ_A1_C12"
     },
     {
-        "cellID":4779866,
+        "cellID":3869389,
         "AP halfwidth":2.25,
         "AP amplitude":59.52,
         "Rheobase":130.0,
@@ -2816,7 +2816,7 @@
         "internalID":"M10_MJ_A1_C13"
     },
     {
-        "cellID":4034987,
+        "cellID":8930387,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2827,7 +2827,7 @@
         "internalID":"M10_MJ_A1_C15"
     },
     {
-        "cellID":8433524,
+        "cellID":8137730,
         "AP halfwidth":0.9,
         "AP amplitude":62.93,
         "Rheobase":130.0,
@@ -2838,7 +2838,7 @@
         "internalID":"M10_SA_A1_C01"
     },
     {
-        "cellID":9922063,
+        "cellID":2933439,
         "AP halfwidth":0.35,
         "AP amplitude":58.28,
         "Rheobase":165.0,
@@ -2849,7 +2849,7 @@
         "internalID":"M10_SA_A1_C02"
     },
     {
-        "cellID":7108432,
+        "cellID":5361613,
         "AP halfwidth":0.9,
         "AP amplitude":69.15,
         "Rheobase":120.0,
@@ -2860,7 +2860,7 @@
         "internalID":"M10_SA_A1_C03"
     },
     {
-        "cellID":4482144,
+        "cellID":5414021,
         "AP halfwidth":1.3,
         "AP amplitude":87.66,
         "Rheobase":230.0,
@@ -2871,7 +2871,7 @@
         "internalID":"M10_SA_A1_C05"
     },
     {
-        "cellID":1066241,
+        "cellID":3833600,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2882,7 +2882,7 @@
         "internalID":"M10_SA_A1_C06"
     },
     {
-        "cellID":2595111,
+        "cellID":9975388,
         "AP halfwidth":0.4,
         "AP amplitude":64.75,
         "Rheobase":100.0,
@@ -2893,7 +2893,7 @@
         "internalID":"M10_SA_A1_C07"
     },
     {
-        "cellID":3763698,
+        "cellID":1623804,
         "AP halfwidth":0.45,
         "AP amplitude":49.79,
         "Rheobase":55.0,
@@ -2904,7 +2904,7 @@
         "internalID":"M10_SA_A1_C08"
     },
     {
-        "cellID":3912290,
+        "cellID":2169241,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2915,7 +2915,7 @@
         "internalID":"M10_SA_A1_C09"
     },
     {
-        "cellID":8197210,
+        "cellID":6134405,
         "AP halfwidth":0.85,
         "AP amplitude":95.31,
         "Rheobase":25.0,
@@ -2926,7 +2926,7 @@
         "internalID":"M10_SA_A1_C10"
     },
     {
-        "cellID":3474926,
+        "cellID":3105698,
         "AP halfwidth":1.2,
         "AP amplitude":82.38,
         "Rheobase":120.0,
@@ -2937,7 +2937,7 @@
         "internalID":"M10_SA_A1_C11"
     },
     {
-        "cellID":3970106,
+        "cellID":9037641,
         "AP halfwidth":null,
         "AP amplitude":null,
         "Rheobase":null,
@@ -2948,7 +2948,7 @@
         "internalID":"M10_SA_A1_C14"
     },
     {
-        "cellID":7725418,
+        "cellID":9372550,
         "AP halfwidth":1.15,
         "AP amplitude":65.51,
         "Rheobase":310.0,
@@ -2959,7 +2959,7 @@
         "internalID":"M10_SA_A1_C15"
     },
     {
-        "cellID":4817263,
+        "cellID":3874151,
         "AP halfwidth":1.25,
         "AP amplitude":92.57,
         "Rheobase":160.0,

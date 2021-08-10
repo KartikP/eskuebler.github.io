@@ -704,7 +704,7 @@ data-page-list="[10, 25, 50, 100, all]"
 	if (plot_bool) {
 		html.push('<div id="' + row.cellID + '" class="justify-content-center" ><div class="d-flex justify-content-center"><div class="spinner-border" role="status"><span class="sr-only">Loading...</span></div></div></div>');
 	} else{
-		html.push('<div id="' + row.cellID + '">Plot unreachable</div>');
+		html.push('<div id="' + row.cellID + '"><img src="images/plot_unavailable.png"></img></div>');
 	}
 	html.push('</div>');
 	html.push('<div class="col-md-4">')
