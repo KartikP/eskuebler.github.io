@@ -603,7 +603,7 @@ graphDiv5.on('plotly_selected', function(eventData){
     <section>
 
 		<div class="collapse multi-collapse show" id="tableData">
-		 <div class="card card-body">
+		 <div class="card card-body flex">
 
       <table id="table"
 data-toggle="table"
@@ -666,6 +666,13 @@ data-page-list="[10, 25, 50, 100, all]"
 	function imageFormatter(value, row) {
     		return '<img src="images/previews/' + row.internalID +'.png" style="width:50px;height:50px;" onerror=this.src="images/backup.png" />';
 		}
+	function doesFileExist(urlToFile) {
+		var xhr = new XMLHttpRequest();
+		xhr.open('HEAD', urlToFile, false);
+		xhr.send();
+
+		return xhr.status !== 404;
+	}
 	function reportFormatter(value, row) {
     		return '<a class="fa fa-exclamation-circle" onclick="on(\'' + row.ID + '\')"></a>';
 		}
@@ -683,9 +690,9 @@ data-page-list="[10, 25, 50, 100, all]"
 
     function detailFormatter(index, row) {
     var html = []
-	
-	
-	//html.push('<center>')
+	var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.internalID + ".csv"
+	var plot_bool = doesFileExist(url)
+	//html.push('<center>')<div class="container-fluid">
 	html.push('<div class="row">')
 
 	/*html.push('<div class="col">')
@@ -693,11 +700,14 @@ data-page-list="[10, 25, 50, 100, all]"
 	html.push('<img src="https://raw.githubusercontent.com/smestern/LPtraces/master/'+ row.ID +'0001.png" width="100%" height="100%">');
 	html.push('</div>')
 	html.push('</div>')*/
-	html.push('<div class="col">')
-	html.push('<div id="' + row.ID + '"></div>');
-	
+	html.push('<div class="col-md-8">')
+	if (plot_bool) {
+		html.push('<div id="' + row.cellID + '" class="justify-content-center" ><div class="d-flex justify-content-center"><div class="spinner-border" role="status"><span class="sr-only">Loading...</span></div></div></div>');
+	} else{
+		html.push('<div id="' + row.cellID + '">Plot unreachable</div>');
+	}
 	html.push('</div>');
-	html.push('<div class="col">')
+	html.push('<div class="col-md-4">')
 	
 	html.push('<div class="grid-container">');
     	$.each(row, function (key, value) {
@@ -707,11 +717,12 @@ data-page-list="[10, 25, 50, 100, all]"
 	html.push('</div>');
 	html.push('</div>');
 	html.push('</div>');
-	maketrace(row);
+	
+	setTimeout(() =>{maketrace(row)}, 1000);
+   
+
     return html.join('');
-	html.push('</div>');
-	html.push('</center>')
-  }
+  	}
 	function getUrlVars() {
     var vars = {};
     var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
@@ -832,8 +843,8 @@ function off() {
 					  hovermode: "closest"
 				
                     };
-
-                    Plotly.newPlot(document.getElementById(row.ID), data, layout, {displaylogo: false});
+					document.getElementById(row.cellID).replaceChildren();
+                    Plotly.newPlot(document.getElementById(row.cellID), data, layout, {displaylogo: false, responsive: true});
                 })
 		
 		;}
