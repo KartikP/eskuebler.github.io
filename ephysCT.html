@@ -489,12 +489,14 @@ graphDiv2.on('plotly_selected', function(eventData){
 		  </div>
 	  		<div class="collapse multi-collapse" id="Scatter4Filter">
 		  <div class="card card-body" style="width: 100%">
-			  <center>
-				  <div id="graphDiv_scatter4"></div>
+			  <center><div class="container-fluid d-flex flex-nowrap justify-content-center">
+					<div class="row">
+    <div class="col-md-4" style="width: 75%"><img src="images/spike_width.png" style="width: 100%"></img></div>
+    <div class="col-md-4"> <div id="graphDiv_scatter4"></div></div>
+    <div class="col-md-4" style="width: 75%"><img src="images/discontinous.png" style="width: 100%"></img></div>
+
 				  
-	
-	
-		
+				 </div></div>
 
 <script> 
 		
@@ -563,14 +565,13 @@ graphDiv2.on('plotly_selected', function(eventData){
 		var layout = {
 			dragmode: 'lasso',
 			autosize: true,
-			autosize: false,
-		  width: 800,
-		  height: 700
-			
+			margin: {                           // update the left, bottom, right, top margin
+                        b: 20, r: 10, t: 20
+                      },
 			
 		};
 
-Plotly.newPlot('graphDiv_scatter4', data, layout, {displaylogo: false}, {responsive: false});
+Plotly.react('graphDiv_scatter4', data, layout, {displaylogo: false}, {responsive: true});
 var graphDiv5 = document.getElementById("graphDiv_scatter4")
 graphDiv5.on('plotly_selected', function(eventData){
 		var ids = []
