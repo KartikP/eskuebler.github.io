@@ -86,7 +86,7 @@
 
 
 	<!-- AXN BUTTONS -->
-	<!--<div style="position: sticky; top: 0%; right: 0%; z-index: 9999;"> <div class="toast" data-autohide="true" data-delay="10000" style="position: absolute; top: 0%; right: 0%; z-index: 9999;">
+	<div style="position: sticky; top: 0%; right: 0%; z-index: 9999;"> <div class="toast" data-autohide="true" data-delay="10000" style="position: absolute; top: 0%; right: 0%; z-index: 9999;">
 		  
  				 	<div class="toast-header bg-danger">
    			 				<strong class="mr-auto text-white">Access Restricted</strong>
@@ -94,7 +94,7 @@
     						<button type="button" class="ml-2 mb-1 close" data-dismiss="toast">&times;</button>
   					</div>
 				  				<div class="toast-body bg-light"> Download is currently restricted. To download the dataset please contact us.</div>
-		</div> </div>-->
+		</div> </div>
 	<p>
 		<span id="Filter" class="text-left" style="display: relative">
 			<button id="filter_btn" class="btn btn-primary" data-toggle="collapse" href="#ScatterFilter" role="button"
@@ -110,7 +110,7 @@
 		<span id="dwnld_btn" class="text-right " style="display: relative">
 
 			<button id="dlsel" class="btn btn-primary">Download Selected (zip)</button>
-			<a id="dlall" href="/download.html?cell=all" class="btn btn-primary" alight="right">Download Full dataset
+			<a id="dlall" href="#" class="btn btn-primary" alight="right">Download Full dataset
 				(NWB + abf)</a>
 		</span>
 
@@ -496,8 +496,8 @@
 						return '<a class="fa fa-exclamation-circle" onclick="on(\'' + row.ID + '\')"></a>';
 					}
 					function linkFormatter(value, row) {
-						/*return '<div class="dropright"><button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  onclick="showtoast()"">Download</button><div class="dropdown-menu"> <button id="dlzip" class="dropdown-item" href="#" class="btn btn-primary">Download (zip/abf)</button> <button id="dlnwb" class="dropdown-item" href="#">Download (NWB)</button></div></div>';*/
-						return '<div class="dropright"><button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Download</button><div class="dropdown-menu"> <a class="dropdown-item" href="http://primatedatabase.com/download?cell=' + row.ID + '.abf" target="_blank" class="btn btn-primary">Download (abf)</a> <a class= "dropdown-item" href="http://primatedatabase.com/download?cell=' + row.ID + '.nwb" target="_blank">Download (NWB)</a></div></div>';
+						return '<div class="dropright"><button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  onclick="showtoast()"">Download</button><div class="dropdown-menu"> <button id="dlzip" class="dropdown-item" href="#" class="btn btn-primary">Download (zip/abf)</button> <button id="dlnwb" class="dropdown-item" href="#">Download (NWB)</button></div></div>';
+						/*return '<div class="dropright"><button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Download</button><div class="dropdown-menu"> <a class="dropdown-item" href="http://primatedatabase.com/download?cell=' + row.ID + '.abf" target="_blank" class="btn btn-primary">Download (abf)</a> <a class= "dropdown-item" href="http://primatedatabase.com/download?cell=' + row.ID + '.nwb" target="_blank">Download (NWB)</a></div></div>';*/
 					}
 					function morphFormatter(value, row) {
 						if (value) {
@@ -703,7 +703,7 @@
 								selections = getIdSelections()
 
 							})
-						$("#dlsel").on("click", function () {
+						/*$("#dlsel").on("click", function () {
 
 							var ids
 							$("#dlsel").html('<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Generating ZIP...')
@@ -737,19 +737,19 @@
 
 							return false;
 
-						})
+						})*/
 						$('#dropdownMenuButton').hover(function () {
 
 							$('.toast').toast('show');
 						});
-						/*$("#dlsel").click(function(){
+						$("#dlsel").click(function(){
 								
 							   $('.toast').toast('show');
 							   });
 					   $("#dlall").click(function(){
 					   	
 							   $('.toast').toast('show');
-							   });*/
+							   });
 
 						$('[data-toggle="tooltip"]').tooltip()
 
