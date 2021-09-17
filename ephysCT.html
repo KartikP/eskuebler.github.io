@@ -511,7 +511,7 @@
 					function detailFormatter(index, row) {
 						var html = []
 						var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.internalID + ".csv"
-						var plot_bool = doesFileExist(url)
+						var plot_bool = false//doesFileExist(url)
 						//html.push('<center>')<div class="container-fluid">
 						html.push('<div class="row">')
 
@@ -539,7 +539,7 @@
 						html.push('</div>');
 						html.push('</div>');
 
-						setTimeout(() => { maketrace(row) }, 1000);
+						//setTimeout(() => { maketrace(row) }, 1000);
 
 
 						return html.join('');
