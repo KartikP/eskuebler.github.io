@@ -222,6 +222,15 @@
 								return row[key];
 							});
 						}
+						function logunpack(rows, key) {
+							return rows.map(function (row) {
+								return Math.log10(row[key]);
+							});
+						}
+						const range = (start, stop, step = 1) =>
+  								Array(Math.ceil((stop - start) / step)).fill(start).map((x, y) => x + y * step)
+						const logrange = (start, stop, step = 1) =>
+  								Array(Math.ceil((stop - start) / step)).fill(start).map((x, y) => Math.round(10**(x + y * step)))
 
 						var data = [{
 							type: 'parcoords',
@@ -241,19 +250,23 @@
 								values: unpack(rows, 'AP amplitude')
 							}, {
 								label: 'Rheobase',
-								range: [0, 400],
+								range: [0, 600],
 								values: unpack(rows, 'Rheobase')
 							}, {
 								label: 'Resistance',
-								range: [0, 1850],
-								values: unpack(rows, 'Resistance')
+								range: [0.75, 4],
+								tickvals: range(0.75, 4.5, 0.5),
+								ticktext: logrange(0.75, 4.5, 0.5),
+								values: logunpack(rows, 'Resistance')
 							}, {
 								label: 'Time Constant',
-								range: [5, 60],
-								values: unpack(rows, 'Time Constant')
+								range: [0, 3],
+								tickvals: range(0.5, 3.5, 0.5),
+								ticktext: logrange(0.5, 3.5, 0.5),
+								values: logunpack(rows, 'Time Constant')
 							}, {
 								label: 'Maximum firing rate',
-								range: [0, 200],
+								range: [0, 400],
 								values: unpack(rows, 'Maximum firing rate')
 							}]
 						}];
@@ -579,10 +592,10 @@
 									el['AP amplitude'] >= ranges[1][0] &&
 									el['Rheobase'] <= ranges[2][1] &&
 									el['Rheobase'] >= ranges[2][0] &&
-									el['Resistance'] <= ranges[3][1] &&
-									el['Resistance'] >= ranges[3][0] &&
-									el['Time Constant'] <= ranges[4][1] &&
-									el['Time Constant'] >= ranges[4][0] &&
+									el['Resistance'] <= (10**ranges[3][1]) &&
+									el['Resistance'] >= (10**ranges[3][0]) &&
+									el['Time Constant'] <= (10**ranges[4][1]) &&
+									el['Time Constant'] >= (10**ranges[4][0]) &&
 									el['Maximum firing rate'] <= ranges[5][1] &&
 									el['Maximum firing rate'] >= ranges[5][0];
 
