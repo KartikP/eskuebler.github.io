@@ -1,271 +1,426 @@
-cellID,Sex,Breed,Age in months,Cortical layer,Dendrite type,Cortical area
-9116186,0,0,0,3,A,PFC
-3991007,0,0,0,3,A,PFC
-6138786,0,0,0,3,A,PFC
-4139713,0,0,0,0,NA,PFC
-9125040,0,0,0,0,NA,PFC
-4131768,0,0,0,0,NA,PFC
-9238886,0,0,0,0,NA,PFC
-3300990,0,0,0,0,NA,PFC
-4381950,0,0,0,0,NA,PFC
-2608692,0,0,0,0,NA,PFC
-9484668,0,0,0,N/A,N/A,PFC
-2193978,0,0,0,0,A,PFC
-1594785,0,0,0,0,NA,PFC
-8192642,0,0,0,N/A,N/A,PFC
-8117196,0,0,0,0,NA,PFC
-5509646,0,0,0,0,NA,PFC
-2082324,0,0,0,0,NA,PFC
-9354900,0,0,0,0,NA,PFC
-9442391,0,0,0,0,NA,PFC
-6579948,0,0,0,0,NA,PFC
-6053114,0,0,0,0,NA,PFC
-9006388,0,0,0,3,S,PFC
-3814945,0,0,0,3,A,PFC
-5093218,0,0,0,0,NA,PFC
-5516188,0,0,0,0,NA,PFC
-9773626,0,0,0,0,NA,PFC
-1042279,0,0,0,3,S,PFC
-3057255,0,0,0,0,NA,PFC
-8142137,0,0,0,3,A,PFC
-9320369,0,0,0,0,NA,PFC
-6665246,0,0,0,0,NA,PFC
-7871241,0,0,0,0,NA,PFC
-4605758,0,0,0,0,NA,PFC
-2329230,0,0,0,0,NA,PFC
-4257958,0,0,0,0,NA,PFC
-4544001,0,0,0,N/A,N/A,PFC
-4086761,0,0,0,0,NA,PFC
-7003136,0,0,0,3,S,PFC
-8351285,0,0,0,0,NA,PFC
-8173434,0,0,0,0,NA,PFC
-2029012,0,0,0,0,A,PFC
-8568858,0,0,0,0,A,PFC
-5158717,0,0,0,0,NA,PFC
-1793600,0,0,0,0,NA,PFC
-3205536,0,0,0,0,A,PFC
-6497946,0,0,0,0,NA,PFC
-1868154,0,0,0,0,NA,PFC
-3387038,0,0,0,0,NA,PFC
-7156283,0,0,0,0,S,PFC
-6894164,0,0,0,0,A,PFC
-9994846,0,0,0,0,NA,PFC
-9197281,0,0,0,0,NA,PFC
-3519448,0,0,0,0,NA,PFC
-8054891,0,0,0,0,S,PFC
-5422974,0,0,0,0,A,PFC
-1403245,0,0,0,0,A,PFC
-4680464,0,0,0,0,NA,PFC
-8390053,0,0,0,0,A,PFC
-2438192,0,0,0,0,NA,PFC
-6147887,0,0,0,0,NA,PFC
-7742234,0,0,0,0,A,PFC
-6613779,0,0,0,0,A,PFC
-9050555,0,0,0,0,NA,PFC
-3707837,0,0,0,0,NA,PFC
-8965146,0,0,0,0,NA,PFC
-8728742,0,0,0,0,NA,PFC
-1048427,0,0,0,0,NA,PFC
-4772129,0,0,0,0,A,PFC
-3460395,0,0,0,0,A,PFC
-2173709,0,0,0,3,A,PFC
-2786918,0,0,0,0,NA,PFC
-9144107,0,0,0,0,NA,PFC
-2571634,0,0,0,2,A,PFC
-7409398,0,0,0,0,NA,PFC
-5516779,0,0,0,0,NA,PFC
-7533484,0,0,0,0,NA,PFC
-7102276,0,0,0,0,NA,PFC
-1646429,0,0,0,0,NA,PFC
-3292431,0,0,0,0,NA,PFC
-6239811,0,0,0,4,A,PFC
-5403686,0,0,0,4,A,PFC
-2138321,0,0,0,0,NA,PFC
-6753342,0,0,0,3,S,PFC
-9291512,0,0,0,3,A,PFC
-5091066,0,0,0,0,NA,PFC
-6068532,0,0,0,0,S,PFC
-5764633,0,0,0,3,S,PFC
-5735531,0,0,0,3,A,PFC
-6229821,0,0,0,0,NA,PFC
-3328479,0,0,0,4,A,PFC
-2717681,0,0,0,3,S,PFC
-7741737,0,0,0,4,S,PFC
-9307438,0,0,0,3,A,PFC
-1918906,0,0,0,4,S,PFC
-3354272,0,0,0,3,A,PFC
-8112354,0,0,0,2,S,PFC
-5611401,0,0,0,3,A,PFC
-6322207,0,0,0,3,S,PFC
-2877228,0,0,0,3,A,PFC
-7172153,0,0,0,3,S,PFC
-9004543,0,0,0,0,NA,PFC
-2433874,0,0,0,0,NA,PFC
-7440194,0,0,0,3,S,PFC
-8514967,0,0,0,5/6,A,PFC
-6740900,0,0,0,5/6,A,PFC
-8405731,0,0,0,3,S,PFC
-7351312,0,0,0,2,A,PFC
-4907214,0,0,0,3,S,PFC
-1034621,0,0,0,0,NA,PFC
-9782658,0,0,0,2,A,PFC
-7855496,0,0,0,3,S,PFC
-8471955,0,0,0,4,A,PFC
-9690318,0,0,0,2,S,PFC
-6253136,0,0,0,0,NA,PFC
-4996008,0,0,0,0,NA,PFC
-6643315,0,0,0,0,NA,PFC
-8285613,0,0,0,2,A,PFC
-7726562,0,0,0,2,A,PFC
-2374526,0,0,0,0,NA,PFC
-8682745,0,0,0,0,NA,PFC
-8938877,0,0,0,0,NA,PFC
-5677189,0,0,0,0,NA,PFC
-9309103,0,0,0,5/6,A,PFC
-1216860,0,0,0,0,NA,PFC
-1471303,0,0,0,0,NA,PFC
-2950280,0,0,0,3,A,PFC
-6431711,0,0,0,0,NA,PFC
-4869313,0,0,0,5/6,A,PFC
-9486901,0,0,0,5/6,A,PFC
-6939911,0,0,0,5/6,A,PFC
-1051255,0,0,0,0,NA,PFC
-4659944,0,0,0,4,A,PFC
-4642236,0,0,0,3,A,PFC
-9363412,0,0,0,0,NA,PFC
-6902591,0,0,0,0,NA,PFC
-1875729,0,0,0,0,NA,PFC
-2792521,0,0,0,0,NA,PFC
-8139834,0,0,0,3,A,PFC
-7342917,0,0,0,3,A,PFC
-7517171,0,0,0,0,NA,PFC
-5325445,0,0,0,0,NA,PFC
-7533790,0,0,0,3,A,PFC
-7601346,0,0,0,0,NA,PFC
-5216294,0,0,0,0,NA,PFC
-3591300,0,0,0,N/A,N/A,PFC
-2032448,0,0,0,0,NA,PFC
-5994610,0,0,0,0,NA,PFC
-1375121,0,0,0,0,NA,PFC
-3807908,0,0,0,0,NA,PFC
-1759444,0,0,0,0,NA,PFC
-8868010,0,0,0,3,A,PFC
-8094375,0,0,0,0,NA,PFC
-1745763,0,0,0,0,NA,PFC
-2175011,0,0,0,3,A,PFC
-7798299,0,0,0,0,NA,PFC
-2309846,0,0,0,4,A,PFC
-3381210,0,0,0,4,A,PFC
-4828162,0,0,0,0,NA,PFC
-6678187,0,0,0,3,A,PFC
-1766617,0,0,0,0,NA,PFC
-9018815,0,0,0,0,NA,PFC
-7208490,0,0,0,2,S,PFC
-8311755,0,0,0,5/6,A,PFC
-4189686,0,0,0,5/6,A,PFC
-1708863,0,0,0,4,A,PFC
-4791904,0,0,0,3,A,PFC
-7571316,0,0,0,0,NA,PFC
-3398513,0,0,0,0,NA,PFC
-7551031,0,0,0,5/6,S,PFC
-7785812,0,0,0,3,S,PFC
-9245752,0,0,0,5/6,S,PFC
-1755126,0,0,0,0,NA,PFC
-5414054,0,0,0,0,NA,PFC
-6869256,0,0,0,0,NA,PFC
-5349797,0,0,0,5/6,NA,PFC
-7288380,0,0,0,4,S,PFC
-2418091,0,0,0,4,S,PFC
-8814083,0,0,0,3,A,PFC
-6182896,0,0,0,2,S,PFC
-3546778,0,0,0,4,S,PFC
-3629404,0,0,0,NA,NA,PFC
-4418976,0,0,0,3,S,PFC
-9684058,0,0,0,2,A,PFC
-1508951,0,0,0,NaN,NaN,PFC
-8816063,0,0,0,NaN,NaN,PFC
-4610431,0,0,0,NaN,NaN,PFC
-7018718,0,0,0,NaN,NaN,PFC
-2822153,0,0,0,NaN,NaN,PFC
-5088740,0,0,0,NaN,NaN,PFC
-7029887,0,0,0,NA,NA,PFC
-9176771,0,0,0,5/6,A,PFC
-5584685,0,0,0,4,S,PFC
-7706192,0,0,0,NA,NA,PFC
-6388045,0,0,0,NA,NA,PFC
-7861156,0,0,0,NA,NA,PFC
-4180066,0,0,0,5/6,S,PFC
-1467366,0,0,0,NA,NA,PFC
-2420627,0,0,0,NA,NA,IC
-3304879,0,0,0,5/6,A,PFC
-6226949,0,0,0,4,S,PFC
-3781957,0,0,0,5/6,A,PFC
-4346936,0,0,0,NA,NA,PFC
-1731348,0,0,0,4,S,PFC
-1108683,0,0,0,5/6,NA,PFC
-1762174,0,0,0,3,S,PFC
-8210546,0,0,0,NA,NA,PFC
-4230876,0,0,0,4,S,PFC
-4989490,0,0,0,3,S,PFC
-8494148,0,0,0,5/6,S,PFC
-5212794,0,0,0,5/6,S,PFC
-5722414,0,0,0,NA,NA,PFC
-7071602,0,0,0,3,S,IC
-6922694,0,0,0,4,A,PFC
-8238986,0,0,0,5/6,S,PFC
-5209360,0,0,0,3,S,PFC
-3967336,0,0,0,5/6,S,PFC
-7788116,0,0,0,NA,NA,IC
-7940377,0,0,0,3,S,PFC
-1793080,0,0,0,5/6,A,PFC
-5413612,0,0,0,NA,NA,PFC
-6726850,0,0,0,NA,NA,PFC
-6107668,0,0,0,3,A,PFC
-8823144,0,0,0,3,A,PFC
-6046271,0,0,0,NaN,NaN,PFC
-4001967,0,0,0,NaN,NaN,PFC
-2972263,0,0,0,NaN,A,PFC
-8949835,0,0,0,NaN,NaN,PFC
-8196297,0,0,0,5/6,A,PFC
-4265397,0,0,0,NaN,NaN,PFC
-6101388,0,0,0,NaN,NaN,PFC
-6926946,0,0,0,NaN,NaN,PFC
-5524106,0,0,0,NaN,S,PFC
-9222678,0,0,0,NaN,A,PFC
-1988903,0,0,0,NA,NA,PFC
-8615126,0,0,0,NaN,NaN,PFC
-8001045,0,0,0,NaN,NaN,PFC
-4784390,0,0,0,NaN,NaN,PFC
-5312809,0,0,0,NaN,NaN,PFC
-3162787,0,0,0,NA,NA,PFC
-2600929,0,0,0,NaN,NaN,PFC
-9618564,0,0,0,NaN,NaN,PFC
-1196436,0,0,0,NaN,NaN,PFC
-3565939,0,0,0,NaN,NaN,PFC
-4224639,0,0,0,NaN,NaN,PFC
-6633291,0,0,0,NaN,NaN,PFC
-3836546,0,0,0,NA,NA,PFC
-5129559,0,0,0,3,S,PFC
-3519968,0,0,0,4,S,PFC
-1303003,0,0,0,3,S,PFC
-5998421,0,0,0,NaN,NaN,PFC
-8539974,0,0,0,NaN,NaN,PFC
-3767643,0,0,0,NA,NA,PFC
-6095919,0,0,0,NaN,NaN,PFC
-1201167,0,0,0,NaN,NaN,PFC
-1874148,0,0,0,NaN,NaN,PFC
-4779866,0,0,0,NaN,NaN,PFC
-4034987,0,0,0,NaN,NaN,PFC
-8433524,0,0,0,3,S,PFC
-9922063,0,0,0,NaN,NaN,PFC
-7108432,0,0,0,NA,NA,PFC
-4482144,0,0,0,5/6,S,PFC
-1066241,0,0,0,NaN,NaN,PFC
-2595111,0,0,0,5/6,A,PFC
-3763698,0,0,0,NaN,NaN,PFC
-3912290,0,0,0,3,S,PFC
-8197210,0,0,0,NA,NA,PFC
-3474926,0,0,0,NaN,NaN,PFC
-3970106,0,0,0,NaN,NaN,PFC
-7725418,0,0,0,NaN,NaN,PFC
-4817263,0,0,0,NaN,NaN,PFC
+cellID,Species,Sex,Cortical area,Dendrite type,Cortical layer,internalID,,
+3128918,macaca mulatta,NA,PFC,A,3,M01_CN_A1_C02,,
+8155013,macaca mulatta,NA,PFC,A,3,M01_CN_A2_C05,,
+2492102,macaca mulatta,NA,PFC,A,3,M01_CN_A3_C09,,
+6193639,macaca mulatta,NA,PFC,NA,NA,M01_CN_A4_C10,,
+2897488,macaca mulatta,NA,PFC,NA,NA,M01_CN_A4_C12,,
+6219221,macaca mulatta,NA,PFC,NA,NA,M01_CN_A5_C13,,
+2081506,macaca mulatta,NA,PFC,NA,NA,M01_CN_A5_C14,,
+4048863,macaca mulatta,NA,PFC,NA,NA,M01_CN_A5_C15,,
+4007447,macaca mulatta,NA,PFC,NA,NA,M01_JS_A2_C03,,
+2224007,macaca mulatta,NA,PFC,NA,NA,M01_JS_A2_C05,,
+4923180,macaca mulatta,NA,PFC,NA,NA,M01_JS_A3_C06,,
+6850624,macaca mulatta,NA,PFC,A,NA,M01_JS_A3_C07,,
+1860444,macaca mulatta,NA,PFC,NA,NA,M01_JS_A4_C11,,
+4100526,macaca mulatta,NA,PFC,NA,NA,M01_JS_A5_C12,,
+4872470,macaca mulatta,NA,PFC,A,3,M01_JS_B1_C14,,
+9266875,macaca mulatta,NA,PFC,A,3,M01_JS_B1_C15,,
+3603737,macaca mulatta,NA,PFC,A,NA,M01_JS_B2_C17,,
+5041360,macaca mulatta,NA,PFC,A,NA,M01_JS_B2_C18,,
+6160507,macaca mulatta,NA,PFC,NA,NA,M01_JS_B3_C21,,
+3717930,macaca mulatta,NA,PFC,NA,NA,M01_MW_D1_C01,,
+1812154,macaca mulatta,NA,PFC,NA,NA,M01_MW_D1_C02,,
+3871442,macaca mulatta,NA,PFC,A,3,M01_MW_D2_C03,,
+2691804,macaca mulatta,NA,PFC,A,3,M01_MW_D2_C05,,
+4594545,macaca mulatta,NA,PFC,NA,NA,M01_MW_D3_C07,,
+9914214,macaca mulatta,NA,PFC,NA,NA,M01_MW_D4_C10,,
+1964115,macaca mulatta,NA,PFC,NA,NA,M01_MW_D4_C11,,
+3168757,macaca mulatta,NA,PFC,S,3,M01_MW_D5_C12,,
+6573900,macaca mulatta,NA,PFC,S,3,M01_MW_D5_C13,,
+3315344,macaca mulatta,NA,PFC,A,3,M01_MW_D5_C14,,
+4717635,macaca mulatta,NA,PFC,NA,NA,M01_SM_A1_C02,,
+4461307,macaca mulatta,NA,PFC,NA,NA,M01_SM_A1_C03,,
+2507885,macaca mulatta,NA,PFC,NA,NA,M01_SM_A2_C04,,
+2164708,macaca mulatta,NA,PFC,NA,NA,M01_SM_A2_C05,,
+4757649,macaca mulatta,NA,PFC,NA,NA,M01_SM_A3_C08,,
+1893218,macaca mulatta,NA,PFC,NA,NA,M01_SM_A3_C09,,
+4983354,macaca mulatta,NA,PFC,A,4,M01_SM_A4_C11,,
+6353116,macaca mulatta,NA,PFC,NA,NA,M01_SM_A5_C12,,
+6353320,macaca mulatta,NA,PFC,S,3,M01_SM_A6_C14,,
+6047132,macaca mulatta,NA,PFC,NA,NA,M01_SM_A7_C17,,
+8440701,macaca mulatta,NA,PFC,NA,NA,M01_SM_A7_C19,,
+1471317,macaca mulatta,NA,PFC,A,NA,M02_JS_D1_C11,,
+1502987,macaca mulatta,NA,PFC,A,NA,M02_JS_D1_C12,,
+3166185,macaca mulatta,NA,PFC,NA,NA,M02_JS_D2_C09,,
+4221355,macaca mulatta,NA,PFC,NA,NA,M02_JS_D2_C10,,
+7046620,macaca mulatta,NA,PFC,S,NA,M02_JS_D3_C07,,
+4415715,macaca mulatta,NA,PFC,NA,NA,M02_JS_D3_C08,,
+3850320,macaca mulatta,NA,PFC,NA,NA,M02_JS_D4_C05,,
+6013473,macaca mulatta,NA,PFC,NA,NA,M02_JS_D4_C06,,
+7033088,macaca mulatta,NA,PFC,A,NA,M02_JS_D5_C03,,
+3424140,macaca mulatta,NA,PFC,A,NA,M02_JS_D6_C01,,
+3663241,macaca mulatta,NA,PFC,NA,NA,M02_JS_D6_C02,,
+1768221,macaca mulatta,NA,PFC,NA,NA,M02_MW_D1_C02,,
+9069954,macaca mulatta,NA,PFC,NA,NA,M02_MW_D2_C04,,
+9229701,macaca mulatta,NA,PFC,S,NA,M02_MW_D3_C06,,
+4238448,macaca mulatta,NA,PFC,A,NA,M02_MW_D4_C08,,
+4101021,macaca mulatta,NA,PFC,A,NA,M02_MW_D4_C09,,
+3066519,macaca mulatta,NA,PFC,NA,NA,M02_MW_D5_C10,,
+5565833,macaca mulatta,NA,PFC,A,NA,M02_MW_D5_C11,,
+5984515,macaca mulatta,NA,PFC,S,NA,M02_MW_D6_C12,,
+5916043,macaca mulatta,NA,PFC,NA,NA,M02_MW_D6_C13,,
+6392431,macaca mulatta,NA,PFC,A,NA,M02_SM_A1_C03,,
+1192200,macaca mulatta,NA,PFC,S,NA,M02_SM_A2_C04,,
+6945823,macaca mulatta,NA,PFC,NA,NA,M02_SM_A4_C07,,
+4285879,macaca mulatta,NA,PFC,NA,NA,M02_SM_A4_C08,,
+6365774,macaca mulatta,NA,PFC,NA,NA,M02_SM_A5_C10,,
+3236796,macaca mulatta,NA,PFC,NA,NA,M02_SM_A5_C12,,
+8431110,macaca mulatta,NA,PFC,NA,NA,M02_SM_A6_C14,,
+8606409,macaca mulatta,NA,PFC,A,NA,M02_SM_A6_C15,,
+2614677,macaca mulatta,NA,PFC,A,NA,M02_SM_A6_C16,,
+5884058,macaca fascicularis,NA,PFC,A,3,M03_JS_A1_C01,,
+1944276,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C02,,
+7256120,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C03,,
+6537529,macaca fascicularis,NA,PFC,A,2,M03_JS_A1_C04,,
+5995315,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C05,,
+3621020,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C06,,
+1730110,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C07,,
+4769321,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C08,,
+2713610,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C09,,
+4255641,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C10,,
+2713238,macaca fascicularis,NA,PFC,A,4,M03_JS_A1_C11,,
+9067376,macaca fascicularis,NA,PFC,A,4,M03_JS_A1_C12,,
+4466702,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C13,,
+6535615,macaca fascicularis,NA,PFC,S,3,M03_JS_A1_C14,,
+7382003,macaca fascicularis,NA,PFC,A,3,M03_JS_A1_C15,,
+5045555,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C16,,
+7217222,macaca fascicularis,NA,PFC,S,NA,M03_JS_A1_C17,,
+6234539,macaca fascicularis,NA,PFC,S,3,M03_JS_A1_C18,,
+4109613,macaca fascicularis,NA,PFC,A,3,M03_JS_A1_C19,,
+3996040,macaca fascicularis,NA,PFC,NA,NA,M03_JS_A1_C20,,
+6780595,macaca fascicularis,NA,PFC,A,4,M03_MW_A1_C02,,
+4849747,macaca fascicularis,NA,PFC,S,3,M03_MW_A1_C03,,
+4097424,macaca fascicularis,NA,PFC,S,4,M03_MW_A1_C04,,
+7605370,macaca fascicularis,NA,PFC,A,3,M03_MW_A1_C05,,
+4270012,macaca fascicularis,NA,PFC,S,4,M03_MW_A1_C06,,
+8683771,macaca fascicularis,NA,PFC,A,3,M03_MW_A1_C07,,
+7542404,macaca fascicularis,NA,PFC,A,2,M03_MW_A1_C08,,
+6895102,macaca fascicularis,NA,PFC,S,3,M03_MW_A1_C09,,
+1821560,macaca fascicularis,NA,PFC,S,3,M03_MW_A1_C10,,
+4849720,macaca fascicularis,NA,PFC,S,3,M03_MW_A1_C11,,
+8633452,macaca fascicularis,NA,PFC,S,3,M03_MW_A1_C13,,
+4916610,macaca fascicularis,NA,PFC,NA,NA,M03_MW_A1_C15,,
+5010892,macaca fascicularis,NA,PFC,NA,NA,M03_MW_A1_C16,,
+6867830,macaca fascicularis,NA,PFC,A,3,M03_SM_A1_C02,,
+2659106,macaca fascicularis,NA,PFC,A,3,M03_SM_A1_C03,,
+1218334,macaca fascicularis,NA,PFC,A,3,M03_SM_A1_C04,,
+9093066,macaca fascicularis,NA,PFC,S,3,M03_SM_A1_C05,,
+2991184,macaca fascicularis,NA,PFC,A,3,M03_SM_A1_C06,,
+7159732,macaca fascicularis,NA,PFC,S,3,M03_SM_A1_C07,,
+3791505,macaca fascicularis,NA,PFC,NA,NA,M03_SM_A1_C09,,
+5735245,macaca fascicularis,NA,PFC,A,2,M03_SM_A1_C10,,
+8328688,macaca fascicularis,NA,PFC,A,3,M03_SM_A1_C11,,
+1875303,macaca fascicularis,NA,PFC,A,4,M03_SM_A1_C12,,
+8930506,macaca fascicularis,NA,PFC,S,2,M03_SM_A1_C13,,
+2333742,macaca fascicularis,NA,PFC,S,NA,M03_SM_A1_C14,,
+8046166,macaca fascicularis,NA,PFC,S,NA,M03_SM_A1_C15,,
+9355943,macaca fascicularis,NA,PFC,S,NA,M03_SM_A1_C16,,
+1093017,macaca fascicularis,NA,PFC,S,2,M03_SM_A1_C17,,
+2489305,macaca fascicularis,NA,PFC,S,2,M03_SM_A1_C18,,
+3873304,macaca fascicularis,NA,PFC,NA,NA,M04_JS_A1_C01,,
+5819158,macaca fascicularis,NA,PFC,NA,NA,M04_JS_A1_C02,,
+8870939,macaca fascicularis,NA,PFC,NA,NA,M04_JS_A1_C03,,
+8817060,macaca fascicularis,NA,PFC,NA,NA,M04_JS_A1_C04,,
+3574150,macaca fascicularis,NA,PFC,NA,NA,M04_JS_A1_C05,,
+3665191,macaca fascicularis,NA,PFC,S,5_6,M04_JS_A1_C06,,
+5649732,macaca fascicularis,NA,PFC,NA,NA,M04_JS_A1_C07,,
+2423461,macaca fascicularis,NA,PFC,NA,NA,M04_JS_A1_C08,,
+2627090,macaca fascicularis,NA,PFC,S,3,M04_JS_A1_C09,,
+7409082,macaca fascicularis,NA,PFC,NA,NA,M04_JS_A1_C10,,
+2024419,macaca fascicularis,NA,PFC,S,5_6,M04_JS_A1_C12,,
+6237597,macaca fascicularis,NA,PFC,S,5_6,M04_JS_A1_C13,,
+2649786,macaca fascicularis,NA,PFC,A,5_6,M04_JS_A1_C14,,
+9355033,macaca fascicularis,NA,PFC,NA,NA,M04_JS_A1_C15,,
+2036054,macaca fascicularis,NA,PFC,A,4,M04_JS_A1_C16,,
+4691779,macaca fascicularis,NA,PFC,S,3,M04_JS_A1_C17,,
+2472507,macaca fascicularis,NA,PFC,NA,NA,M04_MW_A1_C01,,
+9349566,macaca fascicularis,NA,PFC,NA,NA,M04_MW_A1_C02,,
+4252378,macaca fascicularis,NA,PFC,NA,NA,M04_MW_A1_C03,,
+7511183,macaca fascicularis,NA,PFC,NA,NA,M04_MW_A1_C04,,
+9809147,macaca fascicularis,NA,PFC,A,3,M04_MW_A1_C06,,
+4029742,macaca fascicularis,NA,PFC,S,3,M04_MW_A1_C07,,
+2365626,macaca fascicularis,NA,PFC,NA,NA,M04_MW_A1_C08,,
+8547048,macaca fascicularis,NA,PFC,NA,NA,M04_MW_A1_C09,,
+7871810,macaca fascicularis,NA,PFC,NA,NA,M04_MW_A1_C10,,
+9384037,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C01,,
+9088268,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C02,,
+2667410,NA,NA,NA,NA,NA,M04_SM_A1_C03,,
+4416737,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C04,,
+2532120,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C05,,
+6515523,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C06,,
+5239920,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C07,,
+3719986,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C08,,
+1010437,macaca fascicularis,NA,PFC,S,3,M04_SM_A1_C09,,
+1931437,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C10,,
+3145456,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C11,,
+3412592,macaca fascicularis,NA,PFC,A,3,M04_SM_A1_C12,,
+7017110,macaca fascicularis,NA,PFC,NA,NA,M04_SM_A1_C13,,
+5848360,macaca fascicularis,NA,PFC,A,4,M05_JS_A1_C01,,
+3705665,macaca fascicularis,NA,PFC,A,4,M05_JS_A1_C02,,
+4065486,macaca fascicularis,NA,PFC,NA,NA,M05_JS_A1_C03,,
+9964678,macaca fascicularis,NA,PFC,A,3,M05_JS_A1_C04,,
+2456147,macaca fascicularis,NA,PFC,NA,NA,M05_JS_A1_C05,,
+5320765,macaca fascicularis,NA,PFC,NA,NA,M05_JS_A1_C06,,
+2513540,macaca fascicularis,NA,PFC,S,2,M05_JS_A1_C07,,
+8968925,macaca fascicularis,NA,PFC,A,5_6,M05_JS_A1_C08,,
+8348086,macaca fascicularis,NA,PFC,A,5_6,M05_JS_A1_C09,,
+9530789,macaca fascicularis,NA,PFC,A,4,M05_JS_A1_C10,,
+1644318,macaca fascicularis,NA,PFC,A,3,M05_JS_A1_C11,,
+9098687,macaca fascicularis,NA,PFC,NA,NA,M05_JS_A1_C13,,
+1483866,macaca fascicularis,NA,PFC,NA,NA,M05_MJ_A1_C01,,
+5415738,macaca fascicularis,NA,PFC,S,5_6,M05_MJ_A1_C02,,
+1738459,macaca fascicularis,NA,PFC,S,3,M05_MJ_A1_C03,,
+1485837,macaca fascicularis,NA,PFC,S,5_6,M05_MJ_A1_C04,,
+3466157,macaca fascicularis,NA,PFC,NA,NA,M05_MJ_A1_C05,,
+3844017,macaca fascicularis,NA,PFC,NA,NA,M05_MW_A1_C01,,
+9152516,macaca fascicularis,NA,PFC,NA,NA,M05_MW_A1_C04,,
+5359985,macaca fascicularis,NA,PFC,NA,5_6,M05_MW_A1_C05,,
+4055093,macaca fascicularis,NA,PFC,S,4,M05_SM_A1_C01,,
+2778861,macaca fascicularis,NA,PFC,S,4,M05_SM_A1_C02,,
+3784873,macaca fascicularis,NA,PFC,A,3,M05_SM_A1_C03,,
+3892931,macaca fascicularis,NA,PFC,S,2,M05_SM_A1_C13,,
+8986433,macaca fascicularis,NA,PFC/LIP,S,4,M06_MW_A1_C01,,
+4981728,macaca fascicularis,NA,PFC/LIP,NA,NA,M06_MW_A1_C02,,
+7957336,macaca fascicularis,NA,PFC/LIP,S,3,M06_MW_A1_C03,,
+2868180,macaca fascicularis,NA,PFC/LIP,A,2,M06_MW_A1_C04,,
+9273185,macaca fascicularis,NA,PFC/LIP,NA,NA,M06_SM_A1_C01,,
+1298924,macaca fascicularis,NA,PFC/LIP,NA,NA,M06_SM_A1_C06,,
+8006568,macaca fascicularis,NA,PFC/LIP,NA,NA,M06_SM_A1_C07,,
+4734987,macaca fascicularis,NA,PFC/LIP,NA,NA,M06_SM_A1_C08,,
+9801830,macaca fascicularis,NA,PFC/LIP,NA,NA,M06_SM_A1_C09,,
+4870626,macaca fascicularis,NA,PFC/LIP,NA,NA,M06_SM_A1_C12,,
+1098558,macaca fascicularis,NA,PFC/LIP,NA,NA,M06_SM_A1_C14,,
+6585335,macaca fascicularis,NA,PFC,A,5_6,M07_MW_A1_C01,,
+1579188,macaca fascicularis,NA,PFC,S,4,M07_MW_A1_C03,,
+6806172,macaca fascicularis,NA,PFC,NA,3,M08_JS_A1_C01,,
+5636114,macaca fascicularis,NA,PFC,NA,NA,M08_JS_A1_C02,,
+8379183,macaca fascicularis,NA,PFC,NA,3,M08_JS_A1_C03,,
+9447731,macaca fascicularis,NA,PFC,S,5_6,M08_JS_A1_C04,,
+6511525,macaca fascicularis,NA,PFC,NA,NA,M08_JS_A1_C05,,
+6564213,macaca fascicularis,NA,IC,NA,NA,M08_JS_A1_C06,,
+1651279,macaca fascicularis,NA,PFC,A,5_6,M08_JS_A1_C07,,
+7017234,macaca fascicularis,NA,PFC,S,4,M08_JS_A1_C08,,
+6085159,macaca fascicularis,NA,PFC,A,5_6,M08_JS_A1_C09,,
+9788035,macaca fascicularis,NA,PFC,NA,NA,M08_JS_A1_C10,,
+8364299,macaca fascicularis,NA,PFC,S,4,M08_JS_A1_C11,,
+9813524,macaca fascicularis,NA,PFC,NA,5_6,M08_JS_A1_C12,,
+7545103,macaca fascicularis,NA,PFC,S,3,M08_JS_A1_C13,,
+3137898,macaca fascicularis,NA,PFC,NA,NA,M08_JS_A1_C14,,
+2212063,macaca fascicularis,NA,PFC,S,4,M08_MW_A1_C01,,
+4430784,macaca fascicularis,NA,PFC,S,3,M08_MW_A1_C02,,
+9498134,macaca fascicularis,NA,PFC,S,5_6,M08_MW_A1_C03,,
+3767213,macaca fascicularis,NA,PFC,S,5_6,M08_MW_A1_C05,,
+3203383,macaca fascicularis,NA,PFC,NA,NA,M08_MW_A1_C06,,
+3227452,macaca fascicularis,NA,IC,S,3,M08_MW_A1_C07,,
+2947362,macaca fascicularis,NA,PFC,A,4,M08_SM_A1_C03,,
+1584520,macaca fascicularis,NA,PFC,S,5_6,M08_SM_A1_C04,,
+8648436,macaca fascicularis,NA,PFC,S,3,M08_SM_A1_C05,,
+9978544,macaca fascicularis,NA,PFC,S,5_6,M08_SM_A1_C06,,
+2883559,macaca fascicularis,NA,IC,NA,NA,M08_SM_A1_C07,,
+5675998,macaca fascicularis,NA,PFC,S,3,M08_SM_A1_C09,,
+5623034,macaca fascicularis,NA,PFC,A,5_6,M10_JS_A1_C01,,
+9902142,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C02,,
+6703581,macaca fascicularis,NA,PFC,A,5_6,M10_JS_A1_C03,,
+9146485,macaca fascicularis,NA,PFC,A,3,M10_JS_A1_C04,,
+6683254,macaca fascicularis,NA,PFC,A,3,M10_JS_A1_C05,,
+6269905,macaca fascicularis,NA,PFC,S,5_6,M10_JS_A1_C06,,
+2649538,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C07,,
+5547184,macaca fascicularis,NA,PFC,A,NA,M10_JS_A1_C08,,
+8286290,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C09,,
+7669369,macaca fascicularis,NA,PFC,A,5_6,M10_JS_A1_C10,,
+8325627,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C11,,
+9944849,macaca fascicularis,NA,PFC,A,5_6,M10_JS_A1_C12,,
+9971064,macaca fascicularis,NA,PFC,A,4,M10_JS_A1_C13,,
+8247849,macaca fascicularis,NA,PFC,S,NA,M10_JS_A1_C14,,
+7600953,macaca fascicularis,NA,PFC,A,NA,M10_JS_A1_C15,,
+7978196,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C16,,
+7113146,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C17,,
+7970140,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C18,,
+2827310,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C19,,
+2751410,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C20,,
+5579920,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C21,,
+2516326,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C22,,
+3991272,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C23,,
+3366214,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C24,,
+5907068,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C25,,
+4483980,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C26,,
+6819623,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C27,,
+2255788,macaca fascicularis,NA,PFC,NA,NA,M10_JS_A1_C28,,
+2000193,macaca fascicularis,NA,PFC,S,3,M10_JS_A1_C29,,
+6569110,macaca fascicularis,NA,PFC,S,4,M10_JS_A1_C30,,
+3682711,macaca fascicularis,NA,PFC,S,3,M10_JS_A1_C32,,
+5139476,macaca fascicularis,NA,PFC,A,5_6,M10_MJ_A1_C02,,
+1678047,macaca fascicularis,NA,PFC,S,5_6,M10_MJ_A1_C03,,
+1987789,macaca fascicularis,NA,PFC,NA,NA,M10_MJ_A1_C06,,
+5200757,macaca fascicularis,NA,PFC,S,2,M10_MJ_A1_C07,,
+8818235,macaca fascicularis,NA,PFC,S,4,M10_MJ_A1_C08,,
+7526445,macaca fascicularis,NA,PFC,S,3,M10_MJ_A1_C12,,
+3869389,macaca fascicularis,NA,PFC,S,4,M10_MJ_A1_C13,,
+8930387,macaca fascicularis,NA,PFC,S,3,M10_MJ_A1_C15,,
+8137730,macaca fascicularis,NA,PFC,S,3,M10_SA_A1_C01,,
+2933439,macaca fascicularis,NA,PFC,A,5_6,M10_SA_A1_C02,,
+5361613,macaca fascicularis,NA,PFC,NA,NA,M10_SA_A1_C03,,
+5414021,macaca fascicularis,NA,PFC,S,5_6,M10_SA_A1_C05,,
+3833600,macaca fascicularis,NA,PFC,A,5_6,M10_SA_A1_C06,,
+9975388,macaca fascicularis,NA,PFC,A,5_6,M10_SA_A1_C07,,
+1623804,macaca fascicularis,NA,PFC,A,5_6,M10_SA_A1_C08,,
+2169241,macaca fascicularis,NA,PFC,S,3,M10_SA_A1_C09,,
+6134405,macaca fascicularis,NA,PFC,NA,NA,M10_SA_A1_C10,,
+3105698,macaca fascicularis,NA,PFC,NA,NA,M10_SA_A1_C11,,
+9037641,macaca fascicularis,NA,PFC,NA,NA,M10_SA_A1_C14,,
+9372550,macaca fascicularis,NA,PFC,NA,NA,M10_SA_A1_C15,,
+3874151,macaca fascicularis,NA,PFC,NA,NA,M10_SA_A1_C16,,
+3351044,macaca mulatta,NA,LIP,A,5_6,M12_JS_A1_C01,,
+8214628,macaca mulatta,NA,LIP,S,3,M12_JS_A1_C02,,
+9246129,macaca mulatta,NA,LIP,NA,NA,M12_JS_A1_C03,,
+7426510,macaca mulatta,NA,LIP,NA,NA,M12_JS_A1_C04,,
+8562501,macaca mulatta,NA,LIP,S,3,M12_JS_A1_C05,,
+2309091,macaca mulatta,NA,LIP,NA,NA,M12_JS_A1_C06,,
+4721928,macaca mulatta,NA,LIP,A,5_6,M12_JS_A1_C07,,
+7399711,macaca mulatta,NA,LIP,S,3,M12_JS_A1_C08,,
+7245012,macaca mulatta,NA,LIP,A,4,M12_JS_A1_C09,,
+5343306,macaca mulatta,NA,LIP,S,5_6,M12_JS_A1_C10,,
+1891078,macaca mulatta,NA,LIP,A,5_6,M12_JS_A1_C11,,
+5857796,macaca mulatta,NA,LIP,A,5_6,M12_JS_A1_C12,,
+6208764,macaca mulatta,NA,LIP,S,5_6,M12_JS_A1_C13,,
+7015602,macaca mulatta,NA,LIP,S,3,M12_JS_A1_C14,,
+9814653,macaca mulatta,NA,LIP,NA,NA,M12_JS_A1_C15,,
+1156363,macaca mulatta,NA,LIP,NA,NA,M12_SA_A1_C01,,
+2951250,macaca mulatta,NA,LIP,S,3,M12_SA_A1_C02,,
+2549972,macaca mulatta,NA,LIP,S,3,M12_SA_A1_C04,,
+3714844,macaca mulatta,NA,LIP,NA,NA,M12_SA_A1_C07,,
+1512698,macaca mulatta,NA,LIP,S,3,M12_SA_A1_C08,,
+2656640,macaca mulatta,NA,LIP,S,3,M12_SA_A1_C10,,
+7889217,macaca mulatta,NA,LIP,S,3,M12_SA_A1_C11,,
+9605789,macaca mulatta,NA,LIP,NA,3,M12_SA_A1_C12,,
+2347702,macaca mulatta,NA,LIP,NA,NA,M12_SA_A1_C13,,
+8849534,macaca mulatta,NA,LIP,NA,NA,M12_SA_A1_C14,,
+4975821,macaca fascicularis,NA,V1,,,M19_JS_A1_C01,,
+8003564,macaca fascicularis,NA,V1,,,M19_JS_A1_C02,,
+8975436,macaca fascicularis,NA,V1,,,M19_JS_A1_C03,,
+7768236,macaca fascicularis,NA,V1,,,M19_JS_A1_C04,,
+8205287,macaca fascicularis,NA,V1,,,M19_JS_A1_C05,,
+4459885,macaca fascicularis,NA,V1,,,M19_JS_A1_C06,,
+7413319,macaca fascicularis,NA,V1,,,M19_JS_A1_C07,,
+4122456,macaca fascicularis,NA,V1,,,M19_JS_A1_C08,,
+3345938,macaca fascicularis,NA,V1,,,M19_JS_A1_C09,,
+8089605,macaca fascicularis,NA,V1,,,M19_JS_A1_C11,,
+5935184,macaca fascicularis,NA,V1,,,M19_JS_A1_C12,,
+8923103,macaca fascicularis,NA,V1,,,M19_JS_A1_C13,,
+4838316,macaca fascicularis,NA,V1,,,M19_JS_A1_C14,,
+6110172,macaca fascicularis,NA,V1,,,M19_JS_A1_C15,,
+8749915,macaca fascicularis,NA,V1,,,M19_MM_A1_C01,,
+5602093,macaca fascicularis,NA,V1,,,M19_MM_A1_C02,,
+2830122,macaca fascicularis,NA,V1,,,M19_MM_A1_C03,,
+3028495,macaca fascicularis,NA,V1,,,M19_MM_A1_C05,,
+7138747,macaca fascicularis,NA,V1,,,M19_MM_A1_C06,,
+9433398,macaca fascicularis,NA,V1,,,M19_MM_A1_C07,,
+5854951,macaca fascicularis,NA,V1,,,M19_MM_A1_C08,,
+6661088,macaca fascicularis,NA,V1,,,M19_MM_A1_C09,,
+8257021,macaca fascicularis,NA,V1,,,M19_MM_A1_C10,,
+7839811,macaca fascicularis,NA,V1,,,M19_MM_A1_C11,,
+4810929,macaca fascicularis,NA,V1,,,M19_MM_A1_C13,,
+4769609,macaca fascicularis,NA,V1,,,M19_SA_A1_C01,,
+7406995,macaca fascicularis,NA,V1,,,M19_SA_A1_C02,,
+7491511,macaca fascicularis,NA,V1,,,M19_SA_A1_C03,,
+7661074,macaca fascicularis,NA,V1,,,M19_SA_A1_C04,,
+1784469,macaca fascicularis,NA,V1,,,M19_SA_A1_C05,,
+2688707,macaca fascicularis,NA,V1,,,M19_SA_A1_C06,,
+5905888,macaca fascicularis,NA,V1,,,M19_SA_A1_C07,,
+9632904,macaca fascicularis,NA,V1,,,M19_SA_A1_C08,,
+7286726,macaca fascicularis,NA,V1,,,M19_SA_A1_C09,,
+6406733,macaca fascicularis,NA,V1,,,M19_SA_A1_C10,,
+3307545,macaca fascicularis,NA,V1,,,M19_SA_A1_C11,,
+1790100,macaca fascicularis,NA,V1,,,M19_SA_A1_C12,,
+9904357,macaca mulatta,NA,V1,,,M20_JS_A1_C01,,
+1700831,macaca mulatta,NA,V1,,,M20_JS_A1_C02,,
+1927497,macaca mulatta,NA,V1,,,M20_JS_A1_C03,,
+6846705,macaca mulatta,NA,V1,,,M20_MM_A1_C01,,
+6852521,macaca mulatta,NA,V1,,,M20_MM_A1_C02,,
+8475887,macaca mulatta,NA,V1,,,M20_MM_A1_C03,,
+4765338,macaca mulatta,NA,V1,,,M20_MM_A1_C04,,
+9791993,macaca mulatta,NA,V1,,,M20_MM_A1_C05,,
+2848919,macaca mulatta,NA,V1,,,M20_MM_A1_C06,,
+4993744,macaca mulatta,NA,V1,,,M20_MM_A1_C07,,
+3839715,macaca mulatta,NA,V1,,,M20_SA_A1_C01,,
+8538234,macaca mulatta,NA,V1,,,M20_SA_A1_C02,,
+8337229,macaca mulatta,NA,V1,,,M20_SA_A1_C03,,
+1029038,macaca mulatta,NA,V1,,,M20_SA_A1_C04,,
+6491815,macaca mulatta,NA,V1,,,M20_SA_A1_C05,,
+2402289,macaca mulatta,NA,V1,,,M20_SA_A1_C06,,
+1530562,macaca mulatta,NA,V1,,,M20_SA_A1_C07,,
+7378701,macaca mulatta,NA,V1,,,M20_SA_A1_C08,,
+4206621,macaca mulatta,NA,V1,,,M20_SA_A1_C09,,
+6239034,macaca mulatta,NA,V1,,,M20_SA_A1_C10,,
+7403426,Callithrix jacchus,NA,PFC,,,A09_MM_A1_C01,,
+8996655,Callithrix jacchus,NA,PFC,,,A09_MM_A1_C02,,
+2412251,Callithrix jacchus,NA,PFC,,,A09_MM_A1_C03,,
+8202874,Callithrix jacchus,NA,PFC,,,A09_MM_A1_C04,,
+2931813,Callithrix jacchus,NA,PFC,,,A09_MM_A1_C05,,
+1997305,Callithrix jacchus,NA,PFC,,,A09_MM_A1_C08,,
+2220270,Callithrix jacchus,NA,PFC,,,A09_MM_A1_C09,,
+7642166,Callithrix jacchus,NA,PFC,,,A09_MM_A1_C10,,
+8590892,Callithrix jacchus,NA,PFC,,,A09_SA_A1_C01,,
+5143869,Callithrix jacchus,NA,PFC,,,A09_SA_A1_C02,,
+6367273,Callithrix jacchus,NA,PFC,,,A09_SA_A1_C04,,
+9189559,Callithrix jacchus,NA,V1,,,A10_MM_A1_C01,,
+7748799,Callithrix jacchus,NA,V1,,,A10_MM_A1_C02,,
+1800079,Callithrix jacchus,NA,V1,,,A10_MM_A1_C03,,
+9897777,Callithrix jacchus,NA,V1,,,A10_MM_A1_C04,,
+4897314,Callithrix jacchus,NA,V1,,,A10_MM_A1_C05,,
+1823609,Callithrix jacchus,NA,V1,,,A11_MM_A1_C01,,
+8272043,Callithrix jacchus,NA,V1,,,A11_MM_A1_C02,,
+6538279,Callithrix jacchus,NA,V1,,,A11_MM_A1_C04,,
+8626570,Callithrix jacchus,NA,V1,,,A11_MM_A1_C05,,
+2743813,Callithrix jacchus,NA,V1,,,A11_MM_A1_C09,,
+5345060,Callithrix jacchus,NA,V1,,,A11_MM_A1_C10,,
+5517321,Callithrix jacchus,NA,V1,,,A11_MM_A1_C11,,
+7146744,Callithrix jacchus,NA,V1,,,A11_MM_A1_C14,,
+6536289,Callithrix jacchus,NA,PFC,,,A12_JS_A2_C02,,
+2581526,Callithrix jacchus,NA,PFC,,,A12_JS_A3_C03,,
+8543911,Callithrix jacchus,NA,PFC,,,A12_JS_A4_C04,,
+2064307,Callithrix jacchus,NA,PFC,,,A12_JS_A5_C05,,
+7975515,Callithrix jacchus,NA,PFC,,,A12_JS_A6_C06,,
+3248905,Callithrix jacchus,NA,PFC,,,A12_JS_B1_C07,,
+4120570,Callithrix jacchus,NA,PFC,,,A12_JS_B3_C09,,
+5343306,Callithrix jacchus,NA,PFC,,,A12_JS_XX_C10,,
+3896097,Callithrix jacchus,NA,PFC,,,A12_MM_A2_C03,,
+4839096,Callithrix jacchus,NA,PFC,,,A12_MM_A3_C05,,
+8607655,Callithrix jacchus,NA,PFC,,,A12_MM_A4_C07,,
+9239003,Callithrix jacchus,NA,PFC,,,A12_SA_A1_C01,,
+6119309,Callithrix jacchus,NA,PFC,,,A12_SA_A1_C02,,
+3297243,Callithrix jacchus,NA,PFC,,,A12_SA_A1_C03,,
+7007468,Callithrix jacchus,NA,PFC,,,A12_SA_A2_C04,,
+9537193,Callithrix jacchus,NA,PFC,,,A12_SA_A3_C05,,
+7342105,Callithrix jacchus,NA,PFC,,,A12_SA_A3_C06,,
+6544964,Callithrix jacchus,NA,PFC,,,A12_SA_A4_C08,,
+9978275,Callithrix jacchus,NA,PFC,NA,NA,A12_SA_A4_C09,,
+3016777,Callithrix jacchus,NA,PFC,,,A13_MM_A1_C01,,
+5350840,Callithrix jacchus,NA,PFC,,,A13_MM_A2_C03,,
+2045707,Callithrix jacchus,NA,PFC,,,A13_MM_A3_C04,,
+1959201,Callithrix jacchus,NA,PFC,,,A13_MM_A4_C05,,
+5205007,Callithrix jacchus,NA,PFC,,,A13_MM_A5_C06,,
+2257778,Callithrix jacchus,NA,PFC,,,A13_MM_A6_C07,,
+3692362,Callithrix jacchus,NA,PFC,,,A13_MM_B1_C08,,
+6644300,Callithrix jacchus,NA,PFC,,,A13_MM_B2_C09,,
+9740115,Callithrix jacchus,NA,PFC,,,A13_MM_B3_C10,,
+8583490,Callithrix jacchus,NA,PFC,,,A13_MM_B4_C11,,
+5395105,Callithrix jacchus,NA,PFC,,,M16_MM_A1_C01,,
+2715975,Callithrix jacchus,NA,PFC,,,M16_MM_A1_C03,,
+8213007,Callithrix jacchus,NA,PFC,,,M16_MM_A1_C04,,
+2379207,Callithrix jacchus,NA,PFC,NA,NA,M16_SM_A1_C03,,
+7228876,Callithrix jacchus,NA,PFC,NA,NA,M16_SM_A1_C05,,
+8712866,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C03,,
+4023882,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C05,,
+9838314,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C06,,
+7861316,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C07,,
+3445257,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C08,,
+9899854,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C09,,
+8170940,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C10,,
+5218722,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C11,,
+7328945,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C12,,
+2288905,Callithrix jacchus,NA,PFC,,,M17_MM_A1_C13,,
+8288011,Callithrix jacchus,NA,PFC,NA,NA,M17_MM_A1_C14,,
+1461603,Callithrix jacchus,NA,PFC,NA,NA,M17_MM_A1_C15,,
+1905830,Callithrix jacchus,NA,PFC,NA,NA,M17_MM_A1_C16,,
+3771033,Callithrix jacchus,NA,PFC,NA,NA,M17_MM_A1_C17,,

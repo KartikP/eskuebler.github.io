@@ -429,7 +429,7 @@
 					data-pagination="true" data-search="true" data-detail-view="true" data-force-export="true"
 					data-show-columns="true" data-click-to-select="true" data-detail-formatter="detailFormatter"
 					data-show-export="false" data-classes="table table-card-like table-borderless table-striped"
-					data-sort-name="AP amplitude" data-sort-order="desc" data-page-list="[10, 25, 50, 100, all]">
+					data-sort-name="Resting potential" data-sort-order="asec" data-page-list="[10, 25, 50, 100, all]">
 					<thead>
 						<tr>
 							<th data-field="state" data-checkbox="true" rowspan="2"></th>
@@ -467,6 +467,7 @@
 					var $table = $('#table');
 					var $graphDiv = $('#graphDiv')
 					var selections = []
+					var timeseries;
 					var Promise = window.Promise;
 					if (!Promise) {
 						Promise = JSZip.external.Promise;
@@ -510,9 +511,9 @@
 
 					function detailFormatter(index, row) {
 						var html = []
-						var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.internalID + ".csv"
-						var plot_bool = false//doesFileExist(url)
-						//html.push('<center>')<div class="container-fluid">
+						var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.cellID + ".csv"
+						var plot_bool = doesFileExist(url)
+						//html.push('<center>')
 						html.push('<div class="row">')
 
 						/*html.push('<div class="col">')
@@ -539,7 +540,7 @@
 						html.push('</div>');
 						html.push('</div>');
 
-						//setTimeout(() => { maketrace(row) }, 1000);
+						setTimeout(() => { maketrace(row) }, 1000);
 
 
 						return html.join('');
@@ -614,18 +615,22 @@
 						return ids;
 					}
 					function maketrace(row) {
-						var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.internalID + ".csv"
+						var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.cellID + ".csv"
 						Plotly.d3.csv(url, function (rows) {
 							data = []
 							var i = 1
+							var temp_t = rows.shift()
+							delete temp_t[Object.keys(temp_t)[0,1]]
+							timeseries = Object.keys(temp_t).map(function (e) {
+									return temp_t[e]
+								})
 							rows.forEach(function (row) {
 
-								var sweepname = 'Sweep ' + i + ': ' + Math.round(row[Object.keys(row)[0]].toString()) + ' pA'
-								delete row[Object.keys(row)[0]]
+								var sweepname = row[Object.keys(row)[0]].toString() + ': ' + Math.round(row[Object.keys(row)[1]].toString()) + ' pA'
+								delete row[Object.keys(row)[0,1]]
 								var rowdata = Object.keys(row).map(function (e) {
 									return row[e]
 								})
-								var timeseries = Object.keys(row);
 
 
 								var trace = {
