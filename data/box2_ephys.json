@@ -9,7 +9,12 @@
     "Time Constant": 20.7,
     "Maximum firing rate": 12,
     "Median instantanous frequency": 124.22,
-    "internalID": "M01_CN_A1_C02"
+    "internalID": "M01_CN_A1_C02",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 6193639,
@@ -21,7 +26,12 @@
     "Time Constant": 24.9,
     "Maximum firing rate": 108,
     "Median instantanous frequency": 92.59,
-    "internalID": "M01_CN_A4_C10"
+    "internalID": "M01_CN_A4_C10",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2897488,
@@ -33,7 +43,12 @@
     "Time Constant": 25.03,
     "Maximum firing rate": 89,
     "Median instantanous frequency": 83.33,
-    "internalID": "M01_CN_A4_C12"
+    "internalID": "M01_CN_A4_C12",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6219221,
@@ -45,7 +60,12 @@
     "Time Constant": 18.57,
     "Maximum firing rate": 103,
     "Median instantanous frequency": 85.84,
-    "internalID": "M01_CN_A5_C13"
+    "internalID": "M01_CN_A5_C13",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2081506,
@@ -57,7 +77,12 @@
     "Time Constant": 18.83,
     "Maximum firing rate": 180,
     "Median instantanous frequency": 163.93,
-    "internalID": "M01_CN_A5_C14"
+    "internalID": "M01_CN_A5_C14",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4048863,
@@ -69,7 +94,12 @@
     "Time Constant": 16.5,
     "Maximum firing rate": 3,
     "Median instantanous frequency": 136.99,
-    "internalID": "M01_CN_A5_C15"
+    "internalID": "M01_CN_A5_C15",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4007447,
@@ -81,7 +111,12 @@
     "Time Constant": 14.2,
     "Maximum firing rate": 155,
     "Median instantanous frequency": 135.14,
-    "internalID": "M01_JS_A2_C03"
+    "internalID": "M01_JS_A2_C03",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6850624,
@@ -93,7 +128,12 @@
     "Time Constant": 39.8,
     "Maximum firing rate": 14,
     "Median instantanous frequency": 85.11,
-    "internalID": "M01_JS_A3_C07"
+    "internalID": "M01_JS_A3_C07",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1860444,
@@ -105,7 +145,12 @@
     "Time Constant": 15,
     "Maximum firing rate": 44,
     "Median instantanous frequency": 41.24,
-    "internalID": "M01_JS_A4_C11"
+    "internalID": "M01_JS_A4_C11",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4872470,
@@ -117,7 +162,12 @@
     "Time Constant": 55.3,
     "Maximum firing rate": 14,
     "Median instantanous frequency": 59.35,
-    "internalID": "M01_JS_B1_C14"
+    "internalID": "M01_JS_B1_C14",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 9266875,
@@ -129,7 +179,12 @@
     "Time Constant": 19.57,
     "Maximum firing rate": 63,
     "Median instantanous frequency": 74.91,
-    "internalID": "M01_JS_B1_C15"
+    "internalID": "M01_JS_B1_C15",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 3603737,
@@ -141,7 +196,12 @@
     "Time Constant": 26.1,
     "Maximum firing rate": 115,
     "Median instantanous frequency": 108.7,
-    "internalID": "M01_JS_B2_C17"
+    "internalID": "M01_JS_B2_C17",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6160507,
@@ -153,7 +213,12 @@
     "Time Constant": 19.1,
     "Maximum firing rate": 10,
     "Median instantanous frequency": 90.91,
-    "internalID": "M01_JS_B3_C21"
+    "internalID": "M01_JS_B3_C21",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4594545,
@@ -165,7 +230,12 @@
     "Time Constant": 16.7,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M01_MW_D3_C07"
+    "internalID": "M01_MW_D3_C07",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 9914214,
@@ -177,7 +247,12 @@
     "Time Constant": 9.9,
     "Maximum firing rate": 133,
     "Median instantanous frequency": 125,
-    "internalID": "M01_MW_D4_C10"
+    "internalID": "M01_MW_D4_C10",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3168757,
@@ -189,7 +264,12 @@
     "Time Constant": 45.4,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 10.95,
-    "internalID": "M01_MW_D5_C12"
+    "internalID": "M01_MW_D5_C12",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 6573900,
@@ -201,7 +281,12 @@
     "Time Constant": 24.53,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 39.14,
-    "internalID": "M01_MW_D5_C13"
+    "internalID": "M01_MW_D5_C13",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 3315344,
@@ -213,7 +298,12 @@
     "Time Constant": 18.4,
     "Maximum firing rate": 178,
     "Median instantanous frequency": 166.67,
-    "internalID": "M01_MW_D5_C14"
+    "internalID": "M01_MW_D5_C14",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 4717635,
@@ -225,7 +315,12 @@
     "Time Constant": 16.5,
     "Maximum firing rate": 3,
     "Median instantanous frequency": 136.99,
-    "internalID": "M01_SM_A1_C02"
+    "internalID": "M01_SM_A1_C02",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4461307,
@@ -237,7 +332,12 @@
     "Time Constant": 18.83,
     "Maximum firing rate": 180,
     "Median instantanous frequency": 163.93,
-    "internalID": "M01_SM_A1_C03"
+    "internalID": "M01_SM_A1_C03",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2507885,
@@ -249,7 +349,12 @@
     "Time Constant": 21.9,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 188.68,
-    "internalID": "M01_SM_A2_C04"
+    "internalID": "M01_SM_A2_C04",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2164708,
@@ -261,7 +366,12 @@
     "Time Constant": 24.5,
     "Maximum firing rate": 194,
     "Median instantanous frequency": 185.19,
-    "internalID": "M01_SM_A2_C05"
+    "internalID": "M01_SM_A2_C05",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4757649,
@@ -273,7 +383,12 @@
     "Time Constant": 20.6,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 147.06,
-    "internalID": "M01_SM_A3_C08"
+    "internalID": "M01_SM_A3_C08",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1893218,
@@ -285,7 +400,12 @@
     "Time Constant": 13.73,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M01_SM_A3_C09"
+    "internalID": "M01_SM_A3_C09",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6353116,
@@ -297,7 +417,12 @@
     "Time Constant": 9.3,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 86.21,
-    "internalID": "M01_SM_A5_C12"
+    "internalID": "M01_SM_A5_C12",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6047132,
@@ -309,7 +434,12 @@
     "Time Constant": 13.5,
     "Maximum firing rate": 7,
     "Median instantanous frequency": 113.64,
-    "internalID": "M01_SM_A7_C17"
+    "internalID": "M01_SM_A7_C17",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8440701,
@@ -321,7 +451,12 @@
     "Time Constant": 10.5,
     "Maximum firing rate": 15,
     "Median instantanous frequency": 170.94,
-    "internalID": "M01_SM_A7_C19"
+    "internalID": "M01_SM_A7_C19",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1471317,
@@ -333,7 +468,12 @@
     "Time Constant": 21.23,
     "Maximum firing rate": 32,
     "Median instantanous frequency": 28.82,
-    "internalID": "M02_JS_D1_C11"
+    "internalID": "M02_JS_D1_C11",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3166185,
@@ -345,7 +485,12 @@
     "Time Constant": 14.8,
     "Maximum firing rate": 174,
     "Median instantanous frequency": 144.93,
-    "internalID": "M02_JS_D2_C09"
+    "internalID": "M02_JS_D2_C09",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4221355,
@@ -357,7 +502,12 @@
     "Time Constant": 32.15,
     "Maximum firing rate": 39,
     "Median instantanous frequency": 32.6,
-    "internalID": "M02_JS_D2_C10"
+    "internalID": "M02_JS_D2_C10",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 7046620,
@@ -369,7 +519,12 @@
     "Time Constant": 9.12,
     "Maximum firing rate": 16,
     "Median instantanous frequency": 49.14,
-    "internalID": "M02_JS_D3_C07"
+    "internalID": "M02_JS_D3_C07",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4415715,
@@ -381,7 +536,12 @@
     "Time Constant": 14.77,
     "Maximum firing rate": 216,
     "Median instantanous frequency": 208.33,
-    "internalID": "M02_JS_D3_C08"
+    "internalID": "M02_JS_D3_C08",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6013473,
@@ -393,7 +553,12 @@
     "Time Constant": 16.47,
     "Maximum firing rate": 33,
     "Median instantanous frequency": 27.51,
-    "internalID": "M02_JS_D4_C06"
+    "internalID": "M02_JS_D4_C06",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 7033088,
@@ -405,7 +570,12 @@
     "Time Constant": 12.78,
     "Maximum firing rate": 106,
     "Median instantanous frequency": 88.89,
-    "internalID": "M02_JS_D5_C03"
+    "internalID": "M02_JS_D5_C03",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 9069954,
@@ -417,7 +587,12 @@
     "Time Constant": 8.53,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 51.68,
-    "internalID": "M02_MW_D2_C04"
+    "internalID": "M02_MW_D2_C04",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 9229701,
@@ -429,7 +604,12 @@
     "Time Constant": 16.97,
     "Maximum firing rate": 50,
     "Median instantanous frequency": 40.32,
-    "internalID": "M02_MW_D3_C06"
+    "internalID": "M02_MW_D3_C06",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4238448,
@@ -441,7 +621,12 @@
     "Time Constant": 15.97,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M02_MW_D4_C08"
+    "internalID": "M02_MW_D4_C08",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4101021,
@@ -453,7 +638,12 @@
     "Time Constant": 13.72,
     "Maximum firing rate": 166,
     "Median instantanous frequency": 134.23,
-    "internalID": "M02_MW_D4_C09"
+    "internalID": "M02_MW_D4_C09",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5565833,
@@ -465,7 +655,12 @@
     "Time Constant": 12.25,
     "Maximum firing rate": 214,
     "Median instantanous frequency": 175.44,
-    "internalID": "M02_MW_D5_C11"
+    "internalID": "M02_MW_D5_C11",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5984515,
@@ -477,7 +672,12 @@
     "Time Constant": 17.38,
     "Maximum firing rate": 43,
     "Median instantanous frequency": 34.84,
-    "internalID": "M02_MW_D6_C12"
+    "internalID": "M02_MW_D6_C12",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5916043,
@@ -489,7 +689,12 @@
     "Time Constant": 43.35,
     "Maximum firing rate": 28,
     "Median instantanous frequency": 24.07,
-    "internalID": "M02_MW_D6_C13"
+    "internalID": "M02_MW_D6_C13",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1192200,
@@ -501,7 +706,12 @@
     "Time Constant": 17.47,
     "Maximum firing rate": 38,
     "Median instantanous frequency": 34.78,
-    "internalID": "M02_SM_A2_C04"
+    "internalID": "M02_SM_A2_C04",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6945823,
@@ -513,7 +723,12 @@
     "Time Constant": 10.58,
     "Maximum firing rate": 151,
     "Median instantanous frequency": 130.72,
-    "internalID": "M02_SM_A4_C07"
+    "internalID": "M02_SM_A4_C07",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4285879,
@@ -525,7 +740,12 @@
     "Time Constant": 18.23,
     "Maximum firing rate": 51,
     "Median instantanous frequency": 42.83,
-    "internalID": "M02_SM_A4_C08"
+    "internalID": "M02_SM_A4_C08",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6365774,
@@ -537,7 +757,12 @@
     "Time Constant": 11.92,
     "Maximum firing rate": 3,
     "Median instantanous frequency": 166.67,
-    "internalID": "M02_SM_A5_C10"
+    "internalID": "M02_SM_A5_C10",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3236796,
@@ -549,7 +774,12 @@
     "Time Constant": 23.25,
     "Maximum firing rate": 32,
     "Median instantanous frequency": 32.55,
-    "internalID": "M02_SM_A5_C12"
+    "internalID": "M02_SM_A5_C12",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8431110,
@@ -561,7 +791,12 @@
     "Time Constant": 13.22,
     "Maximum firing rate": 3,
     "Median instantanous frequency": 25.28,
-    "internalID": "M02_SM_A6_C14"
+    "internalID": "M02_SM_A6_C14",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8606409,
@@ -573,7 +808,12 @@
     "Time Constant": 13.75,
     "Maximum firing rate": 39,
     "Median instantanous frequency": 40.24,
-    "internalID": "M02_SM_A6_C15"
+    "internalID": "M02_SM_A6_C15",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2614677,
@@ -585,7 +825,12 @@
     "Time Constant": 13.77,
     "Maximum firing rate": 195,
     "Median instantanous frequency": 178.57,
-    "internalID": "M02_SM_A6_C16"
+    "internalID": "M02_SM_A6_C16",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5884058,
@@ -597,7 +842,12 @@
     "Time Constant": 27.13,
     "Maximum firing rate": 66,
     "Median instantanous frequency": 56.18,
-    "internalID": "M03_JS_A1_C01"
+    "internalID": "M03_JS_A1_C01",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 1944276,
@@ -609,7 +859,12 @@
     "Time Constant": 15.4,
     "Maximum firing rate": 117,
     "Median instantanous frequency": 82.64,
-    "internalID": "M03_JS_A1_C02"
+    "internalID": "M03_JS_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 7256120,
@@ -621,7 +876,12 @@
     "Time Constant": 15.02,
     "Maximum firing rate": 165,
     "Median instantanous frequency": 143.88,
-    "internalID": "M03_JS_A1_C03"
+    "internalID": "M03_JS_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6537529,
@@ -633,7 +893,12 @@
     "Time Constant": 24.73,
     "Maximum firing rate": 107,
     "Median instantanous frequency": 87.72,
-    "internalID": "M03_JS_A1_C04"
+    "internalID": "M03_JS_A1_C04",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 2
   },
   {
     "cellID": 5995315,
@@ -645,7 +910,12 @@
     "Time Constant": 14.2,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 79.21,
-    "internalID": "M03_JS_A1_C05"
+    "internalID": "M03_JS_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3621020,
@@ -657,7 +927,12 @@
     "Time Constant": 13.48,
     "Maximum firing rate": 116,
     "Median instantanous frequency": 94.34,
-    "internalID": "M03_JS_A1_C06"
+    "internalID": "M03_JS_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1730110,
@@ -669,7 +944,12 @@
     "Time Constant": 12.25,
     "Maximum firing rate": 107,
     "Median instantanous frequency": 74.63,
-    "internalID": "M03_JS_A1_C07"
+    "internalID": "M03_JS_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4769321,
@@ -681,7 +961,12 @@
     "Time Constant": 20.9,
     "Maximum firing rate": 8,
     "Median instantanous frequency": 9.15,
-    "internalID": "M03_JS_A1_C08"
+    "internalID": "M03_JS_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4255641,
@@ -693,7 +978,12 @@
     "Time Constant": 11.22,
     "Maximum firing rate": 114,
     "Median instantanous frequency": 112.99,
-    "internalID": "M03_JS_A1_C10"
+    "internalID": "M03_JS_A1_C10",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6535615,
@@ -705,7 +995,12 @@
     "Time Constant": 20.45,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M03_JS_A1_C14"
+    "internalID": "M03_JS_A1_C14",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 7382003,
@@ -717,7 +1012,12 @@
     "Time Constant": 6.85,
     "Maximum firing rate": 94,
     "Median instantanous frequency": 97.56,
-    "internalID": "M03_JS_A1_C15"
+    "internalID": "M03_JS_A1_C15",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 7217222,
@@ -729,7 +1029,12 @@
     "Time Constant": 16.55,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M03_JS_A1_C17"
+    "internalID": "M03_JS_A1_C17",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6234539,
@@ -741,7 +1046,12 @@
     "Time Constant": 22.37,
     "Maximum firing rate": 39,
     "Median instantanous frequency": 34.31,
-    "internalID": "M03_JS_A1_C18"
+    "internalID": "M03_JS_A1_C18",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 4109613,
@@ -753,7 +1063,12 @@
     "Time Constant": 21.78,
     "Maximum firing rate": 56,
     "Median instantanous frequency": 61.16,
-    "internalID": "M03_JS_A1_C19"
+    "internalID": "M03_JS_A1_C19",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 3996040,
@@ -765,7 +1080,12 @@
     "Time Constant": 25.12,
     "Maximum firing rate": 48,
     "Median instantanous frequency": 41.49,
-    "internalID": "M03_JS_A1_C20"
+    "internalID": "M03_JS_A1_C20",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6780595,
@@ -777,7 +1097,12 @@
     "Time Constant": 19.05,
     "Maximum firing rate": 106,
     "Median instantanous frequency": 98.52,
-    "internalID": "M03_MW_A1_C02"
+    "internalID": "M03_MW_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 4
   },
   {
     "cellID": 4849747,
@@ -789,7 +1114,12 @@
     "Time Constant": 23.23,
     "Maximum firing rate": 18,
     "Median instantanous frequency": 15.17,
-    "internalID": "M03_MW_A1_C03"
+    "internalID": "M03_MW_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 4270012,
@@ -801,7 +1131,12 @@
     "Time Constant": 16.52,
     "Maximum firing rate": 24,
     "Median instantanous frequency": 20.96,
-    "internalID": "M03_MW_A1_C06"
+    "internalID": "M03_MW_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 4
   },
   {
     "cellID": 7542404,
@@ -813,7 +1148,12 @@
     "Time Constant": 16.87,
     "Maximum firing rate": 22,
     "Median instantanous frequency": 20.08,
-    "internalID": "M03_MW_A1_C08"
+    "internalID": "M03_MW_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 2
   },
   {
     "cellID": 6895102,
@@ -825,7 +1165,12 @@
     "Time Constant": 22.17,
     "Maximum firing rate": 7,
     "Median instantanous frequency": 21.39,
-    "internalID": "M03_MW_A1_C09"
+    "internalID": "M03_MW_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 1821560,
@@ -837,7 +1182,12 @@
     "Time Constant": 20.22,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M03_MW_A1_C10"
+    "internalID": "M03_MW_A1_C10",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 4849720,
@@ -849,7 +1199,12 @@
     "Time Constant": 15.63,
     "Maximum firing rate": 17,
     "Median instantanous frequency": 14.04,
-    "internalID": "M03_MW_A1_C11"
+    "internalID": "M03_MW_A1_C11",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 4916610,
@@ -861,7 +1216,12 @@
     "Time Constant": 43.98,
     "Maximum firing rate": 16,
     "Median instantanous frequency": 14.08,
-    "internalID": "M03_MW_A1_C15"
+    "internalID": "M03_MW_A1_C15",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5010892,
@@ -873,7 +1233,12 @@
     "Time Constant": 19.53,
     "Maximum firing rate": 12,
     "Median instantanous frequency": 10.55,
-    "internalID": "M03_MW_A1_C16"
+    "internalID": "M03_MW_A1_C16",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6867830,
@@ -885,7 +1250,12 @@
     "Time Constant": 15.65,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 19.56,
-    "internalID": "M03_SM_A1_C02"
+    "internalID": "M03_SM_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 1218334,
@@ -897,7 +1267,12 @@
     "Time Constant": 15.58,
     "Maximum firing rate": 111,
     "Median instantanous frequency": 107.53,
-    "internalID": "M03_SM_A1_C04"
+    "internalID": "M03_SM_A1_C04",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 9093066,
@@ -909,7 +1284,12 @@
     "Time Constant": 13.88,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M03_SM_A1_C05"
+    "internalID": "M03_SM_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 7159732,
@@ -921,7 +1301,12 @@
     "Time Constant": 12.07,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M03_SM_A1_C07"
+    "internalID": "M03_SM_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 3791505,
@@ -933,7 +1318,12 @@
     "Time Constant": 11.32,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M03_SM_A1_C09"
+    "internalID": "M03_SM_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1875303,
@@ -945,7 +1335,12 @@
     "Time Constant": 18.08,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 38.61,
-    "internalID": "M03_SM_A1_C12"
+    "internalID": "M03_SM_A1_C12",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 4
   },
   {
     "cellID": 8930506,
@@ -957,7 +1352,12 @@
     "Time Constant": 19.27,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 103.09,
-    "internalID": "M03_SM_A1_C13"
+    "internalID": "M03_SM_A1_C13",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 2
   },
   {
     "cellID": 2333742,
@@ -969,7 +1369,12 @@
     "Time Constant": 15.8,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M03_SM_A1_C14"
+    "internalID": "M03_SM_A1_C14",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8046166,
@@ -981,7 +1386,12 @@
     "Time Constant": 15.57,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M03_SM_A1_C15"
+    "internalID": "M03_SM_A1_C15",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 9355943,
@@ -993,7 +1403,12 @@
     "Time Constant": 20.2,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 84.03,
-    "internalID": "M03_SM_A1_C16"
+    "internalID": "M03_SM_A1_C16",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5819158,
@@ -1005,7 +1420,12 @@
     "Time Constant": 21.32,
     "Maximum firing rate": 29,
     "Median instantanous frequency": 26.6,
-    "internalID": "M04_JS_A1_C02"
+    "internalID": "M04_JS_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8870939,
@@ -1017,7 +1437,12 @@
     "Time Constant": 20.95,
     "Maximum firing rate": 145,
     "Median instantanous frequency": 141.84,
-    "internalID": "M04_JS_A1_C03"
+    "internalID": "M04_JS_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3574150,
@@ -1029,7 +1454,12 @@
     "Time Constant": 235.4,
     "Maximum firing rate": 28,
     "Median instantanous frequency": 26.35,
-    "internalID": "M04_JS_A1_C05"
+    "internalID": "M04_JS_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3665191,
@@ -1041,7 +1471,12 @@
     "Time Constant": 13.1,
     "Maximum firing rate": 10,
     "Median instantanous frequency": 75.19,
-    "internalID": "M04_JS_A1_C06"
+    "internalID": "M04_JS_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 2423461,
@@ -1053,7 +1488,12 @@
     "Time Constant": 8.75,
     "Maximum firing rate": 69,
     "Median instantanous frequency": 55.56,
-    "internalID": "M04_JS_A1_C08"
+    "internalID": "M04_JS_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2627090,
@@ -1065,7 +1505,12 @@
     "Time Constant": 20.15,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M04_JS_A1_C09"
+    "internalID": "M04_JS_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 2024419,
@@ -1077,7 +1522,12 @@
     "Time Constant": 24.85,
     "Maximum firing rate": 25,
     "Median instantanous frequency": 22.01,
-    "internalID": "M04_JS_A1_C12"
+    "internalID": "M04_JS_A1_C12",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 6237597,
@@ -1089,7 +1539,12 @@
     "Time Constant": 22.25,
     "Maximum firing rate": 25,
     "Median instantanous frequency": 20.47,
-    "internalID": "M04_JS_A1_C13"
+    "internalID": "M04_JS_A1_C13",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 2649786,
@@ -1101,7 +1556,12 @@
     "Time Constant": 25.82,
     "Maximum firing rate": 27,
     "Median instantanous frequency": 23.58,
-    "internalID": "M04_JS_A1_C14"
+    "internalID": "M04_JS_A1_C14",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 9355033,
@@ -1113,7 +1573,12 @@
     "Time Constant": 19.73,
     "Maximum firing rate": 32,
     "Median instantanous frequency": 26.92,
-    "internalID": "M04_JS_A1_C15"
+    "internalID": "M04_JS_A1_C15",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4691779,
@@ -1125,7 +1590,12 @@
     "Time Constant": 8.95,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M04_JS_A1_C17"
+    "internalID": "M04_JS_A1_C17",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 9349566,
@@ -1137,7 +1607,12 @@
     "Time Constant": 6.93,
     "Maximum firing rate": 19,
     "Median instantanous frequency": 16.6,
-    "internalID": "M04_MW_A1_C02"
+    "internalID": "M04_MW_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 9809147,
@@ -1149,7 +1624,12 @@
     "Time Constant": 11.7,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M04_MW_A1_C06"
+    "internalID": "M04_MW_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 4029742,
@@ -1161,7 +1641,12 @@
     "Time Constant": 10.38,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M04_MW_A1_C07"
+    "internalID": "M04_MW_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 2365626,
@@ -1173,7 +1658,12 @@
     "Time Constant": 17.17,
     "Maximum firing rate": 22,
     "Median instantanous frequency": 20.16,
-    "internalID": "M04_MW_A1_C08"
+    "internalID": "M04_MW_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8547048,
@@ -1185,7 +1675,12 @@
     "Time Constant": 32.28,
     "Maximum firing rate": 15,
     "Median instantanous frequency": 12.34,
-    "internalID": "M04_MW_A1_C09"
+    "internalID": "M04_MW_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 7871810,
@@ -1197,7 +1692,12 @@
     "Time Constant": 7.38,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M04_MW_A1_C10"
+    "internalID": "M04_MW_A1_C10",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2532120,
@@ -1209,7 +1709,12 @@
     "Time Constant": 16.5,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M04_SM_A1_C05"
+    "internalID": "M04_SM_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5239920,
@@ -1221,7 +1726,12 @@
     "Time Constant": 11.33,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 55.71,
-    "internalID": "M04_SM_A1_C07"
+    "internalID": "M04_SM_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3719986,
@@ -1233,7 +1743,12 @@
     "Time Constant": 10.83,
     "Maximum firing rate": 86,
     "Median instantanous frequency": 71.17,
-    "internalID": "M04_SM_A1_C08"
+    "internalID": "M04_SM_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1010437,
@@ -1245,7 +1760,12 @@
     "Time Constant": 20.75,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M04_SM_A1_C09"
+    "internalID": "M04_SM_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 3412592,
@@ -1257,7 +1777,12 @@
     "Time Constant": 8.45,
     "Maximum firing rate": 117,
     "Median instantanous frequency": 99.5,
-    "internalID": "M04_SM_A1_C12"
+    "internalID": "M04_SM_A1_C12",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 7017110,
@@ -1269,7 +1794,12 @@
     "Time Constant": 12.88,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M04_SM_A1_C13"
+    "internalID": "M04_SM_A1_C13",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5848360,
@@ -1281,7 +1811,12 @@
     "Time Constant": 25.2,
     "Maximum firing rate": 720,
     "Median instantanous frequency": 400,
-    "internalID": "M05_JS_A1_C01"
+    "internalID": "M05_JS_A1_C01",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 4
   },
   {
     "cellID": 4065486,
@@ -1293,7 +1828,12 @@
     "Time Constant": 14.68,
     "Maximum firing rate": 39,
     "Median instantanous frequency": 32.41,
-    "internalID": "M05_JS_A1_C03"
+    "internalID": "M05_JS_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2456147,
@@ -1305,7 +1845,12 @@
     "Time Constant": 14.15,
     "Maximum firing rate": 42,
     "Median instantanous frequency": 55.71,
-    "internalID": "M05_JS_A1_C05"
+    "internalID": "M05_JS_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5320765,
@@ -1317,7 +1862,12 @@
     "Time Constant": 19.68,
     "Maximum firing rate": 89,
     "Median instantanous frequency": 103.09,
-    "internalID": "M05_JS_A1_C06"
+    "internalID": "M05_JS_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2513540,
@@ -1329,7 +1879,12 @@
     "Time Constant": 42.7,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M05_JS_A1_C07"
+    "internalID": "M05_JS_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 2
   },
   {
     "cellID": 8348086,
@@ -1341,7 +1896,12 @@
     "Time Constant": 18.75,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 74.63,
-    "internalID": "M05_JS_A1_C09"
+    "internalID": "M05_JS_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 9530789,
@@ -1353,7 +1913,12 @@
     "Time Constant": 14.05,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 71.17,
-    "internalID": "M05_JS_A1_C10"
+    "internalID": "M05_JS_A1_C10",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 4
   },
   {
     "cellID": 1644318,
@@ -1365,7 +1930,12 @@
     "Time Constant": 16.63,
     "Maximum firing rate": 36,
     "Median instantanous frequency": 58.82,
-    "internalID": "M05_JS_A1_C11"
+    "internalID": "M05_JS_A1_C11",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 9098687,
@@ -1377,7 +1947,12 @@
     "Time Constant": 26.45,
     "Maximum firing rate": 28,
     "Median instantanous frequency": 26.6,
-    "internalID": "M05_JS_A1_C13"
+    "internalID": "M05_JS_A1_C13",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1485837,
@@ -1389,7 +1964,12 @@
     "Time Constant": 26.07,
     "Maximum firing rate": 10,
     "Median instantanous frequency": 9.81,
-    "internalID": "M05_MJ_A1_C04"
+    "internalID": "M05_MJ_A1_C04",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 8986433,
@@ -1401,7 +1981,12 @@
     "Time Constant": 47.15,
     "Maximum firing rate": 16,
     "Median instantanous frequency": 15.85,
-    "internalID": "M06_MW_A1_C01"
+    "internalID": "M06_MW_A1_C01",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC/LIP",
+    "Dendrite type": "S",
+    "Cortical layer": 4
   },
   {
     "cellID": 2868180,
@@ -1413,7 +1998,12 @@
     "Time Constant": 15.15,
     "Maximum firing rate": 11,
     "Median instantanous frequency": 9.48,
-    "internalID": "M06_MW_A1_C04"
+    "internalID": "M06_MW_A1_C04",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC/LIP",
+    "Dendrite type": "A",
+    "Cortical layer": 2
   },
   {
     "cellID": 6585335,
@@ -1425,7 +2015,12 @@
     "Time Constant": 15.95,
     "Maximum firing rate": 131,
     "Median instantanous frequency": 130.72,
-    "internalID": "M07_MW_A1_C01"
+    "internalID": "M07_MW_A1_C01",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 6806172,
@@ -1437,7 +2032,12 @@
     "Time Constant": 17.48,
     "Maximum firing rate": 75,
     "Median instantanous frequency": 68.61,
-    "internalID": "M08_JS_A1_C01"
+    "internalID": "M08_JS_A1_C01",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": 3
   },
   {
     "cellID": 5636114,
@@ -1449,7 +2049,12 @@
     "Time Constant": 11.52,
     "Maximum firing rate": 92,
     "Median instantanous frequency": 57.97,
-    "internalID": "M08_JS_A1_C02"
+    "internalID": "M08_JS_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8379183,
@@ -1461,7 +2066,12 @@
     "Time Constant": 14.23,
     "Maximum firing rate": 85,
     "Median instantanous frequency": 71.17,
-    "internalID": "M08_JS_A1_C03"
+    "internalID": "M08_JS_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": 3
   },
   {
     "cellID": 9447731,
@@ -1473,7 +2083,12 @@
     "Time Constant": 23.95,
     "Maximum firing rate": 11,
     "Median instantanous frequency": 78.43,
-    "internalID": "M08_JS_A1_C04"
+    "internalID": "M08_JS_A1_C04",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 6511525,
@@ -1485,7 +2100,12 @@
     "Time Constant": 15.1,
     "Maximum firing rate": 3,
     "Median instantanous frequency": 121.21,
-    "internalID": "M08_JS_A1_C05"
+    "internalID": "M08_JS_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6564213,
@@ -1497,7 +2117,12 @@
     "Time Constant": 24.6,
     "Maximum firing rate": 35,
     "Median instantanous frequency": 33.28,
-    "internalID": "M08_JS_A1_C06"
+    "internalID": "M08_JS_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "IC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1651279,
@@ -1509,7 +2134,12 @@
     "Time Constant": 21.7,
     "Maximum firing rate": 50,
     "Median instantanous frequency": 115.61,
-    "internalID": "M08_JS_A1_C07"
+    "internalID": "M08_JS_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 7017234,
@@ -1521,7 +2151,12 @@
     "Time Constant": 9.23,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 43.01,
-    "internalID": "M08_JS_A1_C08"
+    "internalID": "M08_JS_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 4
   },
   {
     "cellID": 6085159,
@@ -1533,7 +2168,12 @@
     "Time Constant": 32.37,
     "Maximum firing rate": 65,
     "Median instantanous frequency": 53.19,
-    "internalID": "M08_JS_A1_C09"
+    "internalID": "M08_JS_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 9788035,
@@ -1545,7 +2185,12 @@
     "Time Constant": 13.53,
     "Maximum firing rate": 60,
     "Median instantanous frequency": 157.48,
-    "internalID": "M08_JS_A1_C10"
+    "internalID": "M08_JS_A1_C10",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 9813524,
@@ -1557,7 +2202,12 @@
     "Time Constant": 9.55,
     "Maximum firing rate": 8,
     "Median instantanous frequency": 70.3,
-    "internalID": "M08_JS_A1_C12"
+    "internalID": "M08_JS_A1_C12",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 3137898,
@@ -1569,7 +2219,12 @@
     "Time Constant": 20.28,
     "Maximum firing rate": 107,
     "Median instantanous frequency": 92.17,
-    "internalID": "M08_JS_A1_C14"
+    "internalID": "M08_JS_A1_C14",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2212063,
@@ -1581,7 +2236,12 @@
     "Time Constant": 27.38,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 13.74,
-    "internalID": "M08_MW_A1_C01"
+    "internalID": "M08_MW_A1_C01",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 4
   },
   {
     "cellID": 4430784,
@@ -1593,7 +2253,12 @@
     "Time Constant": 21.55,
     "Maximum firing rate": 23,
     "Median instantanous frequency": 20.19,
-    "internalID": "M08_MW_A1_C02"
+    "internalID": "M08_MW_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 9498134,
@@ -1605,7 +2270,12 @@
     "Time Constant": 14.85,
     "Maximum firing rate": 55,
     "Median instantanous frequency": 47.39,
-    "internalID": "M08_MW_A1_C03"
+    "internalID": "M08_MW_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 3767213,
@@ -1617,7 +2287,12 @@
     "Time Constant": 13.55,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M08_MW_A1_C05"
+    "internalID": "M08_MW_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 3203383,
@@ -1629,7 +2304,12 @@
     "Time Constant": 27.1,
     "Maximum firing rate": 11,
     "Median instantanous frequency": 10.36,
-    "internalID": "M08_MW_A1_C06"
+    "internalID": "M08_MW_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3227452,
@@ -1641,7 +2321,12 @@
     "Time Constant": 8.67,
     "Maximum firing rate": 10,
     "Median instantanous frequency": 9.73,
-    "internalID": "M08_MW_A1_C07"
+    "internalID": "M08_MW_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "IC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 2947362,
@@ -1653,7 +2338,12 @@
     "Time Constant": 14.08,
     "Maximum firing rate": 125,
     "Median instantanous frequency": 109.89,
-    "internalID": "M08_SM_A1_C03"
+    "internalID": "M08_SM_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 4
   },
   {
     "cellID": 1584520,
@@ -1665,7 +2355,12 @@
     "Time Constant": 14.7,
     "Maximum firing rate": 3,
     "Median instantanous frequency": 23.87,
-    "internalID": "M08_SM_A1_C04"
+    "internalID": "M08_SM_A1_C04",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 2883559,
@@ -1677,7 +2372,12 @@
     "Time Constant": 15.32,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M08_SM_A1_C07"
+    "internalID": "M08_SM_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "IC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5675998,
@@ -1689,7 +2389,12 @@
     "Time Constant": 14.5,
     "Maximum firing rate": 22,
     "Median instantanous frequency": 20.18,
-    "internalID": "M08_SM_A1_C09"
+    "internalID": "M08_SM_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 9902142,
@@ -1701,7 +2406,12 @@
     "Time Constant": 10.2,
     "Maximum firing rate": 43,
     "Median instantanous frequency": 43.38,
-    "internalID": "M10_JS_A1_C02"
+    "internalID": "M10_JS_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6703581,
@@ -1713,7 +2423,12 @@
     "Time Constant": 16.85,
     "Maximum firing rate": 108,
     "Median instantanous frequency": 85.84,
-    "internalID": "M10_JS_A1_C03"
+    "internalID": "M10_JS_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 9146485,
@@ -1725,7 +2440,12 @@
     "Time Constant": 25.25,
     "Maximum firing rate": 43,
     "Median instantanous frequency": 42.19,
-    "internalID": "M10_JS_A1_C04"
+    "internalID": "M10_JS_A1_C04",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 6683254,
@@ -1737,7 +2457,12 @@
     "Time Constant": 9.53,
     "Maximum firing rate": 8,
     "Median instantanous frequency": 60.24,
-    "internalID": "M10_JS_A1_C05"
+    "internalID": "M10_JS_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 3
   },
   {
     "cellID": 2649538,
@@ -1749,7 +2474,12 @@
     "Time Constant": 17.45,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 17.09,
-    "internalID": "M10_JS_A1_C07"
+    "internalID": "M10_JS_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5547184,
@@ -1761,7 +2491,12 @@
     "Time Constant": 18.73,
     "Maximum firing rate": 9,
     "Median instantanous frequency": 32.57,
-    "internalID": "M10_JS_A1_C08"
+    "internalID": "M10_JS_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8286290,
@@ -1773,7 +2508,12 @@
     "Time Constant": 13.43,
     "Maximum firing rate": 157,
     "Median instantanous frequency": 122.7,
-    "internalID": "M10_JS_A1_C09"
+    "internalID": "M10_JS_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8325627,
@@ -1785,7 +2525,12 @@
     "Time Constant": 16.5,
     "Maximum firing rate": 3,
     "Median instantanous frequency": 26.86,
-    "internalID": "M10_JS_A1_C11"
+    "internalID": "M10_JS_A1_C11",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 9971064,
@@ -1797,7 +2542,12 @@
     "Time Constant": 10.7,
     "Maximum firing rate": 96,
     "Median instantanous frequency": 82.64,
-    "internalID": "M10_JS_A1_C13"
+    "internalID": "M10_JS_A1_C13",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": 4
   },
   {
     "cellID": 8247849,
@@ -1809,7 +2559,12 @@
     "Time Constant": 13.35,
     "Maximum firing rate": 7,
     "Median instantanous frequency": 15.96,
-    "internalID": "M10_JS_A1_C14"
+    "internalID": "M10_JS_A1_C14",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 7600953,
@@ -1821,7 +2576,12 @@
     "Time Constant": 6.57,
     "Maximum firing rate": 66,
     "Median instantanous frequency": 56.18,
-    "internalID": "M10_JS_A1_C15"
+    "internalID": "M10_JS_A1_C15",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5579920,
@@ -1833,7 +2593,12 @@
     "Time Constant": 21.4,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 21.34,
-    "internalID": "M10_JS_A1_C21"
+    "internalID": "M10_JS_A1_C21",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2516326,
@@ -1845,7 +2610,12 @@
     "Time Constant": 21.5,
     "Maximum firing rate": 128,
     "Median instantanous frequency": 106.38,
-    "internalID": "M10_JS_A1_C22"
+    "internalID": "M10_JS_A1_C22",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3991272,
@@ -1857,7 +2627,12 @@
     "Time Constant": 23.22,
     "Maximum firing rate": 22,
     "Median instantanous frequency": 20.49,
-    "internalID": "M10_JS_A1_C23"
+    "internalID": "M10_JS_A1_C23",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3366214,
@@ -1869,7 +2644,12 @@
     "Time Constant": 24.75,
     "Maximum firing rate": 7,
     "Median instantanous frequency": 6.99,
-    "internalID": "M10_JS_A1_C24"
+    "internalID": "M10_JS_A1_C24",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 4483980,
@@ -1881,7 +2661,12 @@
     "Time Constant": 29.23,
     "Maximum firing rate": 92,
     "Median instantanous frequency": 74.35,
-    "internalID": "M10_JS_A1_C26"
+    "internalID": "M10_JS_A1_C26",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6819623,
@@ -1893,7 +2678,12 @@
     "Time Constant": 20.2,
     "Maximum firing rate": 10,
     "Median instantanous frequency": 33.59,
-    "internalID": "M10_JS_A1_C27"
+    "internalID": "M10_JS_A1_C27",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 6569110,
@@ -1905,7 +2695,12 @@
     "Time Constant": 17.73,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 39.53,
-    "internalID": "M10_JS_A1_C30"
+    "internalID": "M10_JS_A1_C30",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 4
   },
   {
     "cellID": 1678047,
@@ -1917,7 +2712,12 @@
     "Time Constant": 24.45,
     "Maximum firing rate": 9,
     "Median instantanous frequency": 21.1,
-    "internalID": "M10_MJ_A1_C03"
+    "internalID": "M10_MJ_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 1987789,
@@ -1929,7 +2729,12 @@
     "Time Constant": 22.27,
     "Maximum firing rate": 62,
     "Median instantanous frequency": 58.48,
-    "internalID": "M10_MJ_A1_C06"
+    "internalID": "M10_MJ_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5200757,
@@ -1941,7 +2746,12 @@
     "Time Constant": 13.88,
     "Maximum firing rate": 13,
     "Median instantanous frequency": 12.06,
-    "internalID": "M10_MJ_A1_C07"
+    "internalID": "M10_MJ_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 2
   },
   {
     "cellID": 8818235,
@@ -1953,7 +2763,12 @@
     "Time Constant": 11.7,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M10_MJ_A1_C08"
+    "internalID": "M10_MJ_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 4
   },
   {
     "cellID": 8137730,
@@ -1965,7 +2780,12 @@
     "Time Constant": 27.1,
     "Maximum firing rate": 43,
     "Median instantanous frequency": 36.17,
-    "internalID": "M10_SA_A1_C01"
+    "internalID": "M10_SA_A1_C01",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 2933439,
@@ -1977,7 +2797,12 @@
     "Time Constant": 9.98,
     "Maximum firing rate": 209,
     "Median instantanous frequency": 178.57,
-    "internalID": "M10_SA_A1_C02"
+    "internalID": "M10_SA_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 5361613,
@@ -1989,7 +2814,12 @@
     "Time Constant": 12.85,
     "Maximum firing rate": 33,
     "Median instantanous frequency": 65.79,
-    "internalID": "M10_SA_A1_C03"
+    "internalID": "M10_SA_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 5414021,
@@ -2001,7 +2831,12 @@
     "Time Constant": 14.12,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 34.1,
-    "internalID": "M10_SA_A1_C05"
+    "internalID": "M10_SA_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 9975388,
@@ -2013,7 +2848,12 @@
     "Time Constant": 15.8,
     "Maximum firing rate": 132,
     "Median instantanous frequency": 112.99,
-    "internalID": "M10_SA_A1_C07"
+    "internalID": "M10_SA_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 1623804,
@@ -2025,7 +2865,12 @@
     "Time Constant": 13.95,
     "Maximum firing rate": 181,
     "Median instantanous frequency": 151.52,
-    "internalID": "M10_SA_A1_C08"
+    "internalID": "M10_SA_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 2169241,
@@ -2037,7 +2882,12 @@
     "Time Constant": 15.4,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 104.17,
-    "internalID": "M10_SA_A1_C09"
+    "internalID": "M10_SA_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 9037641,
@@ -2049,7 +2899,12 @@
     "Time Constant": 16.45,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 37.81,
-    "internalID": "M10_SA_A1_C14"
+    "internalID": "M10_SA_A1_C14",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 9372550,
@@ -2061,7 +2916,12 @@
     "Time Constant": 18.03,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M10_SA_A1_C15"
+    "internalID": "M10_SA_A1_C15",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3874151,
@@ -2073,7 +2933,12 @@
     "Time Constant": 15.68,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M10_SA_A1_C16"
+    "internalID": "M10_SA_A1_C16",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 3351044,
@@ -2085,7 +2950,12 @@
     "Time Constant": 9.93,
     "Maximum firing rate": 176,
     "Median instantanous frequency": 169.49,
-    "internalID": "M12_JS_A1_C01"
+    "internalID": "M12_JS_A1_C01",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 6536289,
@@ -2097,7 +2967,12 @@
     "Time Constant": 21.35,
     "Maximum firing rate": 22,
     "Median instantanous frequency": 18.45,
-    "internalID": "M12_JS_A1_C02"
+    "internalID": "M12_JS_A1_C02",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 9762751,
@@ -2109,7 +2984,12 @@
     "Time Constant": 14.15,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 99.75,
-    "internalID": "M12_JS_A1_C04"
+    "internalID": "M12_JS_A1_C04",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 7211525,
@@ -2121,7 +3001,12 @@
     "Time Constant": 13.85,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M12_JS_A1_C05"
+    "internalID": "M12_JS_A1_C05",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 7399711,
@@ -2133,7 +3018,12 @@
     "Time Constant": 12.25,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M12_JS_A1_C08"
+    "internalID": "M12_JS_A1_C08",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 5343306,
@@ -2145,7 +3035,12 @@
     "Time Constant": 12.65,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 112.99,
-    "internalID": "M12_JS_A1_C10"
+    "internalID": "M12_JS_A1_C10",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "S",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 5857796,
@@ -2157,7 +3052,12 @@
     "Time Constant": 18.55,
     "Maximum firing rate": 159,
     "Median instantanous frequency": 149.25,
-    "internalID": "M12_JS_A1_C12"
+    "internalID": "M12_JS_A1_C12",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "A",
+    "Cortical layer": "5_6"
   },
   {
     "cellID": 1156363,
@@ -2169,7 +3069,12 @@
     "Time Constant": 10.8,
     "Maximum firing rate": 6,
     "Median instantanous frequency": 125,
-    "internalID": "M12_SA_A1_C01"
+    "internalID": "M12_SA_A1_C01",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 2951250,
@@ -2181,7 +3086,12 @@
     "Time Constant": 8.1,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M12_SA_A1_C02"
+    "internalID": "M12_SA_A1_C02",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 2549972,
@@ -2193,7 +3103,12 @@
     "Time Constant": 4.45,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 5.27,
-    "internalID": "M12_SA_A1_C04"
+    "internalID": "M12_SA_A1_C04",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 3714844,
@@ -2205,7 +3120,12 @@
     "Time Constant": 14.05,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M12_SA_A1_C07"
+    "internalID": "M12_SA_A1_C07",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 1512698,
@@ -2217,7 +3137,12 @@
     "Time Constant": 6.83,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M12_SA_A1_C08"
+    "internalID": "M12_SA_A1_C08",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 7889217,
@@ -2229,7 +3154,12 @@
     "Time Constant": 10.85,
     "Maximum firing rate": 8,
     "Median instantanous frequency": 36.97,
-    "internalID": "M12_SA_A1_C11"
+    "internalID": "M12_SA_A1_C11",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "S",
+    "Cortical layer": 3
   },
   {
     "cellID": 9605789,
@@ -2241,7 +3171,12 @@
     "Time Constant": 15,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M12_SA_A1_C12"
+    "internalID": "M12_SA_A1_C12",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "NA",
+    "Cortical layer": 3
   },
   {
     "cellID": 2347702,
@@ -2253,7 +3188,12 @@
     "Time Constant": 10.05,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 194.17,
-    "internalID": "M12_SA_A1_C13"
+    "internalID": "M12_SA_A1_C13",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8849534,
@@ -2265,7 +3205,12 @@
     "Time Constant": 9.95,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M12_SA_A1_C14"
+    "internalID": "M12_SA_A1_C14",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "LIP",
+    "Dendrite type": "NA",
+    "Cortical layer": "NA"
   },
   {
     "cellID": 8975436,
@@ -2277,7 +3222,12 @@
     "Time Constant": 10.77,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M19_JS_A1_C03"
+    "internalID": "M19_JS_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7768236,
@@ -2289,7 +3239,12 @@
     "Time Constant": 17.68,
     "Maximum firing rate": 5,
     "Median instantanous frequency": 55.4,
-    "internalID": "M19_JS_A1_C04"
+    "internalID": "M19_JS_A1_C04",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8205287,
@@ -2301,7 +3256,12 @@
     "Time Constant": 15.03,
     "Maximum firing rate": 9,
     "Median instantanous frequency": 65.79,
-    "internalID": "M19_JS_A1_C05"
+    "internalID": "M19_JS_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 4459885,
@@ -2313,7 +3273,12 @@
     "Time Constant": 8.65,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M19_JS_A1_C06"
+    "internalID": "M19_JS_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7413319,
@@ -2325,7 +3290,12 @@
     "Time Constant": 13.43,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 76.92,
-    "internalID": "M19_JS_A1_C07"
+    "internalID": "M19_JS_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 4122456,
@@ -2337,7 +3307,12 @@
     "Time Constant": 11.9,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 110.5,
-    "internalID": "M19_JS_A1_C08"
+    "internalID": "M19_JS_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 3345938,
@@ -2349,7 +3324,12 @@
     "Time Constant": 12.2,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 86.39,
-    "internalID": "M19_JS_A1_C09"
+    "internalID": "M19_JS_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8923103,
@@ -2361,7 +3341,12 @@
     "Time Constant": 17.22,
     "Maximum firing rate": 128,
     "Median instantanous frequency": 99.5,
-    "internalID": "M19_JS_A1_C13"
+    "internalID": "M19_JS_A1_C13",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 4838316,
@@ -2373,7 +3358,12 @@
     "Time Constant": 12.27,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 127.8,
-    "internalID": "M19_JS_A1_C14"
+    "internalID": "M19_JS_A1_C14",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6110172,
@@ -2385,7 +3375,12 @@
     "Time Constant": 19.02,
     "Maximum firing rate": 333,
     "Median instantanous frequency": 1904.76,
-    "internalID": "M19_JS_A1_C15"
+    "internalID": "M19_JS_A1_C15",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8749915,
@@ -2397,7 +3392,12 @@
     "Time Constant": 8.4,
     "Maximum firing rate": 19,
     "Median instantanous frequency": 24.08,
-    "internalID": "M19_MM_A1_C01"
+    "internalID": "M19_MM_A1_C01",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 5602093,
@@ -2409,7 +3409,12 @@
     "Time Constant": 13.07,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M19_MM_A1_C02"
+    "internalID": "M19_MM_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 3028495,
@@ -2421,7 +3426,12 @@
     "Time Constant": 13.23,
     "Maximum firing rate": 10,
     "Median instantanous frequency": 30.4,
-    "internalID": "M19_MM_A1_C05"
+    "internalID": "M19_MM_A1_C05",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7138747,
@@ -2433,7 +3443,12 @@
     "Time Constant": 15.35,
     "Maximum firing rate": 85,
     "Median instantanous frequency": 71.3,
-    "internalID": "M19_MM_A1_C06"
+    "internalID": "M19_MM_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 9433398,
@@ -2445,7 +3460,12 @@
     "Time Constant": 13.78,
     "Maximum firing rate": 86,
     "Median instantanous frequency": 75.47,
-    "internalID": "M19_MM_A1_C07"
+    "internalID": "M19_MM_A1_C07",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6661088,
@@ -2457,7 +3477,12 @@
     "Time Constant": 12.27,
     "Maximum firing rate": 0,
     "Median instantanous frequency": 0,
-    "internalID": "M19_MM_A1_C09"
+    "internalID": "M19_MM_A1_C09",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7839811,
@@ -2469,7 +3494,12 @@
     "Time Constant": 14.75,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 111.11,
-    "internalID": "M19_MM_A1_C11"
+    "internalID": "M19_MM_A1_C11",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 4769609,
@@ -2481,7 +3511,12 @@
     "Time Constant": 14.62,
     "Maximum firing rate": 7,
     "Median instantanous frequency": 14.64,
-    "internalID": "M19_SA_A1_C01"
+    "internalID": "M19_SA_A1_C01",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7406995,
@@ -2493,7 +3528,12 @@
     "Time Constant": 16.65,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 34.72,
-    "internalID": "M19_SA_A1_C02"
+    "internalID": "M19_SA_A1_C02",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7491511,
@@ -2505,7 +3545,12 @@
     "Time Constant": 15.77,
     "Maximum firing rate": 11,
     "Median instantanous frequency": 38.54,
-    "internalID": "M19_SA_A1_C03"
+    "internalID": "M19_SA_A1_C03",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2688707,
@@ -2517,7 +3562,12 @@
     "Time Constant": 17.38,
     "Maximum firing rate": 3,
     "Median instantanous frequency": 15.38,
-    "internalID": "M19_SA_A1_C06"
+    "internalID": "M19_SA_A1_C06",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 9632904,
@@ -2529,7 +3579,12 @@
     "Time Constant": 13.77,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M19_SA_A1_C08"
+    "internalID": "M19_SA_A1_C08",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6406733,
@@ -2541,7 +3596,12 @@
     "Time Constant": 18.03,
     "Maximum firing rate": 12,
     "Median instantanous frequency": 21.72,
-    "internalID": "M19_SA_A1_C10"
+    "internalID": "M19_SA_A1_C10",
+    "Species": "macaca fascicularis",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 1700831,
@@ -2553,7 +3613,12 @@
     "Time Constant": 11.95,
     "Maximum firing rate": 120,
     "Median instantanous frequency": 113.64,
-    "internalID": "M20_JS_A1_C02"
+    "internalID": "M20_JS_A1_C02",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 1927497,
@@ -2565,7 +3630,12 @@
     "Time Constant": 15.98,
     "Maximum firing rate": 204,
     "Median instantanous frequency": 172.41,
-    "internalID": "M20_JS_A1_C03"
+    "internalID": "M20_JS_A1_C03",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6846705,
@@ -2577,7 +3647,12 @@
     "Time Constant": 13.38,
     "Maximum firing rate": 173,
     "Median instantanous frequency": 176.99,
-    "internalID": "M20_MM_A1_C01"
+    "internalID": "M20_MM_A1_C01",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6852521,
@@ -2589,7 +3664,12 @@
     "Time Constant": 16.82,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 79.21,
-    "internalID": "M20_MM_A1_C02"
+    "internalID": "M20_MM_A1_C02",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8475887,
@@ -2601,7 +3681,12 @@
     "Time Constant": 31.15,
     "Maximum firing rate": 61,
     "Median instantanous frequency": 56.82,
-    "internalID": "M20_MM_A1_C03"
+    "internalID": "M20_MM_A1_C03",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 4765338,
@@ -2613,7 +3698,12 @@
     "Time Constant": 15.85,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 163.93,
-    "internalID": "M20_MM_A1_C04"
+    "internalID": "M20_MM_A1_C04",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 9791993,
@@ -2625,7 +3715,12 @@
     "Time Constant": 15.78,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 75.47,
-    "internalID": "M20_MM_A1_C05"
+    "internalID": "M20_MM_A1_C05",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2848919,
@@ -2637,7 +3732,12 @@
     "Time Constant": 13.3,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "M20_MM_A1_C06"
+    "internalID": "M20_MM_A1_C06",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 4993744,
@@ -2649,7 +3749,12 @@
     "Time Constant": 15.25,
     "Maximum firing rate": 6,
     "Median instantanous frequency": 37.59,
-    "internalID": "M20_MM_A1_C07"
+    "internalID": "M20_MM_A1_C07",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 3839715,
@@ -2661,7 +3766,12 @@
     "Time Constant": 39.9,
     "Maximum firing rate": 14,
     "Median instantanous frequency": 32.71,
-    "internalID": "M20_SA_A1_C01"
+    "internalID": "M20_SA_A1_C01",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8538234,
@@ -2673,7 +3783,12 @@
     "Time Constant": 10.6,
     "Maximum firing rate": 171,
     "Median instantanous frequency": 141.84,
-    "internalID": "M20_SA_A1_C02"
+    "internalID": "M20_SA_A1_C02",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 1029038,
@@ -2685,7 +3800,12 @@
     "Time Constant": 12.52,
     "Maximum firing rate": 3,
     "Median instantanous frequency": 151.52,
-    "internalID": "M20_SA_A1_C04"
+    "internalID": "M20_SA_A1_C04",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6491815,
@@ -2697,7 +3817,12 @@
     "Time Constant": 8.32,
     "Maximum firing rate": 107,
     "Median instantanous frequency": 136.52,
-    "internalID": "M20_SA_A1_C05"
+    "internalID": "M20_SA_A1_C05",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2402289,
@@ -2709,7 +3834,12 @@
     "Time Constant": 17.78,
     "Maximum firing rate": 75,
     "Median instantanous frequency": 64.52,
-    "internalID": "M20_SA_A1_C06"
+    "internalID": "M20_SA_A1_C06",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 1530562,
@@ -2721,7 +3851,12 @@
     "Time Constant": 18.67,
     "Maximum firing rate": 34,
     "Median instantanous frequency": 50.76,
-    "internalID": "M20_SA_A1_C07"
+    "internalID": "M20_SA_A1_C07",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7378701,
@@ -2733,7 +3868,12 @@
     "Time Constant": 22.2,
     "Maximum firing rate": 11,
     "Median instantanous frequency": 101.52,
-    "internalID": "M20_SA_A1_C08"
+    "internalID": "M20_SA_A1_C08",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 4206621,
@@ -2745,7 +3885,12 @@
     "Time Constant": 18.12,
     "Maximum firing rate": 142,
     "Median instantanous frequency": 126.58,
-    "internalID": "M20_SA_A1_C09"
+    "internalID": "M20_SA_A1_C09",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6239034,
@@ -2757,7 +3902,12 @@
     "Time Constant": 45.55,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 68.49,
-    "internalID": "M20_SA_A1_C10"
+    "internalID": "M20_SA_A1_C10",
+    "Species": "macaca mulatta",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7403426,
@@ -2769,7 +3919,12 @@
     "Time Constant": 96.4,
     "Maximum firing rate": 23,
     "Median instantanous frequency": 21.01,
-    "internalID": "A09_MM_A1_C01"
+    "internalID": "A09_MM_A1_C01",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8996655,
@@ -2781,7 +3936,12 @@
     "Time Constant": 68.43,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 137.74,
-    "internalID": "A09_MM_A1_C02"
+    "internalID": "A09_MM_A1_C02",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8202874,
@@ -2793,7 +3953,12 @@
     "Time Constant": 95.09,
     "Maximum firing rate": 5,
     "Median instantanous frequency": 11.25,
-    "internalID": "A09_MM_A1_C04"
+    "internalID": "A09_MM_A1_C04",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2931813,
@@ -2805,7 +3970,12 @@
     "Time Constant": 94.59,
     "Maximum firing rate": 10,
     "Median instantanous frequency": 58.89,
-    "internalID": "A09_MM_A1_C05"
+    "internalID": "A09_MM_A1_C05",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 1997305,
@@ -2817,7 +3987,12 @@
     "Time Constant": 93.57,
     "Maximum firing rate": 7,
     "Median instantanous frequency": 10.36,
-    "internalID": "A09_MM_A1_C08"
+    "internalID": "A09_MM_A1_C08",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2220270,
@@ -2829,7 +4004,12 @@
     "Time Constant": 90.08,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 206.19,
-    "internalID": "A09_MM_A1_C09"
+    "internalID": "A09_MM_A1_C09",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7642166,
@@ -2841,7 +4021,12 @@
     "Time Constant": 92.08,
     "Maximum firing rate": 29,
     "Median instantanous frequency": 36.02,
-    "internalID": "A09_MM_A1_C10"
+    "internalID": "A09_MM_A1_C10",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8590892,
@@ -2853,7 +4038,12 @@
     "Time Constant": 69,
     "Maximum firing rate": 14,
     "Median instantanous frequency": 12.46,
-    "internalID": "A09_SA_A1_C01"
+    "internalID": "A09_SA_A1_C01",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 5143869,
@@ -2865,7 +4055,12 @@
     "Time Constant": 63.85,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "A09_SA_A1_C02"
+    "internalID": "A09_SA_A1_C02",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6367273,
@@ -2877,7 +4072,12 @@
     "Time Constant": 89.35,
     "Maximum firing rate": 43,
     "Median instantanous frequency": 26.95,
-    "internalID": "A09_SA_A1_C04"
+    "internalID": "A09_SA_A1_C04",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7748799,
@@ -2889,7 +4089,12 @@
     "Time Constant": 102.43,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "A10_MM_A1_C02"
+    "internalID": "A10_MM_A1_C02",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 9897777,
@@ -2901,7 +4106,12 @@
     "Time Constant": 80.74,
     "Maximum firing rate": 48,
     "Median instantanous frequency": 39.12,
-    "internalID": "A10_MM_A1_C04"
+    "internalID": "A10_MM_A1_C04",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 1823609,
@@ -2913,7 +4123,12 @@
     "Time Constant": 87.28,
     "Maximum firing rate": 22,
     "Median instantanous frequency": 18.54,
-    "internalID": "A11_MM_A1_C01"
+    "internalID": "A11_MM_A1_C01",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8272043,
@@ -2925,7 +4140,12 @@
     "Time Constant": 99.31,
     "Maximum firing rate": 28,
     "Median instantanous frequency": 112.87,
-    "internalID": "A11_MM_A1_C02"
+    "internalID": "A11_MM_A1_C02",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6538279,
@@ -2937,7 +4157,12 @@
     "Time Constant": 65.22,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 35.97,
-    "internalID": "A11_MM_A1_C04"
+    "internalID": "A11_MM_A1_C04",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8626570,
@@ -2949,7 +4174,12 @@
     "Time Constant": 69.93,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 59.52,
-    "internalID": "A11_MM_A1_C05"
+    "internalID": "A11_MM_A1_C05",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2743813,
@@ -2961,7 +4191,12 @@
     "Time Constant": 71.67,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 18.58,
-    "internalID": "A11_MM_A1_C09"
+    "internalID": "A11_MM_A1_C09",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 5517321,
@@ -2973,7 +4208,12 @@
     "Time Constant": 75.41,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "A11_MM_A1_C11"
+    "internalID": "A11_MM_A1_C11",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7146744,
@@ -2985,7 +4225,12 @@
     "Time Constant": 79.91,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "A11_MM_A1_C14"
+    "internalID": "A11_MM_A1_C14",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "V1",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2581526,
@@ -2997,7 +4242,12 @@
     "Time Constant": 97.59,
     "Maximum firing rate": 126,
     "Median instantanous frequency": 122.85,
-    "internalID": "A12_JS_A3_C03"
+    "internalID": "A12_JS_A3_C03",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8543911,
@@ -3009,7 +4259,12 @@
     "Time Constant": 66.29,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 139.08,
-    "internalID": "A12_JS_A4_C04"
+    "internalID": "A12_JS_A4_C04",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2064307,
@@ -3021,7 +4276,12 @@
     "Time Constant": 98.38,
     "Maximum firing rate": 28,
     "Median instantanous frequency": 27.58,
-    "internalID": "A12_JS_A5_C05"
+    "internalID": "A12_JS_A5_C05",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 3248905,
@@ -3033,7 +4293,12 @@
     "Time Constant": 103.06,
     "Maximum firing rate": 35,
     "Median instantanous frequency": 69.69,
-    "internalID": "A12_JS_B1_C07"
+    "internalID": "A12_JS_B1_C07",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 4120570,
@@ -3045,7 +4310,12 @@
     "Time Constant": 110.92,
     "Maximum firing rate": 86,
     "Median instantanous frequency": 40.23,
-    "internalID": "A12_JS_B3_C09"
+    "internalID": "A12_JS_B3_C09",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 3896097,
@@ -3057,7 +4327,12 @@
     "Time Constant": 91.23,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 16.91,
-    "internalID": "A12_MM_A2_C03"
+    "internalID": "A12_MM_A2_C03",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 4839096,
@@ -3069,7 +4344,12 @@
     "Time Constant": 87.58,
     "Maximum firing rate": 13,
     "Median instantanous frequency": 17.21,
-    "internalID": "A12_MM_A3_C05"
+    "internalID": "A12_MM_A3_C05",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8607655,
@@ -3081,7 +4361,12 @@
     "Time Constant": 71.95,
     "Maximum firing rate": 24,
     "Median instantanous frequency": 21.69,
-    "internalID": "A12_MM_A4_C07"
+    "internalID": "A12_MM_A4_C07",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 9239003,
@@ -3093,7 +4378,12 @@
     "Time Constant": 13.87,
     "Maximum firing rate": 46,
     "Median instantanous frequency": 40.28,
-    "internalID": "A12_SA_A1_C01"
+    "internalID": "A12_SA_A1_C01",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6119309,
@@ -3105,7 +4395,12 @@
     "Time Constant": 85.03,
     "Maximum firing rate": 47,
     "Median instantanous frequency": 42.92,
-    "internalID": "A12_SA_A1_C02"
+    "internalID": "A12_SA_A1_C02",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7007468,
@@ -3117,7 +4412,12 @@
     "Time Constant": 93.15,
     "Maximum firing rate": 39,
     "Median instantanous frequency": 22.61,
-    "internalID": "A12_SA_A2_C04"
+    "internalID": "A12_SA_A2_C04",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 9537193,
@@ -3129,7 +4429,12 @@
     "Time Constant": 77.03,
     "Maximum firing rate": 59,
     "Median instantanous frequency": 51.41,
-    "internalID": "A12_SA_A3_C05"
+    "internalID": "A12_SA_A3_C05",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7342105,
@@ -3141,7 +4446,12 @@
     "Time Constant": 66.61,
     "Maximum firing rate": 31,
     "Median instantanous frequency": 21.75,
-    "internalID": "A12_SA_A3_C06"
+    "internalID": "A12_SA_A3_C06",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6544964,
@@ -3153,7 +4463,12 @@
     "Time Constant": 79.89,
     "Maximum firing rate": 49,
     "Median instantanous frequency": 103.73,
-    "internalID": "A12_SA_A4_C08"
+    "internalID": "A12_SA_A4_C08",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 3016777,
@@ -3165,7 +4480,12 @@
     "Time Constant": 97.75,
     "Maximum firing rate": 17,
     "Median instantanous frequency": 16.01,
-    "internalID": "A13_MM_A1_C01"
+    "internalID": "A13_MM_A1_C01",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 5350840,
@@ -3177,7 +4497,12 @@
     "Time Constant": 104.05,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 0,
-    "internalID": "A13_MM_A2_C03"
+    "internalID": "A13_MM_A2_C03",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2045707,
@@ -3189,7 +4514,12 @@
     "Time Constant": 114.78,
     "Maximum firing rate": 15,
     "Median instantanous frequency": 107.99,
-    "internalID": "A13_MM_A3_C04"
+    "internalID": "A13_MM_A3_C04",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 1959201,
@@ -3201,7 +4531,12 @@
     "Time Constant": 86.89,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 65.19,
-    "internalID": "A13_MM_A4_C05"
+    "internalID": "A13_MM_A4_C05",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 5205007,
@@ -3213,7 +4548,12 @@
     "Time Constant": 85.39,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 24.31,
-    "internalID": "A13_MM_A5_C06"
+    "internalID": "A13_MM_A5_C06",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2257778,
@@ -3225,7 +4565,12 @@
     "Time Constant": 72.49,
     "Maximum firing rate": 7,
     "Median instantanous frequency": 16.11,
-    "internalID": "A13_MM_A6_C07"
+    "internalID": "A13_MM_A6_C07",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 3692362,
@@ -3237,7 +4582,12 @@
     "Time Constant": 90.79,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 27.26,
-    "internalID": "A13_MM_B1_C08"
+    "internalID": "A13_MM_B1_C08",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 6644300,
@@ -3249,7 +4599,12 @@
     "Time Constant": 89.84,
     "Maximum firing rate": 1,
     "Median instantanous frequency": 34.13,
-    "internalID": "A13_MM_B2_C09"
+    "internalID": "A13_MM_B2_C09",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 9740115,
@@ -3261,7 +4616,12 @@
     "Time Constant": 80.63,
     "Maximum firing rate": 17,
     "Median instantanous frequency": 21.03,
-    "internalID": "A13_MM_B3_C10"
+    "internalID": "A13_MM_B3_C10",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8583490,
@@ -3273,7 +4633,12 @@
     "Time Constant": 85.78,
     "Maximum firing rate": 4,
     "Median instantanous frequency": 43.27,
-    "internalID": "A13_MM_B4_C11"
+    "internalID": "A13_MM_B4_C11",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 8712866,
@@ -3285,7 +4650,12 @@
     "Time Constant": 74.93,
     "Maximum firing rate": 28,
     "Median instantanous frequency": 26.92,
-    "internalID": "M17_MM_A1_C03"
+    "internalID": "M17_MM_A1_C03",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 9838314,
@@ -3297,7 +4667,12 @@
     "Time Constant": 89.57,
     "Maximum firing rate": 22,
     "Median instantanous frequency": 20.81,
-    "internalID": "M17_MM_A1_C06"
+    "internalID": "M17_MM_A1_C06",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7861316,
@@ -3309,7 +4684,12 @@
     "Time Constant": 62.46,
     "Maximum firing rate": 201,
     "Median instantanous frequency": 167.79,
-    "internalID": "M17_MM_A1_C07"
+    "internalID": "M17_MM_A1_C07",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 3445257,
@@ -3321,7 +4701,12 @@
     "Time Constant": 105.37,
     "Maximum firing rate": 22,
     "Median instantanous frequency": 22.54,
-    "internalID": "M17_MM_A1_C08"
+    "internalID": "M17_MM_A1_C08",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 9899854,
@@ -3333,7 +4718,12 @@
     "Time Constant": 88.79,
     "Maximum firing rate": 21,
     "Median instantanous frequency": 20.52,
-    "internalID": "M17_MM_A1_C09"
+    "internalID": "M17_MM_A1_C09",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 5218722,
@@ -3345,7 +4735,12 @@
     "Time Constant": 88.17,
     "Maximum firing rate": 2,
     "Median instantanous frequency": 141.04,
-    "internalID": "M17_MM_A1_C11"
+    "internalID": "M17_MM_A1_C11",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 7328945,
@@ -3357,7 +4752,12 @@
     "Time Constant": 84.05,
     "Maximum firing rate": 12,
     "Median instantanous frequency": 11.7,
-    "internalID": "M17_MM_A1_C12"
+    "internalID": "M17_MM_A1_C12",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   },
   {
     "cellID": 2288905,
@@ -3369,6 +4769,11 @@
     "Time Constant": 76.9,
     "Maximum firing rate": 154,
     "Median instantanous frequency": 136.24,
-    "internalID": "M17_MM_A1_C13"
+    "internalID": "M17_MM_A1_C13",
+    "Species": "Callithrix jacchus",
+    "Sex": "NA",
+    "Cortical area": "PFC",
+    "Dendrite type": "",
+    "Cortical layer": ""
   }
 ]

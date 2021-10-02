@@ -35,6 +35,7 @@
 	<script src="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.js"></script>
 	<script
 		src="https://unpkg.com/bootstrap-table@1.15.5/dist/extensions/export/bootstrap-table-export.min.js"></script>
+	<script src="https://unpkg.com/bootstrap-table@1.15.5/dist/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
 
 
 	<!-- NAV BAR AND HEADING -->
@@ -227,6 +228,22 @@
 								return Math.log10(row[key]);
 							});
 						}
+						function catunpack(rows, key) {
+							let arr_lab = rows.map(function (row) {
+								return row[key];
+							});
+							let unique = arr_lab.filter((item, i, ar) => ar.indexOf(item) === i);
+							return rows.map(function (row) {
+								return unique.indexOf(row[key])
+							});
+						}
+						function catlabel(rows, key) {
+							let arr_lab = rows.map(function (row) {
+								return row[key];
+							});
+							let unique = arr_lab.filter((item, i, ar) => ar.indexOf(item) === i);
+							return unique;
+						}
 						const range = (start, stop, step = 1) =>
   								Array(Math.ceil((stop - start) / step)).fill(start).map((x, y) => x + y * step)
 						const logrange = (start, stop, step = 1) =>
@@ -240,11 +257,14 @@
 								color: unpack(rows, 'AP halfwidth')
 							},
 
-							dimensions: [{
+							dimensions: [
+							
+							{
 								range: [0, 5],
 								label: 'AP halfwidth',
 								values: unpack(rows, 'AP halfwidth')
-							}, {
+							},
+							{
 								range: [0, 120],
 								label: 'AP amplitude',
 								values: unpack(rows, 'AP amplitude')
@@ -268,11 +288,22 @@
 								label: 'Maximum firing rate',
 								range: [0, 400],
 								values: unpack(rows, 'Maximum firing rate')
+							},{
+								label: 'Species',
+								tickvals: [0,1, 2],
+								ticktext: catlabel(rows, 'Species'),
+								values: catunpack(rows, 'Species')
+							},
+							{
+								label: 'Cortical area',
+								tickvals: [0,1,2,3,4,5],
+								ticktext: catlabel(rows, 'Cortical area'),
+								values: catunpack(rows, 'Cortical area')
 							}]
 						}];
 
 						var layout = {
-							width: 1300
+							width: 1500
 						};
 
 						Plotly.newPlot('graphDiv', data, layout, { displaylogo: false }, { responsive: true });
@@ -446,19 +477,23 @@
 					<thead>
 						<tr>
 							<th data-field="state" data-checkbox="true" rowspan="2"></th>
-							<th data-field="cellID" data-sortable="true" data-formatter="nameFormatter" rowspan="2">Cell
+							<th data-field="cellID" data-sortable="true" data-formatter="nameFormatter" rowspan="2" data-filter-control="select">Cell
 								ID</th>
 							<th data-field="preview" data-formatter="imageFormatter" rowspan="2" data-valign="middle">
 							</th>
-							<th colspan="7"></th>
-							<th data-field="link" data-formatter="linkFormatter" rowspan="2" data-halign="center">Link
+							<th colspan="9"></th>
+							<th data-field="link" data-formatter="linkFormatter" rowspan="2" data-halign="center" data-filter-control="select">Link
 							</th>
 							<th data-field="Morphology" data-sortable="true" data-formatter="morphFormatter" rowspan="2"
 								data-valign="right">Morphology</th>
-							<th data-field="internalID" data-sortable="false" data-formatter="reportFormatter"
-								rowspan="2" data-valign="right"></th>
+							<!--<th data-field="internalID" data-sortable="false" data-formatter="reportFormatter"
+								rowspan="2" data-valign="right"></th>-->
 						</tr>
 						<tr>
+							<th data-field="Species" data-formatter="nameFormatter" data-sortable="true" data-filter-control="select">Species
+							</th>
+							<th data-field="Cortical area" data-formatter="nameFormatter" data-sortable="true" data-filter-control="select">Cortical area
+							</th>
 							<th data-field="AP halfwidth" data-formatter="nameFormatter" data-sortable="true">Half Width
 							</th>
 							<th data-field="AP amplitude" data-formatter="nameFormatter" data-sortable="true">Amplitude
@@ -667,8 +702,7 @@
 
 
 							var layout = {
-								width: 950,
-								height: 500,
+								
 								yaxis: {
 									title: "mV",
 								},       // set the y axis title
