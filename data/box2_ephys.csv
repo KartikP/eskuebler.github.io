@@ -1,4 +1,4 @@
-cellID,AP halfwidth,AP amplitude,Resting potential,Rheobase,Resistance,Time Constant,Maximum firing rate,Median instantanous frequency,internalID,Species,Sex,Cortical area,Dendrite type,Cortical layer
+cellID,AP halfwidth,AP amplitude,Resting potential,Rheobase,Resistance,Time Constant,Maximum firing rate,Median instantanous freq.,internalID,Species,Sex,Cortical area,Dendrite type,Cortical layer
 3128918,0.8,48.71,-58.77,130,230.95,20.7,12,124.22,M01_CN_A1_C02,macaca mulatta,NA,PFC,A,3
 6193639,0.8,56.83,-55,50,278.98,24.9,108,92.59,M01_CN_A4_C10,macaca mulatta,NA,PFC,NA,NA
 2897488,0.7,59.59,-53.62,30,227.94,25.03,89,83.33,M01_CN_A4_C12,macaca mulatta,NA,PFC,NA,NA
