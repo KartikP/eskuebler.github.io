@@ -207,18 +207,19 @@
 			</center>
 		</div>
 	</div>
-	<div class="collapse multi-collapse" id="ScatterFilter">
+	<div class="multi-collapse" id="ScatterFilter">
 		<div class="card card-body" style="width: 100%">
 			<center>
-				<div id="graphDiv"></div>
+				<div class="row">
 
+  				<div class="col-lg-12">
+
+				<div id="graphDiv" ></div></div>
+				</div>
 
 				<!-- PARACOORDS -->
 				<script>
-
-					Plotly.d3.csv('data/box2_ephys.csv', function (err, rows) {
-
-						function unpack(rows, key) {
+					function unpack(rows, key) {
 							return rows.map(function (row) {
 								return row[key];
 							});
@@ -243,7 +244,10 @@
 							});
 							let unique = arr_lab.filter((item, i, ar) => ar.indexOf(item) === i);
 							return unique;
-						}
+						}	
+					Plotly.d3.csv('data/box2_ephys.csv', function (err, rows) {
+
+						
 						const range = (start, stop, step = 1) =>
   								Array(Math.ceil((stop - start) / step)).fill(start).map((x, y) => x + y * step)
 						const logrange = (start, stop, step = 1) =>
@@ -258,7 +262,12 @@
 							},
 
 							dimensions: [
-							
+								{
+								label: 'Species',
+								tickvals: [0,1, 2],
+								ticktext: catlabel(rows, 'Species'),
+								values: catunpack(rows, 'Species')
+							},
 							{
 								range: [0, 5],
 								label: 'AP halfwidth',
@@ -288,11 +297,6 @@
 								label: 'Maximum firing rate',
 								range: [0, 400],
 								values: unpack(rows, 'Maximum firing rate')
-							},{
-								label: 'Species',
-								tickvals: [0,1, 2],
-								ticktext: catlabel(rows, 'Species'),
-								values: catunpack(rows, 'Species')
 							},
 							{
 								label: 'Cortical area',
@@ -303,7 +307,9 @@
 						}];
 
 						var layout = {
-							width: 1500
+							autosize: true,
+							width: 1900,
+							margin: { r: 300, l:300 },
 						};
 
 						Plotly.newPlot('graphDiv', data, layout, { displaylogo: false }, { responsive: true });
@@ -620,19 +626,30 @@
 						jQuery.get("data/box2_ephys.json").done(function (data) {
 							var ids = []
 							var fildata = data
+							var spenc = catunpack(data, 'Species')
+							var areaenc = catunpack(data, 'Cortical area')
+							data.map(function (obj, i){
+								obj['speciesenc'] = spenc[i]
+								obj['areaenc'] = areaenc[i]
+							})
 							var newArray = data.filter(function (el) {
-								return el['AP halfwidth'] <= ranges[0][1] &&
-									el['AP halfwidth'] >= ranges[0][0] &&
-									el['AP amplitude'] <= ranges[1][1] &&
-									el['AP amplitude'] >= ranges[1][0] &&
-									el['Rheobase'] <= ranges[2][1] &&
-									el['Rheobase'] >= ranges[2][0] &&
-									el['Resistance'] <= (10**ranges[3][1]) &&
-									el['Resistance'] >= (10**ranges[3][0]) &&
-									el['Time Constant'] <= (10**ranges[4][1]) &&
-									el['Time Constant'] >= (10**ranges[4][0]) &&
-									el['Maximum firing rate'] <= ranges[5][1] &&
-									el['Maximum firing rate'] >= ranges[5][0];
+								
+								return el['speciesenc'] <= ranges[0][1] &&
+									el['speciesenc'] >= ranges[0][0] &&
+									el['AP halfwidth'] <= ranges[1][1] &&
+									el['AP halfwidth'] >= ranges[1][0] &&
+									el['AP amplitude'] <= ranges[2][1] &&
+									el['AP amplitude'] >= ranges[2][0] &&
+									el['Rheobase'] <= ranges[3][1] &&
+									el['Rheobase'] >= ranges[3][0] &&
+									el['Resistance'] <= (10**ranges[4][1]) &&
+									el['Resistance'] >= (10**ranges[4][0]) &&
+									el['Time Constant'] <= (10**ranges[5][1]) &&
+									el['Time Constant'] >= (10**ranges[5][0]) &&
+									el['Maximum firing rate'] <= ranges[6][1] &&
+									el['Maximum firing rate'] >= ranges[6][0] &&
+									el['areaenc'] <= ranges[7][1] &&
+									el['areaenc'] >= ranges[7][0];;
 
 							});
 							let result = newArray.map(function (a) { return a['cellID']; });
