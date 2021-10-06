@@ -568,7 +568,7 @@
 
 					function detailFormatter(index, row) {
 						var html = []
-						var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.cellID + ".csv"
+						var url = "https://ptcd-traces.s3.us-east-2.amazonaws.com/" + row.cellID + ".csv"
 						var plot_bool = doesFileExist(url)
 						//html.push('<center>')
 						html.push('<div class="row">')
@@ -692,7 +692,7 @@
 						return ids;
 					}
 					function maketrace(row) {
-						var url = "https://lptraces.s3-us-west-2.amazonaws.com/" + row.cellID + ".csv"
+						var url = "https://ptcd-traces.s3.us-east-2.amazonaws.com/" + row.cellID + ".csv"
 						Plotly.d3.csv(url, function (rows) {
 							data = []
 							var i = 1
