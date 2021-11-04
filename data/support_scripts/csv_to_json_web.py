@@ -3,7 +3,7 @@ import pandas as pd
 import json
 def main():
     #glob the csvs
-    csvs = glob.glob("data//*.csv")
+    csvs = glob.glob("*.csv")
     for f in csvs:
         filename = f.split('.')[0]
         df = pd.read_csv(f)
