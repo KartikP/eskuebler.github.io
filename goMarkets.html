@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="webpage to host information about Eric Kuebler">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Eric Kuebler, data science, statistics, research analysis">
+    <title>Eric Kuebler Resume</title>
+    <link rel="shortcut icon" type="image/jpg" href="static/UntitledFavIcon.jpg"/>
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+    </head>
+    <body>
+        <header class="p-3 bg-dark text-white">
+        <div class="container">
+            <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+            <h1>Eric Kuebler</h1>
+            <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+                <li><a href="https://github.com/eskuebler" class="nav-link px-4 text-white">GitHub</a></li>
+                <li><a href="goMarkets.html" class="nav-link px-2 text-white">goMarkets</a></li>
+                <!-- <li><a href="#" class="nav-link px-2 text-white">webspace</a></li>
+                <li><a href="#" class="nav-link px-2 text-white">FAQs</a></li>
+                <li><a href="#" class="nav-link px-2 text-white">About</a></li> -->
+            </ul>
+            <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3">
+                <!-- <input type="search" class="form-control form-control-dark" placeholder="Search..." aria-label="Search"> -->
+            </form>
+            <div class="text-end">
+                <a href="static/resume.pdf" class="btn btn-outline-light me-2">resume</a>
+                <a href="static/cv.pdf" class="btn btn-outline-light me-2">vitae</a>
+            </div>
+            </div>
+        </div>
+        </header>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+        
+        <div>
+            <canvas class="my-4 w-100 chartjs-render-monitor" id="myChart" width="264" height="111" style="display: block; width: 264px; height: 111px;"></canvas>
+        </div>
+        <script>
+            var xValues = [100,200,300,400,500,600,700,800,900,1000];
+
+            new Chart("myChart", {
+            type: "line",
+            data: {
+                labels: xValues,
+                datasets: [{
+                data: [860,1140,1060,1060,1070,1110,1330,2210,7830,2478],
+                borderColor: "red",
+                fill: false
+                },{
+                data: [1600,1700,1700,1900,2000,2700,4000,5000,6000,7000],
+                borderColor: "green",
+                fill: false
+                },{
+                data: [300,700,2000,5000,6000,4000,2000,1000,200,100],
+                borderColor: "blue",
+                fill: false
+                }]
+            },
+            options: {
+                legend: {display: false}
+            }
+            });
+        </script>
+    </body>
+</html>
